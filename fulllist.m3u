@@ -5213,7 +5213,7 @@ http://kytv.xyz:80/wesley232/3322445/2379436.ts
 http://kytv.xyz:80/wesley232/3322445/1621092.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA STARZPLAY 5" tvg-logo="https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/web3/resources/images/starzplay.png" group-title="USA MOVIES",USA STARZPLAY 5
 http://kytv.xyz:80/wesley232/3322445/2760097.ts
-#EXTINF:-1 tvg-id="dummy-1714318" tvg-name="USA FILMRISE WESTERN" tvg-logo="http://23.227.147.172:80/images/a7f63cebaf1fe5bf2d4752cd1926cff2.png" group-title="USA MOVIES",USA FILMRISE WESTERN
+#EXTINF:-1 tvg-id="filmrisewestern.us" tvg-name="USA FILMRISE WESTERN" tvg-logo="http://23.227.147.172:80/images/a7f63cebaf1fe5bf2d4752cd1926cff2.png" group-title="USA MOVIES",USA FILMRISE WESTERN
 http://kytv.xyz:80/wesley232/3322445/2856382.ts
 #EXTINF:-1 tvg-id="fcm.us" tvg-name="USA FAMILY MOVIE CLASSICS" tvg-logo="" group-title="USA MOVIES",USA FAMILY MOVIE CLASSICS
 http://kytv.xyz:80/wesley232/3322445/2871925.ts
@@ -5273,7 +5273,7 @@ http://kytv.xyz:80/wesley232/3322445/3124015.ts
 http://kytv.xyz:80/wesley232/3322445/3127125.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA STARZPLAY 4" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="USA MOVIES",USA STARZPLAY 4
 http://kytv.xyz:80/wesley232/3322445/3127126.ts
-#EXTINF:-1 tvg-id="dummy-1714305" tvg-name="USA FILMRISE BLACK TV" tvg-logo="http://172.110.220.61:80/images/a7f63cebaf1fe5bf2d4752cd1926cff2.png" group-title="USA MOVIES",USA FILMRISE BLACK TV
+#EXTINF:-1 tvg-id="filmriseblacktv.us" tvg-name="USA FILMRISE BLACK TV" tvg-logo="http://172.110.220.61:80/images/a7f63cebaf1fe5bf2d4752cd1926cff2.png" group-title="USA MOVIES",USA FILMRISE BLACK TV
 http://kytv.xyz:80/wesley232/3322445/3157533.ts
 #EXTINF:-1 tvg-id="Moviesphere.uk" tvg-name="USA MOVIESPHERE BY LIONSGATE" tvg-logo="" group-title="USA MOVIES",USA MOVIESPHERE BY LIONSGATE
 http://kytv.xyz:80/wesley232/3322445/3158501.ts
@@ -5359,7 +5359,7 @@ http://kytv.xyz:80/wesley232/3322445/3195642.ts
 http://kytv.xyz:80/wesley232/3322445/176068.ts
 #EXTINF:-1 tvg-id="starz.us" tvg-name="USA STARZ EAST" tvg-logo="https://starz.imgix.net/BuyStarz/international/sz-logo-2x.png?auto=compress,format" group-title="USA MOVIES",USA STARZ EAST
 http://kytv.xyz:80/wesley232/3322445/176071.ts
-#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="USA HALLMARK" tvg-logo="http://185.193.88.130:80/images/8f2114e79ee233d0b0d5ad7582d43465.png" group-title="USA MOVIES",USA HALLMARK
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA HALLMARK" tvg-logo="http://185.193.88.130:80/images/8f2114e79ee233d0b0d5ad7582d43465.png" group-title="USA MOVIES",USA HALLMARK
 http://kytv.xyz:80/wesley232/3322445/1788775.ts
 #EXTINF:-1 tvg-id="cinevaultwesterns.us" tvg-name="USA CINEVAULT WESTERNS" tvg-logo="http://185.193.88.130:80/images/d646d57cd5f704597b88557c22e76c1b.png" group-title="USA MOVIES",USA CINEVAULT WESTERNS
 http://kytv.xyz:80/wesley232/3322445/1777690.ts
@@ -5387,11 +5387,11 @@ http://kytv.xyz:80/wesley232/3322445/359432.ts
 http://kytv.xyz:80/wesley232/3322445/229025.ts
 #EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="USA LIFETIME MOVIES" tvg-logo="http://185.193.88.130:80/images/f14292ea8ac519f26ec1f1934312c477.png" group-title="USA MOVIES",USA LIFETIME MOVIES
 http://kytv.xyz:80/wesley232/3322445/176369.ts
-#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="USA HALLMARK MOVIES & MYSTERIES" tvg-logo="http://23.227.147.172:80/images/5c1276ce90fd2fef9da590adbd744ff0.jpg" group-title="USA MOVIES",USA HALLMARK MOVIES & MYSTERIES
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA HALLMARK MOVIES & MYSTERIES" tvg-logo="http://23.227.147.172:80/images/5c1276ce90fd2fef9da590adbd744ff0.jpg" group-title="USA MOVIES",USA HALLMARK MOVIES & MYSTERIES
 http://kytv.xyz:80/wesley232/3322445/175871.ts
-#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="USA HALLMARK MOVIES & MYSTERIES" tvg-logo="http://172.110.220.61:80/images/b216a8c24d55f9dcafdd739fb3b04479.png" group-title="USA MOVIES",USA HALLMARK MOVIES & MYSTERIES
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA HALLMARK MOVIES & MYSTERIES" tvg-logo="http://172.110.220.61:80/images/b216a8c24d55f9dcafdd739fb3b04479.png" group-title="USA MOVIES",USA HALLMARK MOVIES & MYSTERIES
 http://kytv.xyz:80/wesley232/3322445/175870.ts
-#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="USA HALLMARK DRAMA (HALLMARK FAMILY)" tvg-logo="http://172.110.220.61:80/images/fc3c0fe6b9d10e6b0c4ef340b4da3f6f.png" group-title="USA MOVIES",USA HALLMARK DRAMA (HALLMARK FAMILY)
+#EXTINF:-1 tvg-id="hallmarkdrama.us" tvg-name="USA HALLMARK DRAMA (HALLMARK FAMILY)" tvg-logo="http://172.110.220.61:80/images/fc3c0fe6b9d10e6b0c4ef340b4da3f6f.png" group-title="USA MOVIES",USA HALLMARK DRAMA (HALLMARK FAMILY)
 http://kytv.xyz:80/wesley232/3322445/175866.ts
 #EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="USA STARZ ENCORE ACTION" tvg-logo="http://23.227.147.172:80/images/3dd9841fa1827fa26ba7368ce3d0d9bd.png" group-title="USA MOVIES",USA STARZ ENCORE ACTION
 http://kytv.xyz:80/wesley232/3322445/176072.ts
@@ -5419,7 +5419,7 @@ http://kytv.xyz:80/wesley232/3322445/176082.ts
 http://kytv.xyz:80/wesley232/3322445/176084.ts
 #EXTINF:-1 tvg-id="sundancetv.us" tvg-name="USA SUNDANCE" tvg-logo="http://172.110.220.61:80/images/a98c685117f20ad990629d650e8dbda3.png" group-title="USA MOVIES",USA SUNDANCE
 http://kytv.xyz:80/wesley232/3322445/176085.ts
-#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="USA HALLMARK" tvg-logo="http://172.110.220.61:80/images/4213e199f29e2b4dc0e525dc573dd4f7.png" group-title="USA MOVIES",USA HALLMARK
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA HALLMARK" tvg-logo="http://172.110.220.61:80/images/4213e199f29e2b4dc0e525dc573dd4f7.png" group-title="USA MOVIES",USA HALLMARK
 http://kytv.xyz:80/wesley232/3322445/175864.ts
 #EXTINF:-1 tvg-id="360north.us" tvg-name="USA STARZ ENCORE SUSPENSE" tvg-logo="http://23.227.147.172:80/images/2ea4f440d12d08efea97d592167cf663.png" group-title="USA MOVIES",USA STARZ ENCORE SUSPENSE
 http://kytv.xyz:80/wesley232/3322445/176079.ts
@@ -5429,7 +5429,7 @@ http://kytv.xyz:80/wesley232/3322445/3195641.ts
 http://kytv.xyz:80/wesley232/3322445/175787.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA WESTERN BOUND" tvg-logo="https://logo.m3uassets.com/westerntv.png" group-title="USA MOVIES",USA WESTERN BOUND
 http://kytv.xyz:80/wesley232/3322445/3195640.ts
-#EXTINF:-1 tvg-id="dummy-2041752" tvg-name="USA FILMRISE COMEDY" tvg-logo="http://23.227.147.172:80/images/a7f63cebaf1fe5bf2d4752cd1926cff2.png" group-title="USA MOVIES",USA FILMRISE COMEDY
+#EXTINF:-1 tvg-id="filmrisecomedy.us" tvg-name="USA FILMRISE COMEDY" tvg-logo="http://23.227.147.172:80/images/a7f63cebaf1fe5bf2d4752cd1926cff2.png" group-title="USA MOVIES",USA FILMRISE COMEDY
 http://kytv.xyz:80/wesley232/3322445/3204855.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA MC | HOLIDAY YULE LOGS" tvg-logo="http://185.193.88.130:80/images/995623c1a9f3f4ac2c22580f7b96cb50.png" group-title="USA MUSIC",USA MC | HOLIDAY YULE LOGS
 http://kytv.xyz:80/wesley232/3322445/177093.ts
