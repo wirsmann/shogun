@@ -313,7 +313,7 @@ http://kytv.xyz:80/wesley232/3322445/182204.ts
 http://kytv.xyz:80/wesley232/3322445/182213.ts
 #EXTINF:-1 tvg-id="newsnation.us" tvg-name="CA WGN" tvg-logo="http://172.110.220.61:80/images/a2323e2287877d3e7705fed35b6cc332.png" group-title="CANADA GENERAL",CA WGN
 http://kytv.xyz:80/wesley232/3322445/182215.ts
-#EXTINF:-1 tvg-id="citytvsaskatchewan.ca" tvg-name="CA CITY TV SASKATCHEWAN" tvg-logo="" group-title="CANADA GENERAL",CA CITY TV SASKATCHEWAN
+#EXTINF:-1 tvg-id="citytvsaskatchewan.ca" tvg-name="CA CITY SASKATCHEWAN" tvg-logo="" group-title="CANADA GENERAL",CA CITY SASKATCHEWAN
 http://kytv.xyz:80/wesley232/3322445/3216708.ts
 #EXTINF:-1 tvg-id="globalkingston.ca" tvg-name="CA GLOBAL KINGSTON" tvg-logo="http://185.193.88.130:80/images/11bbec0e28e7ee55f02ab0d9082d8f7c.png" group-title="CANADA GENERAL",CA GLOBAL KINGSTON
 http://kytv.xyz:80/wesley232/3322445/1754105.ts
@@ -6701,8 +6701,6 @@ http://kytv.xyz:80/wesley232/3322445/715673.ts
 http://kytv.xyz:80/wesley232/3322445/2294683.ts
 #EXTINF:-1 tvg-id="TBS(Pacific).us" tvg-name="USA TBS WEST" tvg-logo="http://185.193.88.130:80/images/984ed04069db654d1e735e04541aeb6e.png" group-title="#FAVS",USA TBS WEST
 http://kytv.xyz:80/wesley232/3322445/2781958.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN CA 08: DRIFT MASTERS IRELAND: QUALIFYING @ JUN 13 08:25 AM ET" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d2nj86es4flusr7sdt212quks_image-header_pRow_1747824741000/fill/center/top/none/85/800/600/png/image" group-title="#FAVS",DAZN CA 08: DRIFT MASTERS IRELAND: QUALIFYING @ JUN 13 08:25 AM ET
-http://kytv.xyz:80/wesley232/3322445/3091994.ts
 #EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA CP24" tvg-logo="http://172.110.220.61:80/images/2ccb4a306b67564c268f25f5c156f88a.png" group-title="#FAVS",CA CP24
 http://kytv.xyz:80/wesley232/3322445/181834.ts
 #EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CA CARTOON NETWORK" tvg-logo="http://172.110.220.61:80/images/cde35ab1bb99263f8a1653295a95daec.png" group-title="#FAVS",CA CARTOON NETWORK
