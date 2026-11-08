@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -File C:\GitHub\shogun\gitScript.ps1

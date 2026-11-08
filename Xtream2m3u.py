@@ -14,7 +14,8 @@ everything in one file). Any file over --max-mb (default 95, under GitHub's
 100 MB limit) is split into _part2, _part3...
 
 By default live TV is filtered to US, Canada, UK and sports groups, and
-adult content is removed everywhere (--keep-adult keeps it). Groups starting with a code in
+adult categories are removed everywhere (--keep-adult keeps them). Only
+category names are checked, not channel or title names. Groups starting with a code in
 DEFAULT_EXCLUDE (AR, FR, DE, AU, ...) are always dropped, even sports, and so
 are Canadian French groups ("CA| ... FR"). Names are tidied: "EN" is dropped
 from the end of group names and NAME_PREFIXES ("US:", "CA EN:", ...) from
@@ -548,8 +549,10 @@ def main():
     p.add_argument("--no-epg", action="store_true", help="Don't download the TV guide")
     a = p.parse_args()
 
-    def adult(*texts, flag=None):
-        return False if a.keep_adult else is_adult(*texts, flag=flag)
+    def adult(group):
+        # Adult categories are removed; channel/movie/show names are never checked,
+        # so e.g. "Dirty Sexy Money" in a normal category is kept
+        return False if a.keep_adult else is_adult(group)
     wanted = [c.strip().lower() for c in a.countries.split(",") if c.strip()]
     drop = [c.strip().lower() for c in a.exclude.split(",") if c.strip()]
     if a.no_uk:
@@ -610,8 +613,10 @@ def main():
     movie_lines = ["#EXTM3U"]
     series_lines = ["#EXTM3U"]
     adult_lines = ["#EXTM3U"]    # only filled with --keep-adult
+    movie_tag = series_tag = ""  # group prefix, only needed when everything shares one file
     if a.single:                 # everything into the one file
         movie_lines = series_lines = adult_lines = lines
+        movie_tag, series_tag = "Movies: ", "Series: "
     q = urllib.parse.quote
     U, P = q(u, safe=""), q(pw, safe="")
 
@@ -623,11 +628,11 @@ def main():
     for s in live:
         name = clean(s.get("name"))
         group = cats.get(str(s.get("category_id")), "Live")
-        if adult(name, group, flag=s.get("is_adult")):
+        if adult(group):  # adult filtering looks at the category only
             continue
         if is_separator(name):
             continue
-        if not keep_live(group) and not (a.keep_adult and is_adult(name, group, flag=s.get("is_adult"))):
+        if not keep_live(group) and not (a.keep_adult and is_adult(group)):
             continue
         key = (group.lower(), name.lower())
         if key in seen:  # drop exact duplicates
@@ -638,7 +643,7 @@ def main():
         if group.upper() in game_groups:  # guide made from the channel name
             tvg_id = f"game.{s['stream_id']}"
             game_chans.append((tvg_id, show, s.get("stream_icon"), game_groups[group.upper()]))
-        out = adult_lines if is_adult(name, group, flag=s.get("is_adult")) else lines
+        out = adult_lines if is_adult(group) else lines
         out.append(extinf(show, tidy_group(group), s.get("stream_icon"), tvg_id))
         out.append(f"{base}/live/{U}/{P}/{s['stream_id']}.{a.format}")
         if s.get("epg_channel_id") and tvg_id == s.get("epg_channel_id"):
@@ -658,11 +663,11 @@ def main():
             group = cats.get(cid, "Other")
             if cats and cid not in good:
                 continue
-            if adult(s.get("name"), group, flag=s.get("is_adult")):
+            if adult(group):
                 continue
             ext = s.get("container_extension") or "mp4"
-            out = adult_lines if is_adult(s.get("name"), group, flag=s.get("is_adult")) else movie_lines
-            out.append(extinf(s.get("name"), "Movies: " + tidy_group(group), s.get("stream_icon")))
+            out = adult_lines if is_adult(group) else movie_lines
+            out.append(extinf(s.get("name"), movie_tag + tidy_group(group), s.get("stream_icon")))
             out.append(f"{base}/movie/{U}/{P}/{s['stream_id']}.{ext}")
             kept += 1
         print(f"Movies: kept {kept} of {len(vod)}")
@@ -676,7 +681,7 @@ def main():
         # Filter first, so we only ask for episodes of shows we keep
         wanted_shows = [sh for sh in shows
                         if (not cats or str(sh.get("category_id")) in good)
-                        and not adult(sh.get("name"), cats.get(str(sh.get("category_id")), ""))]
+                        and not adult(cats.get(str(sh.get("category_id")), ""))]
         print(f"Series: fetching episodes for {len(wanted_shows)} of {len(shows)} shows "
               f"({a.workers} at a time)")
 
@@ -697,8 +702,8 @@ def main():
                     failed += 1
                     continue
                 cat_name = cats.get(str(show.get("category_id")), "Other")
-                group = "Series: " + tidy_group(cat_name)
-                out = adult_lines if is_adult(show.get("name"), cat_name) else series_lines
+                group = series_tag + tidy_group(cat_name)
+                out = adult_lines if is_adult(cat_name) else series_lines
                 eps = detail.get("episodes") or {}
                 if isinstance(eps, list):  # some panels return a list instead of a dict
                     eps = {str(n): e for n, e in enumerate(eps)}
