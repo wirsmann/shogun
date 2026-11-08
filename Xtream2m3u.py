@@ -9,10 +9,9 @@ Usage:
 
 Live TV goes to playlist.m3u (-o to rename). Movies, series and adult content
 (--movies, --series, --keep-adult) go to separate files next to it:
-playlist_movies.m3u, playlist_adult.m3u, and one file per series category,
-e.g. playlist_series_netflix_series.m3u (--single puts everything in one
-file). Any file over --max-mb (default 24, for GitHub) is split into
-_part2, _part3...
+playlist_movies.m3u, playlist_series.m3u, playlist_adult.m3u (--single puts
+everything in one file). Any file over --max-mb (default 95, under GitHub's
+100 MB limit) is split into _part2, _part3...
 
 By default live TV is filtered to US, Canada, UK and sports groups, and
 adult content is removed everywhere (--keep-adult keeps it). Groups starting with a code in
@@ -37,13 +36,11 @@ Only uses the Python standard library - nothing to install.
 import argparse
 import concurrent.futures
 import datetime
-import glob
 import gzip
 import json
 import os
 import re
 import sys
-import unicodedata
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -543,8 +540,8 @@ def main():
                    help="Don't remove adult channels, movies and series")
     p.add_argument("--single", action="store_true",
                    help="Put everything in one .m3u instead of separate movies/series/adult files")
-    p.add_argument("--max-mb", type=float, default=24,
-                   help="Split any .m3u bigger than this into _part2, _part3... (default 24, for GitHub)")
+    p.add_argument("--max-mb", type=float, default=95,
+                   help="Split any .m3u bigger than this into _part2, _part3... (default 95; GitHub's limit is 100)")
     p.add_argument("--list-categories", action="store_true",
                    help="Save all category names to categories.txt (KEEP/DROP) and stop")
     p.add_argument("--epg-file", default="EPG.xml", help="Where to save the TV guide (default EPG.xml)")
@@ -609,7 +606,6 @@ def main():
         print("Saved categories.txt")
         return
 
-    series_by_cat = {}           # category -> list of shows (each a list of lines)
     lines = ["#EXTM3U"]          # live TV
     movie_lines = ["#EXTM3U"]
     series_lines = ["#EXTM3U"]
@@ -702,13 +698,7 @@ def main():
                     continue
                 cat_name = cats.get(str(show.get("category_id")), "Other")
                 group = "Series: " + tidy_group(cat_name)
-                if is_adult(show.get("name"), cat_name):
-                    out = adult_lines
-                elif a.single:
-                    out = series_lines
-                else:  # one file per category; keep each show's episodes together
-                    out = []
-                    series_by_cat.setdefault(cat_name, []).append(out)
+                out = adult_lines if is_adult(show.get("name"), cat_name) else series_lines
                 eps = detail.get("episodes") or {}
                 if isinstance(eps, list):  # some panels return a list instead of a dict
                     eps = {str(n): e for n, e in enumerate(eps)}
@@ -752,15 +742,6 @@ def main():
     def pairs(items):  # ["#EXTM3U", info, url, info, url...] -> [[info, url], ...]
         return [items[i:i + 2] for i in range(1, len(items), 2)]
 
-    def slug(text):
-        text = unicodedata.normalize("NFKC", str(text))  # "⁴ᴷ" -> "4K"
-        out = []
-        for ch in text:  # small-capital letters like "ᶦ" -> "i"
-            m = None if ch.isascii() else re.search(r"LETTER (?:SMALL )?(?:CAPITAL )?([A-Z])$",
-                                                     unicodedata.name(ch, ""))
-            out.append(m.group(1) if m else ch)
-        return re.sub(r"[^a-z0-9]+", "_", "".join(out).lower()).strip("_") or "other"
-
     stem, ext = os.path.splitext(a.output)
     ext = ext or ".m3u"
     save_m3u(a.output, pairs(lines))
@@ -768,17 +749,7 @@ def main():
         if a.movies:
             save_m3u(f"{stem}_movies{ext}", pairs(movie_lines))
         if a.series:
-            # Clear series files from earlier runs so old categories don't linger
-            for old in glob.glob(glob.escape(stem) + "_series_*" + ext):
-                os.remove(old)
-            used = set()
-            for cat in sorted(series_by_cat, key=str.upper):
-                name = slug(tidy_group(cat))
-                while name in used:
-                    name += "_2"
-                used.add(name)
-                save_m3u(f"{stem}_series_{name}{ext}", series_by_cat[cat])
-            print(f"Series: {len(series_by_cat)} category files")
+            save_m3u(f"{stem}_series{ext}", pairs(series_lines))
         if a.keep_adult:
             save_m3u(f"{stem}_adult{ext}", pairs(adult_lines))
 

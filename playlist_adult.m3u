@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Next | BL: Highlights XXL-KOE - B04, 9. Spieltag | all | 08-11-2026 | 17:30 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 71" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="DE| SOCCER PPV",Next | BL: Highlights XXL-KOE - B04, 9. Spieltag | all | 08-11-2026 | 17:30 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 71
-http://cf.business-cloud-8.ru/live/287f73cfff7d/1f3b453c63/1918806.ts
-#EXTINF:-1 tvg-id="" tvg-name="Next | BL: Highlights XXL-SCF - FCU, 9. Spieltag | all | 08-11-2026 | 19:30 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 81" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="DE| SOCCER PPV",Next | BL: Highlights XXL-SCF - FCU, 9. Spieltag | all | 08-11-2026 | 19:30 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 81
-http://cf.business-cloud-8.ru/live/287f73cfff7d/1f3b453c63/1918796.ts
+#EXTINF:-1 tvg-id="" tvg-name="Next | BL: Highlights XXL-KOE - B04, 9. Spieltag | all | 08-11-2026 | 17:30 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 49" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="DE| SOCCER PPV",Next | BL: Highlights XXL-KOE - B04, 9. Spieltag | all | 08-11-2026 | 17:30 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 49
+http://cf.business-cloud-8.ru/live/287f73cfff7d/1f3b453c63/1918828.ts
+#EXTINF:-1 tvg-id="" tvg-name="Next | BL: Highlights XXL-SCF - FCU, 9. Spieltag | all | 08-11-2026 | 19:30 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 59" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="DE| SOCCER PPV",Next | BL: Highlights XXL-SCF - FCU, 9. Spieltag | all | 08-11-2026 | 19:30 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 59
+http://cf.business-cloud-8.ru/live/287f73cfff7d/1f3b453c63/1918818.ts
+#EXTINF:-1 tvg-id="" tvg-name="Next | BL: Highlights XXL-TSG - S04, 9. Spieltag | all | 08-11-2026 | 21:30 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 67" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="DE| SOCCER PPV",Next | BL: Highlights XXL-TSG - S04, 9. Spieltag | all | 08-11-2026 | 21:30 (GMT) | 8K EXCLUSIVE | DE: SOCCER PPV 67
+http://cf.business-cloud-8.ru/live/287f73cfff7d/1f3b453c63/1918810.ts
 #EXTINF:-1 tvg-id="" tvg-name="PL: RMF MAXXX" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/11408.png?5555" group-title="PL| RADIO ᴴᴰ/ᴿᴬᵂ",PL: RMF MAXXX
 http://cf.business-cloud-8.ru/live/287f73cfff7d/1f3b453c63/1991851.ts
 #EXTINF:-1 tvg-id="" tvg-name="IL: ADULTS ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15315.jpg?41619" group-title="IL| HEBREW SDAROT 24/7 ᴿᴬᵂ",IL: ADULTS ᴿᴬᵂ
