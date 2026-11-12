@@ -17,7 +17,8 @@ By default live TV is filtered to US, Canada, UK and sports groups, and
 adult categories are removed everywhere (--keep-adult keeps them). Only
 category names are checked, not channel or title names. Groups starting with a code in
 DEFAULT_EXCLUDE (AR, FR, DE, AU, ...) are always dropped, even sports, and so
-are Canadian French groups ("CA| ... FR"). Names are tidied: "EN" is dropped
+are Canadian French groups ("CA| ... FR"), and so are channels whose name
+starts with a foreign code ("FR: ...", "IT| ...", see NAME_CODES_KEEP). Names are tidied: "EN" is dropped
 from the end of group names and NAME_PREFIXES ("US:", "CA EN:", ...) from
 the start of channel names. Use --countries, --no-sports, --exclude or --all to change the
 live TV filter. Movie and series categories are kept only if their name
@@ -368,6 +369,13 @@ def save_epg(base, user, pw, keep_ids, path, extra=()):
 
     # Only keep channels that have programmes, and programmes whose channel is declared
     used = {low for low, _ in programmes if low in channels}
+    if keep_ids:  # report what the provider's guide is missing for our channels
+        not_listed = sorted(keep_ids - set(channels))
+        no_progs = sorted(set(channels) - used)
+        print(f"Guide IDs in playlist: {len(keep_ids)} | with listings: {len(used)} | "
+              f"not in provider guide: {len(not_listed)} | listed but no programmes: {len(no_progs)}")
+        if not_listed:
+            print("  e.g. not in provider guide: " + ", ".join(not_listed[:10]))
     extra_chans, extra_progs = game_epg_xml(extra)
     tmp = path + ".tmp"
     with open(tmp, "wb") as out:
@@ -399,6 +407,19 @@ NAME_PREFIX_RE = re.compile(r"^\s*(?:%s)\s*:\s*" % "|".join(map(re.escape, NAME_
 
 def tidy_name(name):
     return NAME_PREFIX_RE.sub("", name).strip() or name
+
+
+# Live channels whose NAME starts with a two-letter code ("FR: CANAL+ LIVE 1",
+# "IT| ...") are dropped unless the code is listed here. This catches foreign
+# channels inside groups that are otherwise kept, like "8K| SPORT ON AIR".
+# RK = Roku, TV = US locals, SC = SportsCentre, NF = Netflix events. --all keeps everything.
+NAME_CODES_KEEP = {"US", "CA", "UK", "EN", "TV", "RK", "SC", "NF"}
+NAME_CODE_RE = re.compile(r"^\s*([A-Z]{2})\s*[:|]")
+
+
+def foreign_name(name):
+    m = NAME_CODE_RE.match(str(name or ""))
+    return bool(m) and m.group(1) not in NAME_CODES_KEEP
 
 
 def tidy_group(group):
@@ -624,6 +645,7 @@ def main():
     cats = cat_map(base, u, pw, "get_live_categories")
     live = api(base, u, pw, "get_live_streams") or []
     kept, seen, epg_ids, game_chans = 0, set(), set(), []
+    foreign = 0
     game_groups = {g.upper(): label for g, label in GAME_EPG_GROUPS.items()}
     for s in live:
         name = clean(s.get("name"))
@@ -631,6 +653,9 @@ def main():
         if adult(group):  # adult filtering looks at the category only
             continue
         if is_separator(name):
+            continue
+        if not a.all and foreign_name(name):  # "FR: ...", "IT| ..." etc.
+            foreign += 1
             continue
         if not keep_live(group) and not (a.keep_adult and is_adult(group)):
             continue
@@ -649,7 +674,8 @@ def main():
         if s.get("epg_channel_id") and tvg_id == s.get("epg_channel_id"):
             epg_ids.add(str(s["epg_channel_id"]).lower())
         kept += 1
-    print(f"Live channels: kept {kept} of {len(live)}")
+    print(f"Live channels: kept {kept} of {len(live)}"
+          + (f" ({foreign} foreign-prefixed channels dropped)" if foreign else ""))
 
     # Movies
     if a.movies:
