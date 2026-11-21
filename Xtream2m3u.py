@@ -43,6 +43,8 @@ import json
 import os
 import re
 import sys
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -787,13 +789,27 @@ def main():
     # TV guide
     if not a.no_epg:
         print("Downloading TV guide...")
-        try:
-            chans, progs = save_epg(base, u, pw, epg_ids, a.epg_file, game_chans)
-            print(f"Saved {a.epg_file} ({chans} channels, {progs} programmes)")
-        except Exception as e:
-            print(f"Couldn't save the TV guide: {e}")
-            if os.path.exists(a.epg_file + ".tmp"):
-                os.remove(a.epg_file + ".tmp")
+        saved = False
+        for attempt in range(4):  # initial attempt plus 3 retries
+            try:
+                chans, progs = save_epg(base, u, pw, epg_ids, a.epg_file, game_chans)
+                print(f"Saved {a.epg_file} ({chans} channels, {progs} programmes)")
+                saved = True
+                break
+            except urllib.error.HTTPError as e:
+                if e.code != 502:
+                    print(f"Couldn't save the TV guide: {e}")
+                    break
+                if attempt == 3:
+                    print("TV guide still returned HTTP 502 after 3 retries; continuing without updating it.")
+                    break
+                print(f"TV guide returned HTTP 502. Retry {attempt + 1}/3 in 5 minutes...")
+                time.sleep(300)
+            except Exception as e:
+                print(f"Couldn't save the TV guide: {e}")
+                break
+        if not saved and os.path.exists(a.epg_file + ".tmp"):
+            os.remove(a.epg_file + ".tmp")
     print(f"EPG guide URL: {base}/xmltv.php?username={U}&password={P}")
 
 
