@@ -17,17 +17,30 @@ if (-not $Git) {
 Write-Host ""
 Write-Host "===== GitHub =====" -ForegroundColor Cyan
 & $Git -C $Repo add -A
+if ($LASTEXITCODE -ne 0) { Write-Host "Staging changes failed." -ForegroundColor Red; exit 1 }
 & $Git -C $Repo diff --cached --quiet
-if ($LASTEXITCODE -eq 0) {
-    Write-Host "Nothing changed - nothing to push." -ForegroundColor Green
-    exit 0
+$HasChanges = ($LASTEXITCODE -ne 0)
+
+if ($HasChanges) {
+    $stamp = Get-Date -Format "yyyy-MM-dd HH:mm"
+    & $Git -C $Repo commit -m "Update playlists $stamp"
+    if ($LASTEXITCODE -ne 0) { Write-Host "Commit failed." -ForegroundColor Red; exit 1 }
+} else {
+    Write-Host "No local changes to commit." -ForegroundColor Green
 }
 
-$stamp = Get-Date -Format "yyyy-MM-dd HH:mm"
-& $Git -C $Repo commit -m "Update playlists $stamp"
-if ($LASTEXITCODE -ne 0) { Write-Host "Commit failed." -ForegroundColor Red; exit 1 }
+Write-Host "Pulling remote changes with rebase..." -ForegroundColor Cyan
+& $Git -C $Repo pull --rebase
+if ($LASTEXITCODE -ne 0) {
+    Write-Host "Pull/rebase failed. Resolve any conflicts, then rerun the script." -ForegroundColor Red
+    exit 1
+}
 
 & $Git -C $Repo push
 if ($LASTEXITCODE -ne 0) { Write-Host "Push failed." -ForegroundColor Red; exit 1 }
 
-Write-Host "Pushed to GitHub ($stamp)." -ForegroundColor Green
+if ($HasChanges) {
+    Write-Host "Pushed to GitHub ($stamp)." -ForegroundColor Green
+} else {
+    Write-Host "Repository is up to date with GitHub." -ForegroundColor Green
+}
