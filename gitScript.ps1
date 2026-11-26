@@ -1,4 +1,4 @@
-# gitScript.ps1 - build all the playlists, then push the changes to GitHub.
+# gitScript.ps1 - build playlists, apply Channel Studio edits, then push.
 #
 # Logins live in accounts.csv next to this script (one row per run).
 # accounts.csv is in .gitignore so it's never pushed; this script is safe to commit.
@@ -63,6 +63,24 @@ if ($failed.Count -gt 0) {
     Write-Host ""
     Write-Host "These runs failed: $($failed -join ', '). Not pushing to GitHub." -ForegroundColor Red
     exit 1
+}
+
+# ------------------------------------------------------------ apply Channel Studio edits
+$PlaylistEdits = Join-Path $Repo "wes-edits.json"
+$Playlist = Join-Path $Repo "wes.m3u"
+if (Test-Path -LiteralPath $PlaylistEdits) {
+    if (-not (Test-Path -LiteralPath $Playlist)) {
+        Write-Host "Can't apply $PlaylistEdits because wes.m3u was not generated." -ForegroundColor Red
+        exit 1
+    }
+
+    & $Python (Join-Path $Repo "apply_playlist_config.py") --playlist $Playlist --config $PlaylistEdits
+    if ($LASTEXITCODE -ne 0) {
+        Write-Host "Applying wes-edits.json failed. Not publishing the playlist." -ForegroundColor Red
+        exit 1
+    }
+} else {
+    Write-Host "No wes-edits.json found; leaving the generated playlist unchanged." -ForegroundColor Yellow
 }
 
 # ------------------------------------------------------------ publish EPG source

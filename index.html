@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#10151d">
+  <title>Shogun Channel Studio</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Shogun Channel Studio home">
+      <span class="brand-mark">S</span>
+      <span>CHANNEL<span class="brand-light"> STUDIO</span></span>
+    </a>
+    <div class="topbar-status">
+      <span class="live-dot"></span>
+      <span id="app-status" role="status" aria-live="polite">Loading playlist and guide…</span>
+    </div>
+    <div class="topbar-actions">
+      <label class="button button-muted" for="playlist-file">Open playlist</label>
+      <input id="playlist-file" type="file" accept=".m3u,.m3u8,text/plain" hidden>
+      <label class="button button-muted" for="guide-files">Add EPG segment</label>
+      <input id="guide-files" type="file" accept=".xml,.xmltv,text/xml,application/xml" multiple hidden>
+      <button id="export-config" class="button button-muted" type="button">Export config</button>
+      <button id="export-playlist" class="button button-accent" type="button">Export M3U</button>
+    </div>
+  </header>
+
+  <main class="workspace">
+    <section class="intro">
+      <div>
+        <p class="eyebrow">YOUR TV LINEUP</p>
+        <h1>Channel Studio</h1>
+        <p class="intro-copy">Shape your channel list and pair every stream with the right guide.</p>
+      </div>
+      <div class="stats" aria-label="Playlist statistics">
+        <div class="stat"><strong id="channel-count">—</strong><span>Channels</span></div>
+        <div class="stat"><strong id="mapped-count">—</strong><span>EPG matched</span></div>
+        <div class="stat"><strong id="guide-count">—</strong><span>Guide sources</span></div>
+      </div>
+    </section>
+
+    <section class="source-bar" aria-label="Guide sources">
+      <div class="source-summary">
+        <span class="source-icon" aria-hidden="true">⌁</span>
+        <div>
+          <strong>EPG sources</strong>
+          <span id="source-summary">Loading http://tv.shogun.ca/EPGStrong.xml</span>
+        </div>
+      </div>
+      <details class="source-settings">
+        <summary>Manage sources</summary>
+        <div class="source-settings-content">
+          <label for="epgstrong-url">EPGStrong guide URL</label>
+          <div class="url-row">
+            <input id="epgstrong-url" type="url" value="http://tv.shogun.ca/EPGStrong.xml" autocomplete="url">
+            <button id="load-epgstrong" class="button button-muted" type="button">Load URL</button>
+          </div>
+          <label for="remote-segment">Hosted EPG segment</label>
+          <div class="url-row">
+            <select id="remote-segment" aria-label="Hosted EPG segment"></select>
+            <button id="load-remote-segment" class="button button-muted" type="button">Load segment</button>
+          </div>
+          <p>Loads a selected file from http://tv.shogun.ca/Temp/. Segments and uploaded guide files stay in this browser; they are not uploaded.</p>
+        </div>
+      </details>
+    </section>
+
+    <div class="editor-grid">
+      <section class="library panel" aria-labelledby="library-title">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">PLAYLIST</p>
+            <h2 id="library-title">Your channels</h2>
+          </div>
+          <span id="visible-count" class="count-badge">0</span>
+        </div>
+        <label class="search-box">
+          <span aria-hidden="true">⌕</span>
+          <input id="channel-search" type="search" placeholder="Search channels or EPG IDs" autocomplete="off">
+          <kbd>/</kbd>
+        </label>
+        <div class="filter-row">
+          <label class="select-wrap">
+            <span class="sr-only">Filter by group</span>
+            <select id="group-filter"><option value="">All groups</option></select>
+          </label>
+          <label class="checkbox-label">
+            <input id="unmatched-filter" type="checkbox">
+            <span>Unmatched</span>
+          </label>
+        </div>
+        <div id="channel-list" class="channel-list" aria-live="polite">
+          <div class="empty-state">Loading your playlist…</div>
+        </div>
+        <div class="list-footer">
+          <span id="page-label">—</span>
+          <div class="page-actions">
+            <button id="previous-page" class="icon-button" type="button" aria-label="Previous page" disabled>‹</button>
+            <button id="next-page" class="icon-button" type="button" aria-label="Next page" disabled>›</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="editor-column" aria-label="Channel editor">
+        <section id="channel-editor" class="panel channel-editor">
+          <div class="empty-editor">
+            <span class="empty-editor-icon" aria-hidden="true">◉</span>
+            <h2>Select a channel</h2>
+            <p>Choose a channel from your playlist to edit its name and EPG match.</p>
+          </div>
+        </section>
+        <section class="panel now-panel" aria-labelledby="now-title">
+          <div class="panel-heading now-heading">
+            <div>
+              <p class="eyebrow">LIVE GUIDE</p>
+              <h2 id="now-title">On now</h2>
+            </div>
+            <span id="guide-clock" class="clock">—</span>
+          </div>
+          <div id="now-playing" class="now-content">
+            <span class="guide-placeholder">Select a channel to see its current programme.</span>
+          </div>
+        </section>
+      </section>
+    </div>
+    <footer class="footer-note">Export <strong>wes-edits.json</strong> into this repository; gitScript applies it after the daily playlist build. Export M3U for a one-time playlist download.</footer>
+  </main>
+</body>
+</html>

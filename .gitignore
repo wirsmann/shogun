@@ -1,2 +1,4 @@
 # Logins - never push these
 accounts.csv
+__pycache__/
+*.py[cod]
