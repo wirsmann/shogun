@@ -65,10 +65,29 @@ if ($failed.Count -gt 0) {
     exit 1
 }
 
+# ------------------------------------------------------------ refresh the unedited Channel Studio baseline
+$BaselineSource = Join-Path $Repo "wes.m3u"
+$BaselinePlaylist = Join-Path $Repo "strong.m3u"
+if (-not (Test-Path -LiteralPath $BaselineSource -PathType Leaf)) {
+    Write-Host "Can't create the Channel Studio baseline; generated playlist is missing: $BaselineSource" -ForegroundColor Red
+    exit 1
+}
+
+try {
+    Copy-Item -LiteralPath $BaselineSource -Destination $BaselinePlaylist -Force -ErrorAction Stop
+}
+catch {
+    Write-Host "Couldn't refresh $BaselinePlaylist from $BaselineSource`: $($_.Exception.Message)" -ForegroundColor Red
+    exit 1
+}
+Write-Host "Refreshed strong.m3u from wes.m3u; this baseline will not receive edits." -ForegroundColor Green
+
 # ------------------------------------------------------------ apply Channel Studio edits and removals
 $PlaylistEdits = Join-Path $Repo "edits.json"
 if (Test-Path -LiteralPath $PlaylistEdits) {
-    $Playlists = @(Get-ChildItem -LiteralPath $Repo -Filter "*.m3u" -File | Sort-Object Name)
+    $Playlists = @(Get-ChildItem -LiteralPath $Repo -Filter "*.m3u" -File |
+        Where-Object { $_.Name -ine "strong.m3u" } |
+        Sort-Object Name)
     if ($Playlists.Count -eq 0) {
         Write-Host "Can't apply $PlaylistEdits because no M3U playlists were found." -ForegroundColor Red
         exit 1

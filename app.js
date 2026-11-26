@@ -8,7 +8,7 @@
   const TV_BASE_URL = window.location.hostname === "tv.shogun.ca"
     ? window.location.origin
     : "http://tv.shogun.ca";
-  const PLAYLIST_URL = `${TV_BASE_URL}/wes.m3u`;
+  const PLAYLIST_URL = `${TV_BASE_URL}/strong.m3u`;
   const EPGSTRONG_URL = `${TV_BASE_URL}/EPGStrong.xml`;
   const EDITS_URL = `${TV_BASE_URL}/edits.json`;
   const REMOTE_SEGMENTS = [
@@ -18,7 +18,7 @@
   const state = {
     channels: [],
     playlistLines: [],
-    playlistName: "wes.m3u",
+    playlistName: "strong.m3u",
     configuration: { version: 1, playlist: "*", channels: [] },
     sources: new Map(),
     selectedKey: null,
@@ -1093,7 +1093,7 @@
           setStatus(`Playlist loaded; ${problems.join("; ")}.`, true);
         } else {
           setStatus(
-            `Loaded wes.m3u · ${state.channels.length.toLocaleString()} channels · EPGStrong and all ${segmentResult.loaded} segments`,
+            `Loaded strong.m3u · ${state.channels.length.toLocaleString()} channels · EPGStrong and all ${segmentResult.loaded} segments`,
             false
           );
         }
