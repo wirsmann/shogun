@@ -65,22 +65,22 @@ if ($failed.Count -gt 0) {
     exit 1
 }
 
-# ------------------------------------------------------------ refresh the unedited Channel Studio baseline
-$BaselineSource = Join-Path $Repo "wes.m3u"
+# ------------------------------------------------------------ create the default playlist from the untouched baseline
 $BaselinePlaylist = Join-Path $Repo "strong.m3u"
-if (-not (Test-Path -LiteralPath $BaselineSource -PathType Leaf)) {
-    Write-Host "Can't create the Channel Studio baseline; generated playlist is missing: $BaselineSource" -ForegroundColor Red
+$DefaultPlaylist = Join-Path $Repo "wes.m3u"
+if (-not (Test-Path -LiteralPath $BaselinePlaylist -PathType Leaf)) {
+    Write-Host "Can't create $DefaultPlaylist; generated baseline is missing: $BaselinePlaylist" -ForegroundColor Red
     exit 1
 }
 
 try {
-    Copy-Item -LiteralPath $BaselineSource -Destination $BaselinePlaylist -Force -ErrorAction Stop
+    Copy-Item -LiteralPath $BaselinePlaylist -Destination $DefaultPlaylist -Force -ErrorAction Stop
 }
 catch {
-    Write-Host "Couldn't refresh $BaselinePlaylist from $BaselineSource`: $($_.Exception.Message)" -ForegroundColor Red
+    Write-Host "Couldn't create $DefaultPlaylist from $BaselinePlaylist`: $($_.Exception.Message)" -ForegroundColor Red
     exit 1
 }
-Write-Host "Refreshed strong.m3u from wes.m3u; this baseline will not receive edits." -ForegroundColor Green
+Write-Host "Created wes.m3u from strong.m3u; strong.m3u remains the unedited baseline." -ForegroundColor Green
 
 # ------------------------------------------------------------ apply Channel Studio edits and removals
 $PlaylistEdits = Join-Path $Repo "edits.json"
