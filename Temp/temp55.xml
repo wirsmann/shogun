@@ -1,0 +1,1355 @@
+﻿  <channel id="mgm.us">
+    <display-name lang="en">NAME</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s65687_h15_ag.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="mgmpacific.us">
+    <display-name lang="en">NAME</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="mgmdrivein.us">
+    <display-name lang="en">NAME</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s68409_h15_ad.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="mgmmarquee.us">
+    <display-name lang="en">NAME</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s74073_h15_ad.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="mgmhits.us">
+    <display-name lang="en">NAME</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s73075_h15_ad.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="fmc.us">
+    <display-name lang="en">NAME</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s122068_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <programme start="20261125053500 -0500" stop="20261125063500 -0500" channel="mgm.us">
+    <title lang="en">Secret Service</title>
+    <desc lang="en">MI6 agent Kate Henderson uncovers an audacious plot involving Russia and an asset in the UK Cabinet; Kate's hunt for the mole puts her agent's life at risk.(n)</desc>
+  </programme>
+  <programme start="20261125063500 -0500" stop="20261125080000 -0500" channel="mgm.us">
+    <title lang="en">When Worlds Collide</title>
+    <desc lang="en">A pilot (Richard Derr), his girlfriend (Barbara Rush) and lottery winners escape by rocket to another planet before a star hits Earth.(n)</desc>
+  </programme>
+  <programme start="20261125080000 -0500" stop="20261125101000 -0500" channel="mgm.us">
+    <title lang="en">Raging Bull</title>
+    <desc lang="en">The violent nature of prizefighter Jake LaMotta leads first to a boxing championship, then to a downward spiral of self-destruction.(n)</desc>
+  </programme>
+  <programme start="20261125101000 -0500" stop="20261125113500 -0500" channel="mgm.us">
+    <title lang="en">Saint Maud</title>
+    <desc lang="en">Maud, an unstable, newly devout hospice nurse, becomes obsessed with saving her dying patient's soul -- but sinister forces and her own sinful past threaten her holy calling.(n)</desc>
+  </programme>
+  <programme start="20261125113500 -0500" stop="20261125130000 -0500" channel="mgm.us">
+    <title lang="en">From Beyond</title>
+    <desc lang="en">A psychiatrist (Barbara Crampton) and a scientist (Jeffrey Combs) test a dead inventor's (Ted Sorel) device for stimulating the pineal gland for access to other dimensions.(n)</desc>
+  </programme>
+  <programme start="20261125130000 -0500" stop="20261125145500 -0500" channel="mgm.us">
+    <title lang="en">The Believers</title>
+    <desc lang="en">A police psychologist (Martin Sheen) and his son (Harley Cross) discover a sacrificial cult in New York.(n)</desc>
+  </programme>
+  <programme start="20261125145500 -0500" stop="20261125162000 -0500" channel="mgm.us">
+    <title lang="en">The Last House on the Left</title>
+    <desc lang="en">Parents torture the sadists who kidnapped, raped and murdered their daughter (Sandra Cassel) and her friend (Lucy Grantham).(n)</desc>
+  </programme>
+  <programme start="20261125162000 -0500" stop="20261125180000 -0500" channel="mgm.us">
+    <title lang="en">Is God Is</title>
+    <desc lang="en">Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.(n)</desc>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125190000 -0500" channel="mgm.us">
+    <title lang="en">Secret Service</title>
+    <desc lang="en">MI6 agent Kate Henderson uncovers an audacious plot involving Russia and an asset in the UK Cabinet; Kate's hunt for the mole puts her agent's life at risk.(n)</desc>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125200000 -0500" channel="mgm.us">
+    <title lang="en">The Institute</title>
+    <desc lang="en">Luke and friends adjust to their new surroundings; Sigsby sizes up Nolan as a potential rival; Tim chases his only lead in the search for an ally.(n)</desc>
+  </programme>
+  <programme start="20261125200000 -0500" stop="20261125215000 -0500" channel="mgm.us">
+    <title lang="en">Lockbox</title>
+    <desc lang="en">Ellen retreats to a rural town and takes in her severely traumatized cousin, Winthrop. As strange phenomena start to escalate, she puts everything on the line to defend Winthrop from a dangerous, otherworldly entity that's determined to find him.(n)</desc>
+  </programme>
+  <programme start="20261125215000 -0500" stop="20261125234000 -0500" channel="mgm.us">
+    <title lang="en">Vampire Carnival</title>
+    <desc lang="en">A mysterious carnival lures a directionless young woman from her broken home, but a secret about its troupe forces her to face her demons.(n)</desc>
+  </programme>
+  <programme start="20261125234000 -0500" stop="20261126014000 -0500" channel="mgm.us">
+    <title lang="en">The Silence of the Lambs</title>
+    <desc lang="en">An FBI trainee (Jodie Foster) seeks advice from a brilliant, psychopathic prisoner (Anthony Hopkins) to catch a killer who skins his victims.(n)</desc>
+  </programme>
+  <programme start="20261126014000 -0500" stop="20261126035500 -0500" channel="mgm.us">
+    <title lang="en">Hannibal</title>
+    <desc lang="en">Seven years have passed since Dr. Hannibal Lecter (Anthony Hopkins) escaped from custody. The doctor is now at large in Europe. Mason Verger (Gary Oldman) remembers Lecter too, and is obsessed with revenge.(n)</desc>
+  </programme>
+  <programme start="20261126035500 -0500" stop="20261126045500 -0500" channel="mgm.us">
+    <title lang="en">Secret Service</title>
+    <desc lang="en">MI6 agent Kate Henderson uncovers an audacious plot involving Russia and an asset in the UK Cabinet; Kate's hunt for the mole puts her agent's life at risk.(n)</desc>
+  </programme>
+  <programme start="20261126045500 -0500" stop="20261126055500 -0500" channel="mgm.us">
+    <title lang="en">The Institute</title>
+    <desc lang="en">Luke and friends adjust to their new surroundings; Sigsby sizes up Nolan as a potential rival; Tim chases his only lead in the search for an ally.(n)</desc>
+  </programme>
+  <programme start="20261126055500 -0500" stop="20261126055500 -0500" channel="mgm.us">
+    <title lang="en">Unprotected Sets</title>
+    <desc lang="en">Lynne Koplitz radiates on and offstage with her sarcastic wit turning a plethora of topics including dieting, menopause, chivalry and life as the daughter of a New Jersey mobster into huge laughs.(n)</desc>
+  </programme>
+  <programme start="20261126055500 -0500" stop="20261126065500 -0500" channel="mgm.us">
+    <title lang="en">Unprotected Sets</title>
+    <desc lang="en">Lynne Koplitz radiates on and offstage with her sarcastic wit turning a plethora of topics including dieting, menopause, chivalry and life as the daughter of a New Jersey mobster into huge laughs.(n)</desc>
+  </programme>
+  <programme start="20261126065500 -0500" stop="20261126085000 -0500" channel="mgm.us">
+    <title lang="en">Flight of the Intruder</title>
+    <desc lang="en">Two Navy pilots (Willem Dafoe, Brad Johnson) hatch a rogue mission to bomb Hanoi with a special low-altitude plane.(n)</desc>
+  </programme>
+  <programme start="20261126085000 -0500" stop="20261126104500 -0500" channel="mgm.us">
+    <title lang="en">Scrooge</title>
+    <desc lang="en">Dickens' London miser Ebenezer Scrooge (Albert Finney) meets the spirits of Christmases past, present and yet to come.(n)</desc>
+  </programme>
+  <programme start="20261126104500 -0500" stop="20261126123000 -0500" channel="mgm.us">
+    <title lang="en">Home for the Holidays</title>
+    <desc lang="en">Fights and reconciliations mark a single mom's (Holly Hunter) Thanksgiving with her dysfunctional Baltimore clan.(n)</desc>
+  </programme>
+  <programme start="20261126123000 -0500" stop="20261126143500 -0500" channel="mgm.us">
+    <title lang="en">The Preacher's Wife</title>
+    <desc lang="en">A handsome angel (Denzel Washington) saves a New York Baptist preacher (Courtney Vance) and his wife (Whitney Houston) from spiritual doubt and marital woe.(n)</desc>
+  </programme>
+  <programme start="20261126143500 -0500" stop="20261126162000 -0500" channel="mgm.us">
+    <title lang="en">A Christmas Carol</title>
+    <desc lang="en">Dickens' London miser Ebenezer Scrooge (George C. Scott) meets the ghosts of Christmases past, present and yet to come.(n)</desc>
+  </programme>
+  <programme start="20261126162000 -0500" stop="20261126180500 -0500" channel="mgm.us">
+    <title lang="en">The Fitzgerald Family Christmas</title>
+    <desc lang="en">Rifts emerge among family members when their long-estranged patriarch decides to come home for the holidays.(n)</desc>
+  </programme>
+  <programme start="20261126180500 -0500" stop="20261126200000 -0500" channel="mgm.us">
+    <title lang="en">This is Christmas</title>
+    <desc lang="en">Following Adam and Emma on their daily commute from the village of Langton to London, where they meet the same passengers every day.(n)</desc>
+  </programme>
+  <programme start="20261126200000 -0500" stop="20261126214500 -0500" channel="mgm.us">
+    <title lang="en">Home for the Holidays</title>
+    <desc lang="en">Fights and reconciliations mark a single mom's (Holly Hunter) Thanksgiving with her dysfunctional Baltimore clan.(n)</desc>
+  </programme>
+  <programme start="20261126214500 -0500" stop="20261126235000 -0500" channel="mgm.us">
+    <title lang="en">The Preacher's Wife</title>
+    <desc lang="en">A handsome angel (Denzel Washington) saves a New York Baptist preacher (Courtney Vance) and his wife (Whitney Houston) from spiritual doubt and marital woe.(n)</desc>
+  </programme>
+  <programme start="20261126235000 -0500" stop="20261127014500 -0500" channel="mgm.us">
+    <title lang="en">Scrooge</title>
+    <desc lang="en">Dickens' London miser Ebenezer Scrooge (Albert Finney) meets the spirits of Christmases past, present and yet to come.(n)</desc>
+  </programme>
+  <programme start="20261127014500 -0500" stop="20261127033000 -0500" channel="mgm.us">
+    <title lang="en">A Christmas Carol</title>
+    <desc lang="en">Dickens' London miser Ebenezer Scrooge (George C. Scott) meets the ghosts of Christmases past, present and yet to come.(n)</desc>
+  </programme>
+  <programme start="20261127033000 -0500" stop="20261127051500 -0500" channel="mgm.us">
+    <title lang="en">The Fitzgerald Family Christmas</title>
+    <desc lang="en">Rifts emerge among family members when their long-estranged patriarch decides to come home for the holidays.(n)</desc>
+  </programme>
+  <programme start="20261127051500 -0500" stop="20261127051500 -0500" channel="mgm.us">
+    <title lang="en">This is Christmas</title>
+    <desc lang="en">Following Adam and Emma on their daily commute from the village of Langton to London, where they meet the same passengers every day.(n)</desc>
+  </programme>
+  <programme start="20261127051500 -0500" stop="20261127070500 -0500" channel="mgm.us">
+    <title lang="en">This is Christmas</title>
+    <desc lang="en">Following Adam and Emma on their daily commute from the village of Langton to London, where they meet the same passengers every day.(n)</desc>
+  </programme>
+  <programme start="20261127070500 -0500" stop="20261127080500 -0500" channel="mgm.us">
+    <title lang="en">The Institute</title>
+    <desc lang="en">The crew is on the run once again; the Institute struggles after a setback; desperate, Luke makes a choice that may cost him everything he holds dear.(n)</desc>
+  </programme>
+  <programme start="20261127080500 -0500" stop="20261127090500 -0500" channel="mgm.us">
+    <title lang="en">The Institute</title>
+    <desc lang="en">Luke and friends adjust to their new surroundings; Sigsby sizes up Nolan as a potential rival; Tim chases his only lead in the search for an ally.(n)</desc>
+  </programme>
+  <programme start="20261127090500 -0500" stop="20261127100500 -0500" channel="mgm.us">
+    <title lang="en">Treasure Island</title>
+    <desc lang="en">Captive on Skeleton Island, Jim turns the tables in an attempt to catch up to Long John before he can leave with the treasure; back at sea, alliances fracture and reunite, binding the survivors together in a dangerous new partnership.(n)</desc>
+  </programme>
+  <programme start="20261127100500 -0500" stop="20261127110500 -0500" channel="mgm.us">
+    <title lang="en">Secret Service</title>
+    <desc lang="en">MI6 agent Kate Henderson uncovers an audacious plot involving Russia and an asset in the UK Cabinet; Kate's hunt for the mole puts her agent's life at risk.(n)</desc>
+  </programme>
+  <programme start="20261127110500 -0500" stop="20261127130500 -0500" channel="mgm.us">
+    <title lang="en">The Portable Door</title>
+    <desc lang="en">A man lands an internship at a mysterious London firm with unconventional employees, including the charismatic CEO who is incorporating modern corporate strategy into ancient magical practices.(n)</desc>
+  </programme>
+  <programme start="20261127130500 -0500" stop="20261127144000 -0500" channel="mgm.us">
+    <title lang="en">Teen Wolf</title>
+    <desc lang="en">A high-school student's popularity soars when it is discovered that he is cursed with the mark of the werewolf.(n)</desc>
+  </programme>
+  <programme start="20261127144000 -0500" stop="20261127163500 -0500" channel="mgm.us">
+    <title lang="en">The Heartbreak Kid</title>
+    <desc lang="en">After his new bride reveals her nasty nature, a man (Ben Stiller) meets the woman (Michelle Monaghan) who may be his real soul mate and tries to woo her.(n)</desc>
+  </programme>
+  <programme start="20261127163500 -0500" stop="20261127181500 -0500" channel="mgm.us">
+    <title lang="en">A Dog's Purpose</title>
+    <desc lang="en">Reincarnated as different dogs over the course of five decades, a lovable and devoted canine keeps reuniting with the original owner who cared for it as a golden retriever puppy.(n)</desc>
+  </programme>
+  <programme start="20261127181500 -0500" stop="20261127200000 -0500" channel="mgm.us">
+    <title lang="en">The First Wives Club</title>
+    <desc lang="en">Three 50-ish college friends (Goldie Hawn, Bette Midler, Diane Keaton) plot revenge after their husbands dump them for younger women.(n)</desc>
+  </programme>
+  <programme start="20261127200000 -0500" stop="20261127214000 -0500" channel="mgm.us">
+    <title lang="en">Step Brothers</title>
+    <desc lang="en">Two lazy, immature men become rivals when the marriage of one's mother and the other's father forces them to live as siblings in the same house.(n)</desc>
+  </programme>
+  <programme start="20261127214000 -0500" stop="20261127233500 -0500" channel="mgm.us">
+    <title lang="en">The American President</title>
+    <desc lang="en">A political rival turns the widowed president's (Michael Douglas) romance with an environmental lobbyist (Annette Bening) into an election-year issue.(n)</desc>
+  </programme>
+  <programme start="20261127233500 -0500" stop="20261128010500 -0500" channel="mgm.us">
+    <title lang="en">The Naked Gun</title>
+    <desc lang="en">Following in the footsteps of his bumbling father, Detective Frank Drebin Jr. must solve a murder case to prevent Police Squad from shutting down.(n)</desc>
+  </programme>
+  <programme start="20261128010500 -0500" stop="20261128024000 -0500" channel="mgm.us">
+    <title lang="en">The Stepford Wives</title>
+    <desc lang="en">A man and his wife move to a quaint suburb where most of the women seem to have the same bland personality.(n)</desc>
+  </programme>
+  <programme start="20261128024000 -0500" stop="20261128034000 -0500" channel="mgm.us">
+    <title lang="en">Secret Service</title>
+    <desc lang="en">MI6 agent Kate Henderson uncovers an audacious plot involving Russia and an asset in the UK Cabinet; Kate's hunt for the mole puts her agent's life at risk.(n)</desc>
+  </programme>
+  <programme start="20261128034000 -0500" stop="20261128044000 -0500" channel="mgm.us">
+    <title lang="en">The Institute</title>
+    <desc lang="en">Luke and friends adjust to their new surroundings; Sigsby sizes up Nolan as a potential rival; Tim chases his only lead in the search for an ally.(n)</desc>
+  </programme>
+  <programme start="20261128044000 -0500" stop="20261128054000 -0500" channel="mgm.us">
+    <title lang="en">New Wave</title>
+    <desc lang="en">Inspired by punk's DIY energy and David Bowie, a new generation of outsider artists sparks a movement that becomes known as New Wave.(n)</desc>
+  </programme>
+  <programme start="20261128054000 -0500" stop="20261128054000 -0500" channel="mgm.us">
+    <title lang="en">For a Few Dollars More</title>
+    <desc lang="en">A man with no name (Clint Eastwood) and a man with a mission (Lee Van Cleef) hunt a Mexican bandit (Gian Maria Volonte) for different reasons.(n)</desc>
+  </programme>
+  <programme start="20261128054000 -0500" stop="20261128075500 -0500" channel="mgm.us">
+    <title lang="en">For a Few Dollars More</title>
+    <desc lang="en">A man with no name (Clint Eastwood) and a man with a mission (Lee Van Cleef) hunt a Mexican bandit (Gian Maria Volonte) for different reasons.(n)</desc>
+  </programme>
+  <programme start="20261128075500 -0500" stop="20261128092500 -0500" channel="mgm.us">
+    <title lang="en">Smurfs</title>
+    <desc lang="en">When evil wizards Razamel and Gargamel take Papa Smurf, the Smurfs embark on a mission to the real world to save him. With help from some new friends, they must discover what defines their destiny to save the universe.(n)</desc>
+  </programme>
+  <programme start="20261128092500 -0500" stop="20261128110500 -0500" channel="mgm.us">
+    <title lang="en">Legally Blonde</title>
+    <desc lang="en">A sorority queen (Reese Witherspoon) enrolls in Harvard to prove to her former boyfriend that she has more than good looks.(n)</desc>
+  </programme>
+  <programme start="20261128110500 -0500" stop="20261128124000 -0500" channel="mgm.us">
+    <title lang="en">Legally Blonde 2: Red, White &amp; Blonde</title>
+    <desc lang="en">Fired from her firm, a young Boston lawyer (Reese Witherspoon) heads to Washington, D.C., to fight for animal rights.(n)</desc>
+  </programme>
+  <programme start="20261128124000 -0500" stop="20261128144500 -0500" channel="mgm.us">
+    <title lang="en">An Officer and a Gentleman</title>
+    <desc lang="en">A hardened loner (Richard Gere) shapes up for a military drill instructor (Louis Gossett Jr.) and a factory girl (Debra Winger) from town.(n)</desc>
+  </programme>
+  <programme start="20261128144500 -0500" stop="20261128163000 -0500" channel="mgm.us">
+    <title lang="en">Varsity Blues</title>
+    <desc lang="en">When the star quarterback is injured, a rigid high-school football coach expects an irreverent player to lead the team to victory.(n)</desc>
+  </programme>
+  <programme start="20261128163000 -0500" stop="20261128182500 -0500" channel="mgm.us">
+    <title lang="en">The Thomas Crown Affair</title>
+    <desc lang="en">A billionaire (Pierce Brosnan) looking for new challenges attracts the attention of an investigator (Rene Russo) when a priceless Monet is stolen.(n)</desc>
+  </programme>
+  <programme start="20261128182500 -0500" stop="20261128200000 -0500" channel="mgm.us">
+    <title lang="en">Worldbreaker</title>
+    <desc lang="en">A father hides his daughter on an island to keep her safe while he equips her for survival and the battles ahead.(n)</desc>
+  </programme>
+  <programme start="20261128200000 -0500" stop="20261128224000 -0500" channel="mgm.us">
+    <title lang="en">Project Hail Mary</title>
+    <desc lang="en">Stranded light years from home, Ryland Grace must save the dying sun—with help from an unlikely friend.(n)</desc>
+  </programme>
+  <programme start="20261128224000 -0500" stop="20261129003000 -0500" channel="mgm.us">
+    <title lang="en">Afterburn</title>
+    <desc lang="en">After a massive solar flare destroys the Eastern Hemisphere, a treasure hunter for hire ventures to Europe to retrieve the coveted Mona Lisa, only to learn that the world needs a hero more than it needs a painting.(n)</desc>
+  </programme>
+  <programme start="20261125083500 -0500" stop="20261125093500 -0500" channel="mgmpacific.us">
+    <title lang="en">Secret Service</title>
+    <desc lang="en">MI6 agent Kate Henderson uncovers an audacious plot involving Russia and an asset in the UK Cabinet; Kate's hunt for the mole puts her agent's life at risk.(n)</desc>
+  </programme>
+  <programme start="20261125093500 -0500" stop="20261125110000 -0500" channel="mgmpacific.us">
+    <title lang="en">When Worlds Collide</title>
+    <desc lang="en">A pilot (Richard Derr), his girlfriend (Barbara Rush) and lottery winners escape by rocket to another planet before a star hits Earth.(n)</desc>
+  </programme>
+  <programme start="20261125110000 -0500" stop="20261125131000 -0500" channel="mgmpacific.us">
+    <title lang="en">Raging Bull</title>
+    <desc lang="en">The violent nature of prizefighter Jake LaMotta leads first to a boxing championship, then to a downward spiral of self-destruction.(n)</desc>
+  </programme>
+  <programme start="20261125131000 -0500" stop="20261125143500 -0500" channel="mgmpacific.us">
+    <title lang="en">Saint Maud</title>
+    <desc lang="en">Maud, an unstable, newly devout hospice nurse, becomes obsessed with saving her dying patient's soul -- but sinister forces and her own sinful past threaten her holy calling.(n)</desc>
+  </programme>
+  <programme start="20261125143500 -0500" stop="20261125160000 -0500" channel="mgmpacific.us">
+    <title lang="en">From Beyond</title>
+    <desc lang="en">A psychiatrist (Barbara Crampton) and a scientist (Jeffrey Combs) test a dead inventor's (Ted Sorel) device for stimulating the pineal gland for access to other dimensions.(n)</desc>
+  </programme>
+  <programme start="20261125160000 -0500" stop="20261125175500 -0500" channel="mgmpacific.us">
+    <title lang="en">The Believers</title>
+    <desc lang="en">A police psychologist (Martin Sheen) and his son (Harley Cross) discover a sacrificial cult in New York.(n)</desc>
+  </programme>
+  <programme start="20261125175500 -0500" stop="20261125192000 -0500" channel="mgmpacific.us">
+    <title lang="en">The Last House on the Left</title>
+    <desc lang="en">Parents torture the sadists who kidnapped, raped and murdered their daughter (Sandra Cassel) and her friend (Lucy Grantham).(n)</desc>
+  </programme>
+  <programme start="20261125192000 -0500" stop="20261125210000 -0500" channel="mgmpacific.us">
+    <title lang="en">Is God Is</title>
+    <desc lang="en">Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.(n)</desc>
+  </programme>
+  <programme start="20261125210000 -0500" stop="20261125220000 -0500" channel="mgmpacific.us">
+    <title lang="en">Secret Service</title>
+    <desc lang="en">MI6 agent Kate Henderson uncovers an audacious plot involving Russia and an asset in the UK Cabinet; Kate's hunt for the mole puts her agent's life at risk.(n)</desc>
+  </programme>
+  <programme start="20261125220000 -0500" stop="20261125230000 -0500" channel="mgmpacific.us">
+    <title lang="en">The Institute</title>
+    <desc lang="en">Luke and friends adjust to their new surroundings; Sigsby sizes up Nolan as a potential rival; Tim chases his only lead in the search for an ally.(n)</desc>
+  </programme>
+  <programme start="20261125230000 -0500" stop="20261126005000 -0500" channel="mgmpacific.us">
+    <title lang="en">Lockbox</title>
+    <desc lang="en">Ellen retreats to a rural town and takes in her severely traumatized cousin, Winthrop. As strange phenomena start to escalate, she puts everything on the line to defend Winthrop from a dangerous, otherworldly entity that's determined to find him.(n)</desc>
+  </programme>
+  <programme start="20261126005000 -0500" stop="20261126024000 -0500" channel="mgmpacific.us">
+    <title lang="en">Vampire Carnival</title>
+    <desc lang="en">A mysterious carnival lures a directionless young woman from her broken home, but a secret about its troupe forces her to face her demons.(n)</desc>
+  </programme>
+  <programme start="20261126024000 -0500" stop="20261126044000 -0500" channel="mgmpacific.us">
+    <title lang="en">The Silence of the Lambs</title>
+    <desc lang="en">An FBI trainee (Jodie Foster) seeks advice from a brilliant, psychopathic prisoner (Anthony Hopkins) to catch a killer who skins his victims.(n)</desc>
+  </programme>
+  <programme start="20261126044000 -0500" stop="20261126065500 -0500" channel="mgmpacific.us">
+    <title lang="en">Hannibal</title>
+    <desc lang="en">Seven years have passed since Dr. Hannibal Lecter (Anthony Hopkins) escaped from custody. The doctor is now at large in Europe. Mason Verger (Gary Oldman) remembers Lecter too, and is obsessed with revenge.(n)</desc>
+  </programme>
+  <programme start="20261126065500 -0500" stop="20261126075500 -0500" channel="mgmpacific.us">
+    <title lang="en">Secret Service</title>
+    <desc lang="en">MI6 agent Kate Henderson uncovers an audacious plot involving Russia and an asset in the UK Cabinet; Kate's hunt for the mole puts her agent's life at risk.(n)</desc>
+  </programme>
+  <programme start="20261126075500 -0500" stop="20261126085500 -0500" channel="mgmpacific.us">
+    <title lang="en">The Institute</title>
+    <desc lang="en">Luke and friends adjust to their new surroundings; Sigsby sizes up Nolan as a potential rival; Tim chases his only lead in the search for an ally.(n)</desc>
+  </programme>
+  <programme start="20261126085500 -0500" stop="20261126085500 -0500" channel="mgmpacific.us">
+    <title lang="en">Unprotected Sets</title>
+    <desc lang="en">Lynne Koplitz radiates on and offstage with her sarcastic wit turning a plethora of topics including dieting, menopause, chivalry and life as the daughter of a New Jersey mobster into huge laughs.(n)</desc>
+  </programme>
+  <programme start="20261126085500 -0500" stop="20261126095500 -0500" channel="mgmpacific.us">
+    <title lang="en">Unprotected Sets</title>
+    <desc lang="en">Lynne Koplitz radiates on and offstage with her sarcastic wit turning a plethora of topics including dieting, menopause, chivalry and life as the daughter of a New Jersey mobster into huge laughs.(n)</desc>
+  </programme>
+  <programme start="20261126095500 -0500" stop="20261126115000 -0500" channel="mgmpacific.us">
+    <title lang="en">Flight of the Intruder</title>
+    <desc lang="en">Two Navy pilots (Willem Dafoe, Brad Johnson) hatch a rogue mission to bomb Hanoi with a special low-altitude plane.(n)</desc>
+  </programme>
+  <programme start="20261126115000 -0500" stop="20261126134500 -0500" channel="mgmpacific.us">
+    <title lang="en">Scrooge</title>
+    <desc lang="en">Dickens' London miser Ebenezer Scrooge (Albert Finney) meets the spirits of Christmases past, present and yet to come.(n)</desc>
+  </programme>
+  <programme start="20261126134500 -0500" stop="20261126153000 -0500" channel="mgmpacific.us">
+    <title lang="en">Home for the Holidays</title>
+    <desc lang="en">Fights and reconciliations mark a single mom's (Holly Hunter) Thanksgiving with her dysfunctional Baltimore clan.(n)</desc>
+  </programme>
+  <programme start="20261126153000 -0500" stop="20261126173500 -0500" channel="mgmpacific.us">
+    <title lang="en">The Preacher's Wife</title>
+    <desc lang="en">A handsome angel (Denzel Washington) saves a New York Baptist preacher (Courtney Vance) and his wife (Whitney Houston) from spiritual doubt and marital woe.(n)</desc>
+  </programme>
+  <programme start="20261126173500 -0500" stop="20261126192000 -0500" channel="mgmpacific.us">
+    <title lang="en">A Christmas Carol</title>
+    <desc lang="en">Dickens' London miser Ebenezer Scrooge (George C. Scott) meets the ghosts of Christmases past, present and yet to come.(n)</desc>
+  </programme>
+  <programme start="20261126192000 -0500" stop="20261126210500 -0500" channel="mgmpacific.us">
+    <title lang="en">The Fitzgerald Family Christmas</title>
+    <desc lang="en">Rifts emerge among family members when their long-estranged patriarch decides to come home for the holidays.(n)</desc>
+  </programme>
+  <programme start="20261126210500 -0500" stop="20261126230000 -0500" channel="mgmpacific.us">
+    <title lang="en">This is Christmas</title>
+    <desc lang="en">Following Adam and Emma on their daily commute from the village of Langton to London, where they meet the same passengers every day.(n)</desc>
+  </programme>
+  <programme start="20261126230000 -0500" stop="20261127004500 -0500" channel="mgmpacific.us">
+    <title lang="en">Home for the Holidays</title>
+    <desc lang="en">Fights and reconciliations mark a single mom's (Holly Hunter) Thanksgiving with her dysfunctional Baltimore clan.(n)</desc>
+  </programme>
+  <programme start="20261127004500 -0500" stop="20261127025000 -0500" channel="mgmpacific.us">
+    <title lang="en">The Preacher's Wife</title>
+    <desc lang="en">A handsome angel (Denzel Washington) saves a New York Baptist preacher (Courtney Vance) and his wife (Whitney Houston) from spiritual doubt and marital woe.(n)</desc>
+  </programme>
+  <programme start="20261127025000 -0500" stop="20261127044500 -0500" channel="mgmpacific.us">
+    <title lang="en">Scrooge</title>
+    <desc lang="en">Dickens' London miser Ebenezer Scrooge (Albert Finney) meets the spirits of Christmases past, present and yet to come.(n)</desc>
+  </programme>
+  <programme start="20261127044500 -0500" stop="20261127063000 -0500" channel="mgmpacific.us">
+    <title lang="en">A Christmas Carol</title>
+    <desc lang="en">Dickens' London miser Ebenezer Scrooge (George C. Scott) meets the ghosts of Christmases past, present and yet to come.(n)</desc>
+  </programme>
+  <programme start="20261127063000 -0500" stop="20261127081500 -0500" channel="mgmpacific.us">
+    <title lang="en">The Fitzgerald Family Christmas</title>
+    <desc lang="en">Rifts emerge among family members when their long-estranged patriarch decides to come home for the holidays.(n)</desc>
+  </programme>
+  <programme start="20261127081500 -0500" stop="20261127081500 -0500" channel="mgmpacific.us">
+    <title lang="en">This is Christmas</title>
+    <desc lang="en">Following Adam and Emma on their daily commute from the village of Langton to London, where they meet the same passengers every day.(n)</desc>
+  </programme>
+  <programme start="20261127081500 -0500" stop="20261127100500 -0500" channel="mgmpacific.us">
+    <title lang="en">This is Christmas</title>
+    <desc lang="en">Following Adam and Emma on their daily commute from the village of Langton to London, where they meet the same passengers every day.(n)</desc>
+  </programme>
+  <programme start="20261127100500 -0500" stop="20261127110500 -0500" channel="mgmpacific.us">
+    <title lang="en">The Institute</title>
+    <desc lang="en">The crew is on the run once again; the Institute struggles after a setback; desperate, Luke makes a choice that may cost him everything he holds dear.(n)</desc>
+  </programme>
+  <programme start="20261127110500 -0500" stop="20261127120500 -0500" channel="mgmpacific.us">
+    <title lang="en">The Institute</title>
+    <desc lang="en">Luke and friends adjust to their new surroundings; Sigsby sizes up Nolan as a potential rival; Tim chases his only lead in the search for an ally.(n)</desc>
+  </programme>
+  <programme start="20261127120500 -0500" stop="20261127130500 -0500" channel="mgmpacific.us">
+    <title lang="en">Treasure Island</title>
+    <desc lang="en">Captive on Skeleton Island, Jim turns the tables in an attempt to catch up to Long John before he can leave with the treasure; back at sea, alliances fracture and reunite, binding the survivors together in a dangerous new partnership.(n)</desc>
+  </programme>
+  <programme start="20261127130500 -0500" stop="20261127140500 -0500" channel="mgmpacific.us">
+    <title lang="en">Secret Service</title>
+    <desc lang="en">MI6 agent Kate Henderson uncovers an audacious plot involving Russia and an asset in the UK Cabinet; Kate's hunt for the mole puts her agent's life at risk.(n)</desc>
+  </programme>
+  <programme start="20261127140500 -0500" stop="20261127160500 -0500" channel="mgmpacific.us">
+    <title lang="en">The Portable Door</title>
+    <desc lang="en">A man lands an internship at a mysterious London firm with unconventional employees, including the charismatic CEO who is incorporating modern corporate strategy into ancient magical practices.(n)</desc>
+  </programme>
+  <programme start="20261127160500 -0500" stop="20261127174000 -0500" channel="mgmpacific.us">
+    <title lang="en">Teen Wolf</title>
+    <desc lang="en">A high-school student's popularity soars when it is discovered that he is cursed with the mark of the werewolf.(n)</desc>
+  </programme>
+  <programme start="20261127174000 -0500" stop="20261127193500 -0500" channel="mgmpacific.us">
+    <title lang="en">The Heartbreak Kid</title>
+    <desc lang="en">After his new bride reveals her nasty nature, a man (Ben Stiller) meets the woman (Michelle Monaghan) who may be his real soul mate and tries to woo her.(n)</desc>
+  </programme>
+  <programme start="20261127193500 -0500" stop="20261127211500 -0500" channel="mgmpacific.us">
+    <title lang="en">A Dog's Purpose</title>
+    <desc lang="en">Reincarnated as different dogs over the course of five decades, a lovable and devoted canine keeps reuniting with the original owner who cared for it as a golden retriever puppy.(n)</desc>
+  </programme>
+  <programme start="20261127211500 -0500" stop="20261127230000 -0500" channel="mgmpacific.us">
+    <title lang="en">The First Wives Club</title>
+    <desc lang="en">Three 50-ish college friends (Goldie Hawn, Bette Midler, Diane Keaton) plot revenge after their husbands dump them for younger women.(n)</desc>
+  </programme>
+  <programme start="20261127230000 -0500" stop="20261128004000 -0500" channel="mgmpacific.us">
+    <title lang="en">Step Brothers</title>
+    <desc lang="en">Two lazy, immature men become rivals when the marriage of one's mother and the other's father forces them to live as siblings in the same house.(n)</desc>
+  </programme>
+  <programme start="20261128004000 -0500" stop="20261128023500 -0500" channel="mgmpacific.us">
+    <title lang="en">The American President</title>
+    <desc lang="en">A political rival turns the widowed president's (Michael Douglas) romance with an environmental lobbyist (Annette Bening) into an election-year issue.(n)</desc>
+  </programme>
+  <programme start="20261128023500 -0500" stop="20261128040500 -0500" channel="mgmpacific.us">
+    <title lang="en">The Naked Gun</title>
+    <desc lang="en">Following in the footsteps of his bumbling father, Detective Frank Drebin Jr. must solve a murder case to prevent Police Squad from shutting down.(n)</desc>
+  </programme>
+  <programme start="20261128040500 -0500" stop="20261128054000 -0500" channel="mgmpacific.us">
+    <title lang="en">The Stepford Wives</title>
+    <desc lang="en">A man and his wife move to a quaint suburb where most of the women seem to have the same bland personality.(n)</desc>
+  </programme>
+  <programme start="20261128054000 -0500" stop="20261128064000 -0500" channel="mgmpacific.us">
+    <title lang="en">Secret Service</title>
+    <desc lang="en">MI6 agent Kate Henderson uncovers an audacious plot involving Russia and an asset in the UK Cabinet; Kate's hunt for the mole puts her agent's life at risk.(n)</desc>
+  </programme>
+  <programme start="20261128064000 -0500" stop="20261128074000 -0500" channel="mgmpacific.us">
+    <title lang="en">The Institute</title>
+    <desc lang="en">Luke and friends adjust to their new surroundings; Sigsby sizes up Nolan as a potential rival; Tim chases his only lead in the search for an ally.(n)</desc>
+  </programme>
+  <programme start="20261128074000 -0500" stop="20261128084000 -0500" channel="mgmpacific.us">
+    <title lang="en">New Wave</title>
+    <desc lang="en">Inspired by punk's DIY energy and David Bowie, a new generation of outsider artists sparks a movement that becomes known as New Wave.(n)</desc>
+  </programme>
+  <programme start="20261128084000 -0500" stop="20261128084000 -0500" channel="mgmpacific.us">
+    <title lang="en">For a Few Dollars More</title>
+    <desc lang="en">A man with no name (Clint Eastwood) and a man with a mission (Lee Van Cleef) hunt a Mexican bandit (Gian Maria Volonte) for different reasons.(n)</desc>
+  </programme>
+  <programme start="20261128084000 -0500" stop="20261128105500 -0500" channel="mgmpacific.us">
+    <title lang="en">For a Few Dollars More</title>
+    <desc lang="en">A man with no name (Clint Eastwood) and a man with a mission (Lee Van Cleef) hunt a Mexican bandit (Gian Maria Volonte) for different reasons.(n)</desc>
+  </programme>
+  <programme start="20261128105500 -0500" stop="20261128122500 -0500" channel="mgmpacific.us">
+    <title lang="en">Smurfs</title>
+    <desc lang="en">When evil wizards Razamel and Gargamel take Papa Smurf, the Smurfs embark on a mission to the real world to save him. With help from some new friends, they must discover what defines their destiny to save the universe.(n)</desc>
+  </programme>
+  <programme start="20261128122500 -0500" stop="20261128140500 -0500" channel="mgmpacific.us">
+    <title lang="en">Legally Blonde</title>
+    <desc lang="en">A sorority queen (Reese Witherspoon) enrolls in Harvard to prove to her former boyfriend that she has more than good looks.(n)</desc>
+  </programme>
+  <programme start="20261128140500 -0500" stop="20261128154000 -0500" channel="mgmpacific.us">
+    <title lang="en">Legally Blonde 2: Red, White &amp; Blonde</title>
+    <desc lang="en">Fired from her firm, a young Boston lawyer (Reese Witherspoon) heads to Washington, D.C., to fight for animal rights.(n)</desc>
+  </programme>
+  <programme start="20261128154000 -0500" stop="20261128174500 -0500" channel="mgmpacific.us">
+    <title lang="en">An Officer and a Gentleman</title>
+    <desc lang="en">A hardened loner (Richard Gere) shapes up for a military drill instructor (Louis Gossett Jr.) and a factory girl (Debra Winger) from town.(n)</desc>
+  </programme>
+  <programme start="20261128174500 -0500" stop="20261128193000 -0500" channel="mgmpacific.us">
+    <title lang="en">Varsity Blues</title>
+    <desc lang="en">When the star quarterback is injured, a rigid high-school football coach expects an irreverent player to lead the team to victory.(n)</desc>
+  </programme>
+  <programme start="20261128193000 -0500" stop="20261128212500 -0500" channel="mgmpacific.us">
+    <title lang="en">The Thomas Crown Affair</title>
+    <desc lang="en">A billionaire (Pierce Brosnan) looking for new challenges attracts the attention of an investigator (Rene Russo) when a priceless Monet is stolen.(n)</desc>
+  </programme>
+  <programme start="20261128212500 -0500" stop="20261128230000 -0500" channel="mgmpacific.us">
+    <title lang="en">Worldbreaker</title>
+    <desc lang="en">A father hides his daughter on an island to keep her safe while he equips her for survival and the battles ahead.(n)</desc>
+  </programme>
+  <programme start="20261128230000 -0500" stop="20261129014000 -0500" channel="mgmpacific.us">
+    <title lang="en">Project Hail Mary</title>
+    <desc lang="en">Stranded light years from home, Ryland Grace must save the dying sun—with help from an unlikely friend.(n)</desc>
+  </programme>
+  <programme start="20261129014000 -0500" stop="20261129033000 -0500" channel="mgmpacific.us">
+    <title lang="en">Afterburn</title>
+    <desc lang="en">After a massive solar flare destroys the Eastern Hemisphere, a treasure hunter for hire ventures to Europe to retrieve the coveted Mona Lisa, only to learn that the world needs a hero more than it needs a painting.(n)</desc>
+  </programme>
+  <programme start="20261125044000 -0500" stop="20261125064500 -0500" channel="mgmdrivein.us">
+    <title lang="en">The Man Who Shot Liberty Valance</title>
+    <desc lang="en">Flashbacks tell the story of a tenderfoot who rose to glory by gunning down the outlaw terrorizing his small town.(n)</desc>
+  </programme>
+  <programme start="20261125064500 -0500" stop="20261125083500 -0500" channel="mgmdrivein.us">
+    <title lang="en">To Catch a Thief</title>
+    <desc lang="en">A retired cat burglar (Cary Grant) sees fireworks with an American heiress (Grace Kelly) on the Riviera.(n)</desc>
+  </programme>
+  <programme start="20261125083500 -0500" stop="20261125101500 -0500" channel="mgmdrivein.us">
+    <title lang="en">Mouse Hunt</title>
+    <desc lang="en">Brothers (Nathan Lane, Lee Evans) inherit a dilapidated mansion inhabited by a resourceful rodent that refuses to leave.(n)</desc>
+  </programme>
+  <programme start="20261125101500 -0500" stop="20261125115500 -0500" channel="mgmdrivein.us">
+    <title lang="en">The Spiderwick Chronicles</title>
+    <desc lang="en">Siblings (Freddie Highmore, Sarah Bolger) learn that magical creatures are behind the strange occurrences at their great-great-uncle's rundown estate.(n)</desc>
+  </programme>
+  <programme start="20261125115500 -0500" stop="20261125142500 -0500" channel="mgmdrivein.us">
+    <title lang="en">A.I.: Artificial Intelligence</title>
+    <desc lang="en">In the future a cutting-edge android in the form of a boy (Haley Joel Osment) embarks on a journey to discover his true nature.(n)</desc>
+  </programme>
+  <programme start="20261125142500 -0500" stop="20261125164000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Rain Man</title>
+    <desc lang="en">A wheeler-dealer (Tom Cruise) meets his brother (Dustin Hoffman), an institutionalized autistic-savant, heir to $3 million.(n)</desc>
+  </programme>
+  <programme start="20261125164000 -0500" stop="20261125181000 -0500" channel="mgmdrivein.us">
+    <title lang="en">The Uninvited</title>
+    <desc lang="en">A ghost prompts a lethal battle of wills between a man's new fiancée and his two daughters, one of whom has just returned from a mental ward.(n)</desc>
+  </programme>
+  <programme start="20261125181000 -0500" stop="20261125200000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Below</title>
+    <desc lang="en">Mysterious events occur aboard a submarine after its crew (Matthew Davis, Bruce Greenwood) rescues three survivors from a sunken ship during World War II.(n)</desc>
+  </programme>
+  <programme start="20261125200000 -0500" stop="20261125213000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Red Eye</title>
+    <desc lang="en">A plane passenger (Cillian Murphy) forcibly involves his seatmate (Rachel McAdams) in a plot to assassinate a government official.(n)</desc>
+  </programme>
+  <programme start="20261125213000 -0500" stop="20261125231500 -0500" channel="mgmdrivein.us">
+    <title lang="en">Stigmata</title>
+    <desc lang="en">An atheist's (Patricia Arquette) visions and manifestations of wounds like those of the crucified Christ prompt the Vatican to send an investigator (Gabriel Byrne).(n)</desc>
+  </programme>
+  <programme start="20261125231500 -0500" stop="20261126004000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Disturbing Behavior</title>
+    <desc lang="en">High-school students (James Marsden, Katie Holmes, Nick Stahl) suspect that sinister forces are controlling their too-perfect classmates.(n)</desc>
+  </programme>
+  <programme start="20261126004000 -0500" stop="20261126023000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Below</title>
+    <desc lang="en">Mysterious events occur aboard a submarine after its crew (Matthew Davis, Bruce Greenwood) rescues three survivors from a sunken ship during World War II.(n)</desc>
+  </programme>
+  <programme start="20261126023000 -0500" stop="20261126041500 -0500" channel="mgmdrivein.us">
+    <title lang="en">Dressed to Kill</title>
+    <desc lang="en">A psychiatrist (Michael Caine), a prostitute (Nancy Allen) and the son of a slain woman (Angie Dickinson) seek a Manhattan slasher.(n)</desc>
+  </programme>
+  <programme start="20261126041500 -0500" stop="20261126041500 -0500" channel="mgmdrivein.us">
+    <title lang="en">The Crying Game</title>
+    <desc lang="en">An IRA underling (Stephen Rea) meets the lover of a British soldier (Forest Whitaker) he has been ordered to execute.(n)</desc>
+  </programme>
+  <programme start="20261126041500 -0500" stop="20261126061000 -0500" channel="mgmdrivein.us">
+    <title lang="en">The Crying Game</title>
+    <desc lang="en">An IRA underling (Stephen Rea) meets the lover of a British soldier (Forest Whitaker) he has been ordered to execute.(n)</desc>
+  </programme>
+  <programme start="20261126061000 -0500" stop="20261126085500 -0500" channel="mgmdrivein.us">
+    <title lang="en">The Alamo</title>
+    <desc lang="en">Davy Crockett (John Wayne), Jim Bowie (Richard Widmark) and William Travis (Laurence Harvey) die defending the Texas fort against Mexican soldiers in 1836.(n)</desc>
+  </programme>
+  <programme start="20261126085500 -0500" stop="20261126104000 -0500" channel="mgmdrivein.us">
+    <title lang="en">The Texas Chainsaw Massacre Part 2</title>
+    <desc lang="en">A retired Texas Ranger pursues a killer named Leatherface and his family of chainsaw-wielding cannibals.(n)</desc>
+  </programme>
+  <programme start="20261126104000 -0500" stop="20261126121000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Red Eye</title>
+    <desc lang="en">A plane passenger (Cillian Murphy) forcibly involves his seatmate (Rachel McAdams) in a plot to assassinate a government official.(n)</desc>
+  </programme>
+  <programme start="20261126121000 -0500" stop="20261126135500 -0500" channel="mgmdrivein.us">
+    <title lang="en">Stigmata</title>
+    <desc lang="en">An atheist's (Patricia Arquette) visions and manifestations of wounds like those of the crucified Christ prompt the Vatican to send an investigator (Gabriel Byrne).(n)</desc>
+  </programme>
+  <programme start="20261126135500 -0500" stop="20261126152000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Disturbing Behavior</title>
+    <desc lang="en">High-school students (James Marsden, Katie Holmes, Nick Stahl) suspect that sinister forces are controlling their too-perfect classmates.(n)</desc>
+  </programme>
+  <programme start="20261126152000 -0500" stop="20261126171000 -0500" channel="mgmdrivein.us">
+    <title lang="en">A Fish Called Wanda</title>
+    <desc lang="en">An American (Jamie Lee Curtis) flirts with a crook, a barrister (John Cleese) and a mercenary (Kevin Kline) to find diamonds in London.(n)</desc>
+  </programme>
+  <programme start="20261126171000 -0500" stop="20261126183500 -0500" channel="mgmdrivein.us">
+    <title lang="en">A Night at the Roxbury</title>
+    <desc lang="en">Desperate to meet women and open their own dance club, brainless brothers Steve (Will Ferrell) and Doug Butabi (Chris Kattan) cruise Beverly Hills.(n)</desc>
+  </programme>
+  <programme start="20261126183500 -0500" stop="20261126200000 -0500" channel="mgmdrivein.us">
+    <title lang="en">The Dictator</title>
+    <desc lang="en">A North African tyrant (Sacha Baron Cohen) risks his life to ensure that democracy never comes to the country he so lovingly oppresses.(n)</desc>
+  </programme>
+  <programme start="20261126200000 -0500" stop="20261126214500 -0500" channel="mgmdrivein.us">
+    <title lang="en">Barbershop</title>
+    <desc lang="en">The owner of a popular barbershop considers selling the place to a loan shark who wants to convert it into a strip club.(n)</desc>
+  </programme>
+  <programme start="20261126214500 -0500" stop="20261126233500 -0500" channel="mgmdrivein.us">
+    <title lang="en">Barbershop 2: Back in Business</title>
+    <desc lang="en">The owner of a barbershop faces pressure from a corporation that is opening establishments in his neighborhood.(n)</desc>
+  </programme>
+  <programme start="20261126233500 -0500" stop="20261127012500 -0500" channel="mgmdrivein.us">
+    <title lang="en">Beauty Shop</title>
+    <desc lang="en">After a falling-out with an overbearing employer, reputed hairstylist Gina decides to go independent. Soon enough, she opens the doors of her new salon to an amusing crowd of patrons.(n)</desc>
+  </programme>
+  <programme start="20261127012500 -0500" stop="20261127032000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Barbershop: The Next Cut</title>
+    <desc lang="en">With the barbershop now coed, Calvin (Ice Cube), Eddie (Cedric the Entertainer) and the rest of the gang come up with a plan to save the neighborhood from crime.(n)</desc>
+  </programme>
+  <programme start="20261127032000 -0500" stop="20261127044500 -0500" channel="mgmdrivein.us">
+    <title lang="en">The Dictator</title>
+    <desc lang="en">A North African tyrant (Sacha Baron Cohen) risks his life to ensure that democracy never comes to the country he so lovingly oppresses.(n)</desc>
+  </programme>
+  <programme start="20261127044500 -0500" stop="20261127054500 -0500" channel="mgmdrivein.us">
+    <title lang="en">Unprotected Sets</title>
+    <desc lang="en">Julian McCullough has a lot to say about the world today and why you should never own an ostrich; Amy Miller is raw and honest.(n)</desc>
+  </programme>
+  <programme start="20261127054500 -0500" stop="20261127054500 -0500" channel="mgmdrivein.us">
+    <title lang="en">From Beyond</title>
+    <desc lang="en">A psychiatrist (Barbara Crampton) and a scientist (Jeffrey Combs) test a dead inventor's (Ted Sorel) device for stimulating the pineal gland for access to other dimensions.(n)</desc>
+  </programme>
+  <programme start="20261127054500 -0500" stop="20261127071500 -0500" channel="mgmdrivein.us">
+    <title lang="en">From Beyond</title>
+    <desc lang="en">A psychiatrist (Barbara Crampton) and a scientist (Jeffrey Combs) test a dead inventor's (Ted Sorel) device for stimulating the pineal gland for access to other dimensions.(n)</desc>
+  </programme>
+  <programme start="20261127071500 -0500" stop="20261127091000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Biker Boyz</title>
+    <desc lang="en">A young prodigy (Derek Luke) threatens the undefeated champion (Laurence Fishburne) of an underground club of motorcycle racers.(n)</desc>
+  </programme>
+  <programme start="20261127091000 -0500" stop="20261127105500 -0500" channel="mgmdrivein.us">
+    <title lang="en">Barbershop</title>
+    <desc lang="en">The owner of a popular barbershop considers selling the place to a loan shark who wants to convert it into a strip club.(n)</desc>
+  </programme>
+  <programme start="20261127105500 -0500" stop="20261127124500 -0500" channel="mgmdrivein.us">
+    <title lang="en">Barbershop 2: Back in Business</title>
+    <desc lang="en">The owner of a barbershop faces pressure from a corporation that is opening establishments in his neighborhood.(n)</desc>
+  </programme>
+  <programme start="20261127124500 -0500" stop="20261127143500 -0500" channel="mgmdrivein.us">
+    <title lang="en">Beauty Shop</title>
+    <desc lang="en">After a falling-out with an overbearing employer, reputed hairstylist Gina decides to go independent. Soon enough, she opens the doors of her new salon to an amusing crowd of patrons.(n)</desc>
+  </programme>
+  <programme start="20261127143500 -0500" stop="20261127163000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Barbershop: The Next Cut</title>
+    <desc lang="en">With the barbershop now coed, Calvin (Ice Cube), Eddie (Cedric the Entertainer) and the rest of the gang come up with a plan to save the neighborhood from crime.(n)</desc>
+  </programme>
+  <programme start="20261127163000 -0500" stop="20261127183000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Kalifornia</title>
+    <desc lang="en">An intrigued couple (Brad Pitt, Juliette Lewis) tags along on a trip cross-country with a writer (David Duchovny) researching serial killers.(n)</desc>
+  </programme>
+  <programme start="20261127183000 -0500" stop="20261127200000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Red Eye</title>
+    <desc lang="en">A plane passenger (Cillian Murphy) forcibly involves his seatmate (Rachel McAdams) in a plot to assassinate a government official.(n)</desc>
+  </programme>
+  <programme start="20261127200000 -0500" stop="20261127220000 -0500" channel="mgmdrivein.us">
+    <title lang="en">The Silence of the Lambs</title>
+    <desc lang="en">An FBI trainee (Jodie Foster) seeks advice from a brilliant, psychopathic prisoner (Anthony Hopkins) to catch a killer who skins his victims.(n)</desc>
+  </programme>
+  <programme start="20261127220000 -0500" stop="20261128001500 -0500" channel="mgmdrivein.us">
+    <title lang="en">Hannibal</title>
+    <desc lang="en">Seven years have passed since Dr. Hannibal Lecter (Anthony Hopkins) escaped from custody. The doctor is now at large in Europe. Mason Verger (Gary Oldman) remembers Lecter too, and is obsessed with revenge.(n)</desc>
+  </programme>
+  <programme start="20261128001500 -0500" stop="20261128020000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Body of Evidence</title>
+    <desc lang="en">A lawyer (Willem Dafoe) defends a gold digger (Madonna) for murder by sex, a charge whose validity he soon sees for himself.(n)</desc>
+  </programme>
+  <programme start="20261128020000 -0500" stop="20261128033000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Red Eye</title>
+    <desc lang="en">A plane passenger (Cillian Murphy) forcibly involves his seatmate (Rachel McAdams) in a plot to assassinate a government official.(n)</desc>
+  </programme>
+  <programme start="20261128033000 -0500" stop="20261128054000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Flesh &amp; Blood</title>
+    <desc lang="en">A medieval mercenary (Rutger Hauer) takes another man's (Tom Burlinson) bride (Jennifer Jason Leigh) and then a castle during a plague.(n)</desc>
+  </programme>
+  <programme start="20261128054000 -0500" stop="20261128054000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Scared Stiff</title>
+    <desc lang="en">Gangsters chase a singer (Dean Martin) and his sidekick (Jerry Lewis) to an heiress's (Lizabeth Scott) haunted castle off Cuba.(n)</desc>
+  </programme>
+  <programme start="20261128054000 -0500" stop="20261128073000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Scared Stiff</title>
+    <desc lang="en">Gangsters chase a singer (Dean Martin) and his sidekick (Jerry Lewis) to an heiress's (Lizabeth Scott) haunted castle off Cuba.(n)</desc>
+  </programme>
+  <programme start="20261128073000 -0500" stop="20261128092000 -0500" channel="mgmdrivein.us">
+    <title lang="en">The Package</title>
+    <desc lang="en">An Army sergeant (Gene Hackman) and his officer ex-wife (Joanna Cassidy) are caught in a Cold War plot over a military prisoner (Tommy Lee Jones).(n)</desc>
+  </programme>
+  <programme start="20261128092000 -0500" stop="20261128113000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Marathon Man</title>
+    <desc lang="en">The CIA and a Nazi death-camp dentist (Laurence Olivier) chase a New York graduate student (Dustin Hoffman).(n)</desc>
+  </programme>
+  <programme start="20261128113000 -0500" stop="20261128134000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Mississippi Burning</title>
+    <desc lang="en">Two FBI agents face racism while investigating the disappearance of three civil rights activists in 1964 Mississippi.(n)</desc>
+  </programme>
+  <programme start="20261128134000 -0500" stop="20261128155500 -0500" channel="mgmdrivein.us">
+    <title lang="en">Hannibal</title>
+    <desc lang="en">Seven years have passed since Dr. Hannibal Lecter (Anthony Hopkins) escaped from custody. The doctor is now at large in Europe. Mason Verger (Gary Oldman) remembers Lecter too, and is obsessed with revenge.(n)</desc>
+  </programme>
+  <programme start="20261128155500 -0500" stop="20261128181500 -0500" channel="mgmdrivein.us">
+    <title lang="en">Backdraft</title>
+    <desc lang="en">Two brothers (Kurt Russell, William Baldwin) fight each other and an outbreak of arson as Chicago firefighters.(n)</desc>
+  </programme>
+  <programme start="20261128181500 -0500" stop="20261128200000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Cop Land</title>
+    <desc lang="en">The sheriff (Sylvester Stallone) of a small New Jersey police community confronts key men (Harvey Keitel, Ray Liotta) on both sides of a law-enforcement cover-up.(n)</desc>
+  </programme>
+  <programme start="20261128200000 -0500" stop="20261128221000 -0500" channel="mgmdrivein.us">
+    <title lang="en">Raging Bull</title>
+    <desc lang="en">The violent nature of prizefighter Jake LaMotta leads first to a boxing championship, then to a downward spiral of self-destruction.(n)</desc>
+  </programme>
+  <programme start="20261128221000 -0500" stop="20261129001500 -0500" channel="mgmdrivein.us">
+    <title lang="en">Ronin</title>
+    <desc lang="en">An Irish ringleader (Natascha McElhone) organizes an international team of hired guns (Robert De Niro, Jean Reno) to retrieve a briefcase from criminals.(n)</desc>
+  </programme>
+  <programme start="20261125035000 -0500" stop="20261125064000 -0500" channel="mgmmarquee.us">
+    <title lang="en">The Big Country</title>
+    <desc lang="en">A former sea captain (Gregory Peck) goes West, woos women (Jean Simmons, Carroll Baker) and joins a fight over water rights.(n)</desc>
+  </programme>
+  <programme start="20261125064000 -0500" stop="20261125090000 -0500" channel="mgmmarquee.us">
+    <title lang="en">Henry V</title>
+    <desc lang="en">Shakespeare's king of England (Kenneth Branagh) attacks France and declares his love for the French king's daughter.(n)</desc>
+  </programme>
+  <programme start="20261125090000 -0500" stop="20261125104000 -0500" channel="mgmmarquee.us">
+    <title lang="en">Men at Work</title>
+    <desc lang="en">Two goofy garbagemen find a politician's corpse in a can, and a toxic-waste scheme behind it.(n)</desc>
+  </programme>
+  <programme start="20261125104000 -0500" stop="20261125124000 -0500" channel="mgmmarquee.us">
+    <title lang="en">Harlem Nights</title>
+    <desc lang="en">Business partners resisting a white mobster trying to take over their nightclub in the 1930s Harlem.(n)</desc>
+  </programme>
+  <programme start="20261125124000 -0500" stop="20261125143500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Dirty Rotten Scoundrels</title>
+    <desc lang="en">An American con man (Steve Martin) and his British rival (Michael Caine) target a soap heiress (Glenne Headly) from Cleveland on the French Riviera.(n)</desc>
+  </programme>
+  <programme start="20261125143500 -0500" stop="20261125164000 -0500" channel="mgmmarquee.us">
+    <title lang="en">Bandits</title>
+    <desc lang="en">Two bank robbers (Bruce Willis, Billy Bob Thornton) fall for a bored housewife (Cate Blanchett) who helps them commit heists across the country.(n)</desc>
+  </programme>
+  <programme start="20261125164000 -0500" stop="20261125182500 -0500" channel="mgmmarquee.us">
+    <title lang="en">John Carpenter's Escape From L.A.</title>
+    <desc lang="en">The fascist U.S. president enlists a jailed war hero (Kurt Russell) to retrieve a top-secret device stolen by his daughter on island Los Angeles in 2013.(n)</desc>
+  </programme>
+  <programme start="20261125182500 -0500" stop="20261125200000 -0500" channel="mgmmarquee.us">
+    <title lang="en">Worldbreaker</title>
+    <desc lang="en">A father hides his daughter on an island to keep her safe while he equips her for survival and the battles ahead.(n)</desc>
+  </programme>
+  <programme start="20261125200000 -0500" stop="20261125215500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Annihilation</title>
+    <desc lang="en">As a biologist searches for her missing husband while on an expedition with a secret agency, she discovers a dangerous creature lurking in the wilderness.(n)</desc>
+  </programme>
+  <programme start="20261125215500 -0500" stop="20261126001000 -0500" channel="mgmmarquee.us">
+    <title lang="en">The Running Man</title>
+    <desc lang="en">Desperate for money to save his sick daughter, Ben Richards joins the top-rated show on television,.(n)</desc>
+  </programme>
+  <programme start="20261126001000 -0500" stop="20261126025000 -0500" channel="mgmmarquee.us">
+    <title lang="en">Project Hail Mary</title>
+    <desc lang="en">Stranded light years from home, Ryland Grace must save the dying sun—with help from an unlikely friend.(n)</desc>
+  </programme>
+  <programme start="20261126025000 -0500" stop="20261126042500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Worldbreaker</title>
+    <desc lang="en">A father hides his daughter on an island to keep her safe while he equips her for survival and the battles ahead.(n)</desc>
+  </programme>
+  <programme start="20261126042500 -0500" stop="20261126054500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Unseen</title>
+    <desc lang="en">Sam, a gas station clerk, receives a random call from Emily, a nearly blind woman who's running from her murderous ex in the woods. Using a phone, Sam becomes Emily's only chance for survival as she guides the terrified woman through a video call.(n)</desc>
+  </programme>
+  <programme start="20261126054500 -0500" stop="20261126054500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Sherlock Gnomes</title>
+    <desc lang="en">When Gnomeo and Juliet first arrive in London, their biggest concern is getting their new garden ready for spring. After someone kidnaps their garden gnomes, the duo calls on famous Detective Sherlock Gnomes and his sidekick Watson to solve the case.(n)</desc>
+  </programme>
+  <programme start="20261126054500 -0500" stop="20261126071500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Sherlock Gnomes</title>
+    <desc lang="en">When Gnomeo and Juliet first arrive in London, their biggest concern is getting their new garden ready for spring. After someone kidnaps their garden gnomes, the duo calls on famous Detective Sherlock Gnomes and his sidekick Watson to solve the case.(n)</desc>
+  </programme>
+  <programme start="20261126071500 -0500" stop="20261126085500 -0500" channel="mgmmarquee.us">
+    <title lang="en">The Spiderwick Chronicles</title>
+    <desc lang="en">Siblings (Freddie Highmore, Sarah Bolger) learn that magical creatures are behind the strange occurrences at their great-great-uncle's rundown estate.(n)</desc>
+  </programme>
+  <programme start="20261126085500 -0500" stop="20261126105000 -0500" channel="mgmmarquee.us">
+    <title lang="en">Annihilation</title>
+    <desc lang="en">As a biologist searches for her missing husband while on an expedition with a secret agency, she discovers a dangerous creature lurking in the wilderness.(n)</desc>
+  </programme>
+  <programme start="20261126105000 -0500" stop="20261126130500 -0500" channel="mgmmarquee.us">
+    <title lang="en">The Running Man</title>
+    <desc lang="en">Desperate for money to save his sick daughter, Ben Richards joins the top-rated show on television,.(n)</desc>
+  </programme>
+  <programme start="20261126130500 -0500" stop="20261126154500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Project Hail Mary</title>
+    <desc lang="en">Stranded light years from home, Ryland Grace must save the dying sun—with help from an unlikely friend.(n)</desc>
+  </programme>
+  <programme start="20261126154500 -0500" stop="20261126172500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Hercules</title>
+    <desc lang="en">Now a traveling mercenary, Hercules must once again become a hero to help the benevolent king of Thrace protect his people from a powerful warlord.(n)</desc>
+  </programme>
+  <programme start="20261126172500 -0500" stop="20261126200000 -0500" channel="mgmmarquee.us">
+    <title lang="en">Transformers: The Last Knight</title>
+    <desc lang="en">As war with the Transformers rages on, inventor Cade Yeager forms an unlikely alliance with Bumblebee, an English lord and an Oxford professor to save the planet.(n)</desc>
+  </programme>
+  <programme start="20261126200000 -0500" stop="20261126220000 -0500" channel="mgmmarquee.us">
+    <title lang="en">G.I. Joe: The Rise of Cobra</title>
+    <desc lang="en">The elite G.I. Joe team uses the latest technology in its battle against corrupt arms dealer Destro and a mysterious organization known as Cobra.(n)</desc>
+  </programme>
+  <programme start="20261126220000 -0500" stop="20261126235500 -0500" channel="mgmmarquee.us">
+    <title lang="en">G.I. Joe: Retaliation</title>
+    <desc lang="en">The G.I. Joes are not only fighting their mortal enemy Cobra, they are also forced to contend with threats from within the government that jeopardize their very existence.(n)</desc>
+  </programme>
+  <programme start="20261126235500 -0500" stop="20261127020000 -0500" channel="mgmmarquee.us">
+    <title lang="en">Underworld</title>
+    <desc lang="en">A female vampire tries to protect a medical student from werewolves intent on creating a hybrid species.(n)</desc>
+  </programme>
+  <programme start="20261127020000 -0500" stop="20261127043500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Transformers: The Last Knight</title>
+    <desc lang="en">As war with the Transformers rages on, inventor Cade Yeager forms an unlikely alliance with Bumblebee, an English lord and an Oxford professor to save the planet.(n)</desc>
+  </programme>
+  <programme start="20261127043500 -0500" stop="20261127043500 -0500" channel="mgmmarquee.us">
+    <title lang="en">The Man Who Shot Liberty Valance</title>
+    <desc lang="en">Flashbacks tell the story of a tenderfoot who rose to glory by gunning down the outlaw terrorizing his small town.(n)</desc>
+  </programme>
+  <programme start="20261127043500 -0500" stop="20261127064000 -0500" channel="mgmmarquee.us">
+    <title lang="en">The Man Who Shot Liberty Valance</title>
+    <desc lang="en">Flashbacks tell the story of a tenderfoot who rose to glory by gunning down the outlaw terrorizing his small town.(n)</desc>
+  </programme>
+  <programme start="20261127064000 -0500" stop="20261127085000 -0500" channel="mgmmarquee.us">
+    <title lang="en">The Magnificent Seven</title>
+    <desc lang="en">A man in black (Yul Brynner) recruits six hired guns to lead Mexican villagers against the gang of an outlaw (Eli Wallach).(n)</desc>
+  </programme>
+  <programme start="20261127085000 -0500" stop="20261127103500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Bulletproof Monk</title>
+    <desc lang="en">A martial-arts master (Chow Yun-Fat) finds an unlikely protégé (Seann William Scott) to take over the responsibility of protecting an ancient scroll.(n)</desc>
+  </programme>
+  <programme start="20261127103500 -0500" stop="20261127123500 -0500" channel="mgmmarquee.us">
+    <title lang="en">G.I. Joe: The Rise of Cobra</title>
+    <desc lang="en">The elite G.I. Joe team uses the latest technology in its battle against corrupt arms dealer Destro and a mysterious organization known as Cobra.(n)</desc>
+  </programme>
+  <programme start="20261127123500 -0500" stop="20261127143000 -0500" channel="mgmmarquee.us">
+    <title lang="en">G.I. Joe: Retaliation</title>
+    <desc lang="en">The G.I. Joes are not only fighting their mortal enemy Cobra, they are also forced to contend with threats from within the government that jeopardize their very existence.(n)</desc>
+  </programme>
+  <programme start="20261127143000 -0500" stop="20261127163500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Underworld</title>
+    <desc lang="en">A female vampire tries to protect a medical student from werewolves intent on creating a hybrid species.(n)</desc>
+  </programme>
+  <programme start="20261127163500 -0500" stop="20261127181500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Rollerball</title>
+    <desc lang="en">A businessman (Jean Reno) wants to see more violence in a dangerous sport where athletes (Chris Klein, LL Cool J) already risk their lives.(n)</desc>
+  </programme>
+  <programme start="20261127181500 -0500" stop="20261127200000 -0500" channel="mgmmarquee.us">
+    <title lang="en">John Carpenter's Escape From L.A.</title>
+    <desc lang="en">The fascist U.S. president enlists a jailed war hero (Kurt Russell) to retrieve a top-secret device stolen by his daughter on island Los Angeles in 2013.(n)</desc>
+  </programme>
+  <programme start="20261127200000 -0500" stop="20261127214500 -0500" channel="mgmmarquee.us">
+    <title lang="en">RoboCop</title>
+    <desc lang="en">Scientists use the mangled remains of a dead police officer to create the ultimate crime-fighter -- an indestructible cyborg.(n)</desc>
+  </programme>
+  <programme start="20261127214500 -0500" stop="20261127234500 -0500" channel="mgmmarquee.us">
+    <title lang="en">RoboCop 2</title>
+    <desc lang="en">The cyborg policeman (Peter Weller) and his female partner (Nancy Allen) oppose the mayor and a drug magnate in Old Detroit.(n)</desc>
+  </programme>
+  <programme start="20261127234500 -0500" stop="20261128013000 -0500" channel="mgmmarquee.us">
+    <title lang="en">RoboCop 3</title>
+    <desc lang="en">The cyborg policeman (Robert John Burke) takes to the air to defend a run-down neighborhood from a Japanese tycoon.(n)</desc>
+  </programme>
+  <programme start="20261128013000 -0500" stop="20261128031500 -0500" channel="mgmmarquee.us">
+    <title lang="en">John Carpenter's Escape From L.A.</title>
+    <desc lang="en">The fascist U.S. president enlists a jailed war hero (Kurt Russell) to retrieve a top-secret device stolen by his daughter on island Los Angeles in 2013.(n)</desc>
+  </programme>
+  <programme start="20261128031500 -0500" stop="20261128045500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Harley Davidson and the Marlboro Man</title>
+    <desc lang="en">Two cowboy bikers (Mickey Rourke, Don Johnson) rob a corrupt bank to save a friend's bar from foreclosure in 1996 California.(n)</desc>
+  </programme>
+  <programme start="20261128045500 -0500" stop="20261128045500 -0500" channel="mgmmarquee.us">
+    <title lang="en">The Ladies' Man</title>
+    <desc lang="en">After Herbert (Jerry Lewis) loses his lover, he gives up women for good. To get over them, he takes a maintenance position at boarding house, but to his surprise, the building caters specifically to single ladies.(n)</desc>
+  </programme>
+  <programme start="20261128045500 -0500" stop="20261128063500 -0500" channel="mgmmarquee.us">
+    <title lang="en">The Ladies' Man</title>
+    <desc lang="en">After Herbert (Jerry Lewis) loses his lover, he gives up women for good. To get over them, he takes a maintenance position at boarding house, but to his surprise, the building caters specifically to single ladies.(n)</desc>
+  </programme>
+  <programme start="20261128063500 -0500" stop="20261128082500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Barefoot in the Park</title>
+    <desc lang="en">A conservative lawyer (Robert Redford) marries a vivacious woman (Jane Fonda), and the two move into a busy Greenwich Village apartment.(n)</desc>
+  </programme>
+  <programme start="20261128082500 -0500" stop="20261128101500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Sky Captain and the World of Tomorrow</title>
+    <desc lang="en">A daredevil aviator (Jude Law) and an ace reporter (Gwyneth Paltrow) fight an evil mastermind and his army of gigantic robots.(n)</desc>
+  </programme>
+  <programme start="20261128101500 -0500" stop="20261128120000 -0500" channel="mgmmarquee.us">
+    <title lang="en">RoboCop</title>
+    <desc lang="en">Scientists use the mangled remains of a dead police officer to create the ultimate crime-fighter -- an indestructible cyborg.(n)</desc>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128140000 -0500" channel="mgmmarquee.us">
+    <title lang="en">RoboCop 2</title>
+    <desc lang="en">The cyborg policeman (Peter Weller) and his female partner (Nancy Allen) oppose the mayor and a drug magnate in Old Detroit.(n)</desc>
+  </programme>
+  <programme start="20261128140000 -0500" stop="20261128154500 -0500" channel="mgmmarquee.us">
+    <title lang="en">RoboCop 3</title>
+    <desc lang="en">The cyborg policeman (Robert John Burke) takes to the air to defend a run-down neighborhood from a Japanese tycoon.(n)</desc>
+  </programme>
+  <programme start="20261128154500 -0500" stop="20261128174500 -0500" channel="mgmmarquee.us">
+    <title lang="en">Quigley Down Under</title>
+    <desc lang="en">An Old West sharpshooter goes to Australia, where his new boss expects him to kill Aboriginal Australians.(n)</desc>
+  </programme>
+  <programme start="20261128174500 -0500" stop="20261128200000 -0500" channel="mgmmarquee.us">
+    <title lang="en">The Magnificent Seven</title>
+    <desc lang="en">Desperate townspeople hire seven mercenaries to battle a greedy industrialist and his ruthless henchmen in the Old West.(n)</desc>
+  </programme>
+  <programme start="20261128200000 -0500" stop="20261128214000 -0500" channel="mgmmarquee.us">
+    <title lang="en">Is God Is</title>
+    <desc lang="en">Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.(n)</desc>
+  </programme>
+  <programme start="20261128214000 -0500" stop="20261128232000 -0500" channel="mgmmarquee.us">
+    <title lang="en">The Isolate Thief</title>
+    <desc lang="en">Alone at a snowbound frontier outpost in 1865, a young woman sitting on a stash of stolen gold must outwit a charming yet terrifying gang leader and his ruthless crew in a claustrophobic battle of wits where nothing and no one is what they seem.(n)</desc>
+  </programme>
+  <programme start="20261128232000 -0500" stop="20261129011000 -0500" channel="mgmmarquee.us">
+    <title lang="en">The Rhythm Section</title>
+    <desc lang="en">Stephanie Patrick veers down a path of self-destruction after a tragic plane crash kills her family. When Stephanie discovers it wasn't an accident, she soon embarks on a bloody quest for revenge to punish those responsible.(n)</desc>
+  </programme>
+  <programme start="20261125053000 -0500" stop="20261125071000 -0500" channel="mgmhits.us">
+    <title lang="en">The Passenger</title>
+    <desc lang="en">Randy is perfectly content to fade into the background, but when one of his co-workers goes on a sudden and violent rampage, he must face his fears and confront his troubled past to survive.(n)</desc>
+  </programme>
+  <programme start="20261125071000 -0500" stop="20261125083500 -0500" channel="mgmhits.us">
+    <title lang="en">Hondo</title>
+    <desc lang="en">An Indian scout attempts to escort a homesteader's wife and her son back to safety after her husband deserts her during an Apache attack. When she refuses to go, he stays on to help and, over time, forms a strong bond with both her and her son.(n)</desc>
+  </programme>
+  <programme start="20261125083500 -0500" stop="20261125102000 -0500" channel="mgmhits.us">
+    <title lang="en">Suburbicon</title>
+    <desc lang="en">Suburbicon is a peaceful, idyllic, suburban community with affordable homes and manicured lawns. But the tranquil surface masks a disturbing reality, as family man Gardner Lodge navigates the town's dark underbelly of betrayal, deceit and violence.(n)</desc>
+  </programme>
+  <programme start="20261125102000 -0500" stop="20261125132000 -0500" channel="mgmhits.us">
+    <title lang="en">The Good, the Bad and the Ugly</title>
+    <desc lang="en">A drifter, a bandit and a bounty hunter reach a standoff over buried gold.(n)</desc>
+  </programme>
+  <programme start="20261125132000 -0500" stop="20261125144500 -0500" channel="mgmhits.us">
+    <title lang="en">The Dictator</title>
+    <desc lang="en">A North African tyrant (Sacha Baron Cohen) risks his life to ensure that democracy never comes to the country he so lovingly oppresses.(n)</desc>
+  </programme>
+  <programme start="20261125144500 -0500" stop="20261125164000 -0500" channel="mgmhits.us">
+    <title lang="en">Kingpin</title>
+    <desc lang="en">A one-handed salesman, an Amish farm boy and a pretty con artist pull bowling scams to get to a $1 million tournament in Reno.(n)</desc>
+  </programme>
+  <programme start="20261125164000 -0500" stop="20261125181500 -0500" channel="mgmhits.us">
+    <title lang="en">The Stepford Wives</title>
+    <desc lang="en">A man and his wife move to a quaint suburb where most of the women seem to have the same bland personality.(n)</desc>
+  </programme>
+  <programme start="20261125181500 -0500" stop="20261125200000 -0500" channel="mgmhits.us">
+    <title lang="en">Bulletproof Monk</title>
+    <desc lang="en">A martial-arts master (Chow Yun-Fat) finds an unlikely protégé (Seann William Scott) to take over the responsibility of protecting an ancient scroll.(n)</desc>
+  </programme>
+  <programme start="20261125200000 -0500" stop="20261125214500 -0500" channel="mgmhits.us">
+    <title lang="en">Home for the Holidays</title>
+    <desc lang="en">Fights and reconciliations mark a single mom's (Holly Hunter) Thanksgiving with her dysfunctional Baltimore clan.(n)</desc>
+  </programme>
+  <programme start="20261125214500 -0500" stop="20261125232500 -0500" channel="mgmhits.us">
+    <title lang="en">Fargo</title>
+    <desc lang="en">A pregnant police chief (Frances McDormand) probes the murderous events that evolved from a desperate car salesman's (William H. Macy) kidnapping scheme.(n)</desc>
+  </programme>
+  <programme start="20261125232500 -0500" stop="20261126010500 -0500" channel="mgmhits.us">
+    <title lang="en">Cadillac Man</title>
+    <desc lang="en">An angry husband (Tim Robbins) catches up to a wise-guy car salesman (Robin Williams) who cons customers and women.(n)</desc>
+  </programme>
+  <programme start="20261126010500 -0500" stop="20261126020500 -0500" channel="mgmhits.us">
+    <title lang="en">Secret Service</title>
+    <desc lang="en">MI6 agent Kate Henderson uncovers an audacious plot involving Russia and an asset in the UK Cabinet; Kate's hunt for the mole puts her agent's life at risk.(n)</desc>
+  </programme>
+  <programme start="20261126020500 -0500" stop="20261126030500 -0500" channel="mgmhits.us">
+    <title lang="en">The Institute</title>
+    <desc lang="en">Luke and friends adjust to their new surroundings; Sigsby sizes up Nolan as a potential rival; Tim chases his only lead in the search for an ally.(n)</desc>
+  </programme>
+  <programme start="20261126030500 -0500" stop="20261126040500 -0500" channel="mgmhits.us">
+    <title lang="en">New Wave</title>
+    <desc lang="en">Inspired by punk's DIY energy and David Bowie, a new generation of outsider artists sparks a movement that becomes known as New Wave.(n)</desc>
+  </programme>
+  <programme start="20261126040500 -0500" stop="20261126040500 -0500" channel="mgmhits.us">
+    <title lang="en">The Great Escape</title>
+    <desc lang="en">A group of Allied soldiers are intent on breaking out, not only to escape, but also to draw Nazi forces away from battle to search for fugitives. Among the prisoners are American Captain Virgil Hilts and British Squadron Leader Roger Bartlett.(n)</desc>
+  </programme>
+  <programme start="20261126040500 -0500" stop="20261126070000 -0500" channel="mgmhits.us">
+    <title lang="en">The Great Escape</title>
+    <desc lang="en">A group of Allied soldiers are intent on breaking out, not only to escape, but also to draw Nazi forces away from battle to search for fugitives. Among the prisoners are American Captain Virgil Hilts and British Squadron Leader Roger Bartlett.(n)</desc>
+  </programme>
+  <programme start="20261126070000 -0500" stop="20261126092000 -0500" channel="mgmhits.us">
+    <title lang="en">Henry V</title>
+    <desc lang="en">Shakespeare's king of England (Kenneth Branagh) attacks France and declares his love for the French king's daughter.(n)</desc>
+  </programme>
+  <programme start="20261126092000 -0500" stop="20261126105000 -0500" channel="mgmhits.us">
+    <title lang="en">The SpongeBob Movie: Search for SquarePants</title>
+    <desc lang="en">Hoping to prove his bravery to Mr. Krabs, SpongeBob follows a mysterious, swashbuckling ghost pirate known as the Flying Dutchman on a seafaring adventure that takes him to the deepest depths of the ocean.(n)</desc>
+  </programme>
+  <programme start="20261126105000 -0500" stop="20261126122000 -0500" channel="mgmhits.us">
+    <title lang="en">Smurfs</title>
+    <desc lang="en">When evil wizards Razamel and Gargamel take Papa Smurf, the Smurfs embark on a mission to the real world to save him. With help from some new friends, they must discover what defines their destiny to save the universe.(n)</desc>
+  </programme>
+  <programme start="20261126122000 -0500" stop="20261126143000 -0500" channel="mgmhits.us">
+    <title lang="en">Raging Bull</title>
+    <desc lang="en">The violent nature of prizefighter Jake LaMotta leads first to a boxing championship, then to a downward spiral of self-destruction.(n)</desc>
+  </programme>
+  <programme start="20261126143000 -0500" stop="20261126164500 -0500" channel="mgmhits.us">
+    <title lang="en">Windtalkers</title>
+    <desc lang="en">In World War II, a Marine (Nicolas Cage) protects a Navajo recruit (Adam Beach) who transmits messages in his native tongue, confounding Japanese code-breakers.(n)</desc>
+  </programme>
+  <programme start="20261126164500 -0500" stop="20261126190000 -0500" channel="mgmhits.us">
+    <title lang="en">Flags of Our Fathers</title>
+    <desc lang="en">Some of the servicemen who raised the U.S. flag on Mount Suribachi during the Battle of Iwo Jima at the end of World War II live to hear of their status as heroes.(n)</desc>
+  </programme>
+  <programme start="20261126190000 -0500" stop="20261126200000 -0500" channel="mgmhits.us">
+    <title lang="en">New Wave</title>
+    <desc lang="en">Inspired by punk's DIY energy and David Bowie, a new generation of outsider artists sparks a movement that becomes known as New Wave.(n)</desc>
+  </programme>
+  <programme start="20261126200000 -0500" stop="20261126210000 -0500" channel="mgmhits.us">
+    <title lang="en">The Institute</title>
+    <desc lang="en">Luke and friends adjust to their new surroundings; Sigsby sizes up Nolan as a potential rival; Tim chases his only lead in the search for an ally.(n)</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261126220000 -0500" channel="mgmhits.us">
+    <title lang="en">Secret Service</title>
+    <desc lang="en">MI6 agent Kate Henderson uncovers an audacious plot involving Russia and an asset in the UK Cabinet; Kate's hunt for the mole puts her agent's life at risk.(n)</desc>
+  </programme>
+  <programme start="20261126220000 -0500" stop="20261127000000 -0500" channel="mgmhits.us">
+    <title lang="en">U-571</title>
+    <desc lang="en">American servicemen sneak aboard a disabled German sub to steal an encryption device they hope will help the Allies win the war.(n)</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127020000 -0500" channel="mgmhits.us">
+    <title lang="en">Full Metal Jacket</title>
+    <desc lang="en">A Marine (Matthew Modine) and his companions (Adam Baldwin, Vincent D'Onofrio) endure basic training under a sadistic drill sergeant and fight in the 1968 Tet offensive.(n)</desc>
+  </programme>
+  <programme start="20261127020000 -0500" stop="20261127033000 -0500" channel="mgmhits.us">
+    <title lang="en">The Visitor</title>
+    <desc lang="en">When Robert and his wife move to her childhood home, he discovers an old portrait in the attic of a man who looks just like him. He soon travels down a frightening rabbit hole as he tries to discover the true identity of his mysterious doppelgänger.(n)</desc>
+  </programme>
+  <programme start="20261127033000 -0500" stop="20261127033000 -0500" channel="mgmhits.us">
+    <title lang="en">Once Upon a Time in the West</title>
+    <desc lang="en">An outlaw (Henry Fonda) working for a railroad magnate fights a stranger (Charles Bronson) for a New Orleans widow's (Claudia Cardinale) land.(n)</desc>
+  </programme>
+  <programme start="20261127033000 -0500" stop="20261127062000 -0500" channel="mgmhits.us">
+    <title lang="en">Once Upon a Time in the West</title>
+    <desc lang="en">An outlaw (Henry Fonda) working for a railroad magnate fights a stranger (Charles Bronson) for a New Orleans widow's (Claudia Cardinale) land.(n)</desc>
+  </programme>
+  <programme start="20261127062000 -0500" stop="20261127080500 -0500" channel="mgmhits.us">
+    <title lang="en">Boo 2! A Madea Halloween</title>
+    <desc lang="en">Madea, Aunt Bam and Hattie journey into the woods to prevent Tiffany from attending a Halloween frat party. Chaos soon strikes when the would-be heroes find themselves fighting for their lives against an array of monsters, goblins and boogeymen.(n)</desc>
+  </programme>
+  <programme start="20261127080500 -0500" stop="20261127094500 -0500" channel="mgmhits.us">
+    <title lang="en">Class</title>
+    <desc lang="en">A preppie acts like a Ph.D. candidate in a bar and picks up an older woman, his roommate's mother.(n)</desc>
+  </programme>
+  <programme start="20261127094500 -0500" stop="20261127124500 -0500" channel="mgmhits.us">
+    <title lang="en">A Bridge Too Far</title>
+    <desc lang="en">An attempt to bring World War II to a rapid close nets disastrous results in this adaptation of Cornelius Ryan's book.(n)</desc>
+  </programme>
+  <programme start="20261127124500 -0500" stop="20261127142000 -0500" channel="mgmhits.us">
+    <title lang="en">The Warriors</title>
+    <desc lang="en">Gang members blamed for the murder of a charismatic street leader are forced to fight their way back to their turf.(n)</desc>
+  </programme>
+  <programme start="20261127142000 -0500" stop="20261127161000 -0500" channel="mgmhits.us">
+    <title lang="en">Death Wish</title>
+    <desc lang="en">Dr. Paul Kersey is an experienced trauma surgeon, a man who has spent his life-saving lives. After an attack on his family, Paul embarks on his own mission for justice.(n)</desc>
+  </programme>
+  <programme start="20261127161000 -0500" stop="20261127182000 -0500" channel="mgmhits.us">
+    <title lang="en">Black Rain</title>
+    <desc lang="en">Two New York police detectives (Michael Douglas, Andy Garcia) take an underworld upstart back to Osaka, Japan.(n)</desc>
+  </programme>
+  <programme start="20261127182000 -0500" stop="20261127200000 -0500" channel="mgmhits.us">
+    <title lang="en">Hercules</title>
+    <desc lang="en">Now a traveling mercenary, Hercules must once again become a hero to help the benevolent king of Thrace protect his people from a powerful warlord.(n)</desc>
+  </programme>
+  <programme start="20261127200000 -0500" stop="20261127225000 -0500" channel="mgmhits.us">
+    <title lang="en">Mission: Impossible - The Final Reckoning</title>
+    <desc lang="en">Ethan Hunt and the IMF team race against time to find the Entity, a rogue artificial intelligence that can destroy mankind.(n)</desc>
+  </programme>
+  <programme start="20261127225000 -0500" stop="20261128005000 -0500" channel="mgmhits.us">
+    <title lang="en">A Working Man</title>
+    <desc lang="en">Levon Cade left behind a military career in the black ops to live a simple life. However, when human traffickers kidnap his boss's daughter, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.(n)</desc>
+  </programme>
+  <programme start="20261128005000 -0500" stop="20261128031000 -0500" channel="mgmhits.us">
+    <title lang="en">We Were Soldiers</title>
+    <desc lang="en">A lieutenant colonel and approximately 400 U.S. troops battle 2,000 North Vietnamese soldiers in 1965.(n)</desc>
+  </programme>
+  <programme start="20261128031000 -0500" stop="20261128041000 -0500" channel="mgmhits.us">
+    <title lang="en">New Wave</title>
+    <desc lang="en">Inspired by punk's DIY energy and David Bowie, a new generation of outsider artists sparks a movement that becomes known as New Wave.(n)</desc>
+  </programme>
+  <programme start="20261128041000 -0500" stop="20261128041000 -0500" channel="mgmhits.us">
+    <title lang="en">Judgment at Nuremberg</title>
+    <desc lang="en">Stanley Kramer's Oscar-winning account reveals postwar courtroom proceedings against Nazi war criminals in 1948 Germany.(n)</desc>
+  </programme>
+  <programme start="20261128041000 -0500" stop="20261128071000 -0500" channel="mgmhits.us">
+    <title lang="en">Judgment at Nuremberg</title>
+    <desc lang="en">Stanley Kramer's Oscar-winning account reveals postwar courtroom proceedings against Nazi war criminals in 1948 Germany.(n)</desc>
+  </programme>
+  <programme start="20261128071000 -0500" stop="20261128093000 -0500" channel="mgmhits.us">
+    <title lang="en">Downsizing</title>
+    <desc lang="en">A man joins a community of miniaturized people after undergoing a process to shrink himself. As he gets to know his new neighbors and surroundings, he soon learns that living in a tiny suburb comes with its own set of huge problems.(n)</desc>
+  </programme>
+  <programme start="20261128093000 -0500" stop="20261128113500 -0500" channel="mgmhits.us">
+    <title lang="en">Valkyrie</title>
+    <desc lang="en">Fearing that Hitler will destroy his beloved Germany, Col. Claus von Stauffenberg joins a group of high-ranking men who are plotting to assassinate him.(n)</desc>
+  </programme>
+  <programme start="20261128113500 -0500" stop="20261128131500 -0500" channel="mgmhits.us">
+    <title lang="en">Wildcat</title>
+    <desc lang="en">An ex-black ops team reunites to pull off a desperate heist and save an eight-year-old girl's life.(n)</desc>
+  </programme>
+  <programme start="20261128131500 -0500" stop="20261128145000 -0500" channel="mgmhits.us">
+    <title lang="en">Some Kind of Wonderful</title>
+    <desc lang="en">A grease monkey's (Eric Stoltz) tomboy friend (Mary Stuart Masterson) helps him woo a popular girl (Lea Thompson) in their Los Angeles high school.(n)</desc>
+  </programme>
+  <programme start="20261128145000 -0500" stop="20261128164500 -0500" channel="mgmhits.us">
+    <title lang="en">Wonder</title>
+    <desc lang="en">Born with facial differences that, up until now, have prevented him from going to a mainstream school, Auggie Pullman becomes the most unlikely of heroes when he enters the local fifth grade.(n)</desc>
+  </programme>
+  <programme start="20261128164500 -0500" stop="20261128190000 -0500" channel="mgmhits.us">
+    <title lang="en">Rain Man</title>
+    <desc lang="en">A wheeler-dealer (Tom Cruise) meets his brother (Dustin Hoffman), an institutionalized autistic-savant, heir to $3 million.(n)</desc>
+  </programme>
+  <programme start="20261128190000 -0500" stop="20261128200000 -0500" channel="mgmhits.us">
+    <title lang="en">The Institute</title>
+    <desc lang="en">Luke and friends adjust to their new surroundings; Sigsby sizes up Nolan as a potential rival; Tim chases his only lead in the search for an ally.(n)</desc>
+  </programme>
+  <programme start="20261128200000 -0500" stop="20261128210000 -0500" channel="mgmhits.us">
+    <title lang="en">Secret Service</title>
+    <desc lang="en">MI6 agent Kate Henderson uncovers an audacious plot involving Russia and an asset in the UK Cabinet; Kate's hunt for the mole puts her agent's life at risk.(n)</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261128230500 -0500" channel="mgmhits.us">
+    <title lang="en">Almost Famous</title>
+    <desc lang="en">An aspiring teenage rock journalist gets his big break when he follows an up-and-coming band on its tour.(n)</desc>
+  </programme>
+  <programme start="20261128230500 -0500" stop="20261129013000 -0500" channel="mgmhits.us">
+    <title lang="en">The Doors</title>
+    <desc lang="en">UCLA film student Jim Morrison (Val Kilmer) finds a girlfriend (Meg Ryan), forms a band and turns tragic 1960s rock star.(n)</desc>
+  </programme>
+  <programme start="20261125053000 -0500" stop="20261125070000 -0500" channel="fmc.us">
+    <title lang="en">The Wild Westerners</title>
+    <desc lang="en">A U.S. marshal (James Philbrook) and his wife (Nancy Kovack) bring Union gold east through outlaws and Indians.(n)</desc>
+  </programme>
+  <programme start="20261125070000 -0500" stop="20261125073000 -0500" channel="fmc.us">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program.(n)</desc>
+  </programme>
+  <programme start="20261125073000 -0500" stop="20261125080000 -0500" channel="fmc.us">
+    <title lang="en">Bewitched</title>
+    <desc lang="en">Larry thinks Darrin is seeing another woman; Samantha and Darrin add some spice to their marriage.(n)</desc>
+  </programme>
+  <programme start="20261125080000 -0500" stop="20261125083000 -0500" channel="fmc.us">
+    <title lang="en">Wounded Warrior Project Aaron's Story featuring Trace Adkins</title>
+  </programme>
+  <programme start="20261125083000 -0500" stop="20261125090000 -0500" channel="fmc.us">
+    <title lang="en">Bewitched</title>
+    <desc lang="en">Ousted Abner moves in with Darrin and Samantha after a fight with his wife.(n)</desc>
+  </programme>
+  <programme start="20261125090000 -0500" stop="20261125110000 -0500" channel="fmc.us">
+    <title lang="en">A Very Brady Christmas</title>
+    <desc lang="en">The Bradys fly their TV-series bunch home for a three-generation family reunion.(n)</desc>
+  </programme>
+  <programme start="20261125110000 -0500" stop="20261125134500 -0500" channel="fmc.us">
+    <title lang="en">Stalag 17</title>
+    <desc lang="en">In a Nazi prison barracks, other POWs believe that a cynical American sergeant (William Holden) is an informer.(n)</desc>
+  </programme>
+  <programme start="20261125134500 -0500" stop="20261125160000 -0500" channel="fmc.us">
+    <title lang="en">The Shop Around the Corner</title>
+    <desc lang="en">The more Budapest co-workers (Margaret Sullavan, James Stewart) fight, the more they fall in love as secret pen pals.(n)</desc>
+  </programme>
+  <programme start="20261125160000 -0500" stop="20261125181500 -0500" channel="fmc.us">
+    <title lang="en">Arizona Raiders</title>
+    <desc lang="en">Two ex-Quantrill's raiders join the Arizona Rangers to hunt down raiders that are still out in the open.(n)</desc>
+  </programme>
+  <programme start="20261125181500 -0500" stop="20261125201500 -0500" channel="fmc.us">
+    <title lang="en">Relentless</title>
+    <desc lang="en">Framed for a murder he didn't commit, a cowboy hides with a traveling woman as he flees a sheriff and hunts for the real killer.(n)</desc>
+  </programme>
+  <programme start="20261125201500 -0500" stop="20261125223000 -0500" channel="fmc.us">
+    <title lang="en">The Miracle of Morgan's Creek</title>
+    <desc lang="en">A bank clerk (Eddie Bracken) gets in trouble after posing as the unknown GI father of his girlfriend's (Betty Hutton) sextuplets.(n)</desc>
+  </programme>
+  <programme start="20261125223000 -0500" stop="20261126003000 -0500" channel="fmc.us">
+    <title lang="en">I'll Be Seeing You</title>
+    <desc lang="en">A woman on leave from prison meets a shellshocked veteran on furlough, and they fall in love at Christmas.(n)</desc>
+  </programme>
+  <programme start="20261126003000 -0500" stop="20261126031500 -0500" channel="fmc.us">
+    <title lang="en">Stalag 17</title>
+    <desc lang="en">In a Nazi prison barracks, other POWs believe that a cynical American sergeant (William Holden) is an informer.(n)</desc>
+  </programme>
+  <programme start="20261126031500 -0500" stop="20261126053000 -0500" channel="fmc.us">
+    <title lang="en">Bell, Book and Candle</title>
+    <desc lang="en">A witch's (Kim Novak) warlock brother (Jack Lemmon) helps a San Francisco publisher (James Stewart) break a love spell.(n)</desc>
+  </programme>
+  <programme start="20261126053000 -0500" stop="20261126053000 -0500" channel="fmc.us">
+    <title lang="en">Battle of Rogue River</title>
+    <desc lang="en">A cavalry major (George Montgomery) makes peace with Indians despite an agitator (Richard Denning) working for carpetbaggers.(n)</desc>
+  </programme>
+  <programme start="20261126053000 -0500" stop="20261126070000 -0500" channel="fmc.us">
+    <title lang="en">Battle of Rogue River</title>
+    <desc lang="en">A cavalry major (George Montgomery) makes peace with Indians despite an agitator (Richard Denning) working for carpetbaggers.(n)</desc>
+  </programme>
+  <programme start="20261126070000 -0500" stop="20261126073000 -0500" channel="fmc.us">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program.(n)</desc>
+  </programme>
+  <programme start="20261126073000 -0500" stop="20261126090000 -0500" channel="fmc.us">
+    <title lang="en">Go West, Young Lady</title>
+    <desc lang="en">A saloon dancer (Ann Miller) and a tomboy (Penny Singleton) from back East fight over their town's new marshal (Glenn Ford).(n)</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126111500 -0500" channel="fmc.us">
+    <title lang="en">The Miracle of Morgan's Creek</title>
+    <desc lang="en">A bank clerk (Eddie Bracken) gets in trouble after posing as the unknown GI father of his girlfriend's (Betty Hutton) sextuplets.(n)</desc>
+  </programme>
+  <programme start="20261126111500 -0500" stop="20261126131500 -0500" channel="fmc.us">
+    <title lang="en">I'll Be Seeing You</title>
+    <desc lang="en">A woman on leave from prison meets a shellshocked veteran on furlough, and they fall in love at Christmas.(n)</desc>
+  </programme>
+  <programme start="20261126131500 -0500" stop="20261126153000 -0500" channel="fmc.us">
+    <title lang="en">Bell, Book and Candle</title>
+    <desc lang="en">A witch's (Kim Novak) warlock brother (Jack Lemmon) helps a San Francisco publisher (James Stewart) break a love spell.(n)</desc>
+  </programme>
+  <programme start="20261126153000 -0500" stop="20261126173000 -0500" channel="fmc.us">
+    <title lang="en">Relentless</title>
+    <desc lang="en">Framed for a murder he didn't commit, a cowboy hides with a traveling woman as he flees a sheriff and hunts for the real killer.(n)</desc>
+  </programme>
+  <programme start="20261126173000 -0500" stop="20261126193000 -0500" channel="fmc.us">
+    <title lang="en">Bend of the River</title>
+    <desc lang="en">An ex-outlaw (James Stewart) and a horse thief (Arthur Kennedy) lead a wagon train of farmers to Oregon before a gold rush.(n)</desc>
+  </programme>
+  <programme start="20261126193000 -0500" stop="20261126213000 -0500" channel="fmc.us">
+    <title lang="en">Mr. Soft Touch</title>
+    <desc lang="en">A gambler (Glenn Ford) falls for a social worker (Evelyn Keyes) in a settlement house where he hides from gangsters.(n)</desc>
+  </programme>
+  <programme start="20261126213000 -0500" stop="20261127011500 -0500" channel="fmc.us">
+    <title lang="en">Since You Went Away</title>
+    <desc lang="en">A Midwesterner (Claudette Colbert) holds down the home front with her daughters and bulldog during World War II.(n)</desc>
+  </programme>
+  <programme start="20261127011500 -0500" stop="20261127034500 -0500" channel="fmc.us">
+    <title lang="en">It Happened on 5th Avenue</title>
+    <desc lang="en">A hobo (Victor Moore) shares a New York mansion with a veteran (Don DeFore) and others who need a wintertime place to stay.(n)</desc>
+  </programme>
+  <programme start="20261127034500 -0500" stop="20261127050000 -0500" channel="fmc.us">
+    <title lang="en">Apache Country</title>
+    <desc lang="en">A criminal gang provokes the local Apaches in order to divert the authorities' attention from their own activities.(n)</desc>
+  </programme>
+  <programme start="20261127050000 -0500" stop="20261127053000 -0500" channel="fmc.us">
+    <title lang="en">Petticoat Junction</title>
+    <desc lang="en">Curtis breaks the throttle of the Cannonball and blocks the way to Kate's jamboree.(n)</desc>
+  </programme>
+  <programme start="20261127053000 -0500" stop="20261127053000 -0500" channel="fmc.us">
+    <title lang="en">Go West, Young Lady</title>
+    <desc lang="en">A saloon dancer (Ann Miller) and a tomboy (Penny Singleton) from back East fight over their town's new marshal (Glenn Ford).(n)</desc>
+  </programme>
+  <programme start="20261127053000 -0500" stop="20261127070000 -0500" channel="fmc.us">
+    <title lang="en">Go West, Young Lady</title>
+    <desc lang="en">A saloon dancer (Ann Miller) and a tomboy (Penny Singleton) from back East fight over their town's new marshal (Glenn Ford).(n)</desc>
+  </programme>
+  <programme start="20261127070000 -0500" stop="20261127073000 -0500" channel="fmc.us">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program.(n)</desc>
+  </programme>
+  <programme start="20261127073000 -0500" stop="20261127090000 -0500" channel="fmc.us">
+    <title lang="en">The Cisco Kid Returns</title>
+    <desc lang="en">Pancho and the Kid attempt to prove that they did not kidnap the child they are protecting from a killer.(n)</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127103000 -0500" channel="fmc.us">
+    <title lang="en">A Christmas Carol</title>
+    <desc lang="en">Dickens' London miser Ebenezer Scrooge (Reginald Owen) meets the ghosts of Christmases past, present and yet to come.(n)</desc>
+  </programme>
+  <programme start="20261127103000 -0500" stop="20261127130000 -0500" channel="fmc.us">
+    <title lang="en">It Happened on 5th Avenue</title>
+    <desc lang="en">A hobo (Victor Moore) shares a New York mansion with a veteran (Don DeFore) and others who need a wintertime place to stay.(n)</desc>
+  </programme>
+  <programme start="20261127130000 -0500" stop="20261127150000 -0500" channel="fmc.us">
+    <title lang="en">Bend of the River</title>
+    <desc lang="en">An ex-outlaw (James Stewart) and a horse thief (Arthur Kennedy) lead a wagon train of farmers to Oregon before a gold rush.(n)</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127193000 -0500" channel="fmc.us">
+    <title lang="en">Giant</title>
+    <desc lang="en">A cattleman (Rock Hudson) and his spoiled wife (Elizabeth Taylor) watch an upstart oilman (James Dean) try to take over Texas.(n)</desc>
+  </programme>
+  <programme start="20261127193000 -0500" stop="20261127220000 -0500" channel="fmc.us">
+    <title lang="en">The Trouble With Angels</title>
+    <desc lang="en">A headstrong girl (Hayley Mills) and her best friend (June Harding) bedevil the mother superior (Rosalind Russell) of a convent school.(n)</desc>
+  </programme>
+  <programme start="20261127220000 -0500" stop="20261128001500 -0500" channel="fmc.us">
+    <title lang="en">Miracle on 34th Street</title>
+    <desc lang="en">An adwoman's lawyer boyfriend tries to prove that Macy's Santa Claus, who claims to be genuine, is the real thing.(n)</desc>
+  </programme>
+  <programme start="20261128001500 -0500" stop="20261128014500 -0500" channel="fmc.us">
+    <title lang="en">A Christmas Carol</title>
+    <desc lang="en">Dickens' London miser Ebenezer Scrooge (Reginald Owen) meets the ghosts of Christmases past, present and yet to come.(n)</desc>
+  </programme>
+  <programme start="20261128014500 -0500" stop="20261128020000 -0500" channel="fmc.us">
+    <title lang="en">Just Rambling Along</title>
+  </programme>
+  <programme start="20261128020000 -0500" stop="20261128023000 -0500" channel="fmc.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+  </programme>
+  <programme start="20261128023000 -0500" stop="20261128034500 -0500" channel="fmc.us">
+    <title lang="en">Both Barrels Blazing</title>
+    <desc lang="en">The Durango Kid (Charles Starrett) shoots holes in a scheme to ship stolen gold.(n)</desc>
+  </programme>
+  <programme start="20261128034500 -0500" stop="20261128050000 -0500" channel="fmc.us">
+    <title lang="en">Barbed Wire</title>
+    <desc lang="en">A cattle buyer (Gene Autry), a federal agent (Pat Buttram) and a newswoman (Anne James) snip a railroad plot.(n)</desc>
+  </programme>
+  <programme start="20261128050000 -0500" stop="20261128050000 -0500" channel="fmc.us">
+    <title lang="en">The Man I Love</title>
+    <desc lang="en">A nightclub singer becomes involved in an accidental death as a petty racketeer tries to force his attentions on her.(n)</desc>
+  </programme>
+  <programme start="20261128050000 -0500" stop="20261128070000 -0500" channel="fmc.us">
+    <title lang="en">The Man I Love</title>
+    <desc lang="en">A nightclub singer becomes involved in an accidental death as a petty racketeer tries to force his attentions on her.(n)</desc>
+  </programme>
+  <programme start="20261128070000 -0500" stop="20261128073000 -0500" channel="fmc.us">
+    <title lang="en">The Lone Ranger</title>
+    <desc lang="en">Thieves hungry for money throw a wealthy man over a cliff.(n)</desc>
+  </programme>
+  <programme start="20261128073000 -0500" stop="20261128080000 -0500" channel="fmc.us">
+    <title lang="en">See Wrinkles and Bags Vanish Instantly With GEN90!!</title>
+    <desc lang="en">GEN90 Instant Wrinkle Treatment with Retinol will turn back the clock! The Pharmacist's solution for wrinkles, instant and long-term! Visibly reduces the appearance of crow's feet and fine lines instantly! Get fast, visible, long-lasting results!(n)</desc>
+  </programme>
+  <programme start="20261128080000 -0500" stop="20261128083000 -0500" channel="fmc.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+  </programme>
+  <programme start="20261128083000 -0500" stop="20261128090000 -0500" channel="fmc.us">
+    <title lang="en">The Lone Ranger</title>
+    <desc lang="en">A stagecoach driver seeks the Lone Ranger's help when her assistant is framed for a robbery.(n)</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128093000 -0500" channel="fmc.us">
+    <title lang="en">The Lone Ranger</title>
+    <desc lang="en">Tonto and the Lone Ranger are puzzled by an old friend's disappearance.(n)</desc>
+  </programme>
+  <programme start="20261128093000 -0500" stop="20261128100000 -0500" channel="fmc.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+  </programme>
+  <programme start="20261128100000 -0500" stop="20261128143000 -0500" channel="fmc.us">
+    <title lang="en">Giant</title>
+    <desc lang="en">A cattleman (Rock Hudson) and his spoiled wife (Elizabeth Taylor) watch an upstart oilman (James Dean) try to take over Texas.(n)</desc>
+  </programme>
+  <programme start="20261128143000 -0500" stop="20261128161500 -0500" channel="fmc.us">
+    <title lang="en">Gunsmoke in Tucson</title>
+    <desc lang="en">An outlaw leader (Mark Stevens) and his lawman brother (Forrest Tucker) straddle a feud between farmers and cattlemen.(n)</desc>
+  </programme>
+  <programme start="20261128161500 -0500" stop="20261128180000 -0500" channel="fmc.us">
+    <title lang="en">The Stranger Wore a Gun</title>
+    <desc lang="en">A man whose life was saved by an outlaw shows his gratitude by reluctantly assisting in a stagecoach robbery.(n)</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128201500 -0500" channel="fmc.us">
+    <title lang="en">Hour of the Gun</title>
+    <desc lang="en">Wyatt Earp (James Garner) deputizes Doc Holliday (Jason Robards) and forms a posse to hunt Ike Clanton (Robert Ryan) and his gang.(n)</desc>
+  </programme>
+  <programme start="20261128201500 -0500" stop="20261128223000 -0500" channel="fmc.us">
+    <title lang="en">Miracle on 34th Street</title>
+    <desc lang="en">An adwoman's lawyer boyfriend tries to prove that Macy's Santa Claus, who claims to be genuine, is the real thing.(n)</desc>
+  </programme>
+  <programme start="20261128223000 -0500" stop="20261129003000 -0500" channel="fmc.us">
+    <title lang="en">Room for One More</title>
+    <desc lang="en">The easygoing parents (Cary Grant, Betsy Drake) of three children take in one troubled teen, then another one.(n)</desc>
+  </programme>

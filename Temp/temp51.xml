@@ -1,0 +1,1619 @@
+﻿  <channel id="cinemaxclassics.us">
+    <display-name lang="en">NAME</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v3/25620-C828.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="actionmaxpacific.us">
+    <display-name lang="en">NAME</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v3/59950-1D45C.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="actionmax.us">
+    <display-name lang="en">NAME</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v3/18433-9002.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="moremax.us">
+    <display-name lang="en">NAME</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v3/10121-4F12.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="moremaxpacific.us">
+    <display-name lang="en">NAME</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="flavournetwork.ca">
+    <display-name lang="en">NAME</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s24525_h15_ae.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <programme start="20261125050000 -0500" stop="20261125063400 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Head Office</title>
+    <desc lang="en">A U.S. senator's son (Judge Reinhold) gets a job at a conglomerate and falls for the chairman's (Eddie Albert) radical daughter.(n)</desc>
+  </programme>
+  <programme start="20261125063400 -0500" stop="20261125080300 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Odd Jobs</title>
+    <desc lang="en">The summer job situation looks bleak for five college pals until they decide to start their own moving business.(n)</desc>
+  </programme>
+  <programme start="20261125080300 -0500" stop="20261125095500 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Repo Men</title>
+    <desc lang="en">Set in the future when artificial organs can be bought on credit, a man struggles to make the payments on a heart he has purchased. He must go on the run before the heart is repossessed.(n)</desc>
+  </programme>
+  <programme start="20261125095500 -0500" stop="20261125120200 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Batman</title>
+    <desc lang="en">The Caped Crusader (Michael Keaton) saves dismal Gotham City and gorgeous Vicki Vale (Kim Basinger) from the freaky Joker (Jack Nicholson).(n)</desc>
+  </programme>
+  <programme start="20261125120200 -0500" stop="20261125140900 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Batman Returns</title>
+    <desc lang="en">The Caped Crusader (Michael Keaton) clashes with Catwoman (Michelle Pfeiffer) and saves gloomy Gotham City from the foul Penguin's (Danny DeVito) plot.(n)</desc>
+  </programme>
+  <programme start="20261125140900 -0500" stop="20261125161100 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Batman Forever</title>
+    <desc lang="en">The Caped Crusader (Val Kilmer) woos a criminal psychologist, takes on a sidekick and battles Two-Face (Tommy Lee Jones) and the Riddler (Jim Carrey).(n)</desc>
+  </programme>
+  <programme start="20261125161100 -0500" stop="20261125181600 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Batman &amp; Robin</title>
+    <desc lang="en">Batgirl joins the caped crusaders (George Clooney, Chris O'Donnell) to stop Mr. Freeze (Arnold Schwarzenegger) and Poison Ivy from wreaking revenge upon the world.(n)</desc>
+  </programme>
+  <programme start="20261125181600 -0500" stop="20261125193800 -0500" channel="cinemaxclassics.us">
+    <title lang="en">The Blair Witch Project</title>
+    <desc lang="en">A filmmaking crew (Heather Donahue, Michael C. Williams, Joshua Leonard) hikes into Maryland's Black Hills Forest seeking clues about a legendary witch.(n)</desc>
+  </programme>
+  <programme start="20261125193800 -0500" stop="20261125210900 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Book of Shadows: Blair Witch 2</title>
+    <desc lang="en">When a townie takes collegians on an overnight tour in Burkittsville, Md., they awake to chaos and have no memory of sleeping.(n)</desc>
+  </programme>
+  <programme start="20261125210900 -0500" stop="20261125230800 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Wedding Crashers</title>
+    <desc lang="en">Two divorce mediators spend a wild weekend partying with a politician and his eccentric family.(n)</desc>
+  </programme>
+  <programme start="20261125230800 -0500" stop="20261126005000 -0500" channel="cinemaxclassics.us">
+    <title lang="en">The Hangover Part II</title>
+    <desc lang="en">Hoping to avoid the mayhem that marked his friend's Las Vegas bachelor party, Stu opts for what he thinks will be a safe prewedding brunch in Thailand.(n)</desc>
+  </programme>
+  <programme start="20261126005000 -0500" stop="20261126024700 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Time Bandits</title>
+    <desc lang="en">Cosmic dwarfs take a boy on an odyssey featuring Robin Hood (John Cleese), Napoleon, King Agamemnon (Sean Connery).(n)</desc>
+  </programme>
+  <programme start="20261126024700 -0500" stop="20261126043300 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Rise of the Planet of the Apes</title>
+    <desc lang="en">A scientist's quest to find a cure for Alzheimer's disease unintentionally results in a highly intelligent chimpanzee, which may signal the end of man's dominion over Earth.(n)</desc>
+  </programme>
+  <programme start="20261126043300 -0500" stop="20261126043300 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Working Girls</title>
+    <desc lang="en">A photographer (Louise Smith) and others work for a yuppie madam (Ellen McElduff) in a Manhattan brothel, then go home.(n)</desc>
+  </programme>
+  <programme start="20261126043300 -0500" stop="20261126060900 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Working Girls</title>
+    <desc lang="en">A photographer (Louise Smith) and others work for a yuppie madam (Ellen McElduff) in a Manhattan brothel, then go home.(n)</desc>
+  </programme>
+  <programme start="20261126060900 -0500" stop="20261126081700 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Ocean's 11</title>
+    <desc lang="en">Veterans of the 82nd Airborne Division devise an elaborate plot to simultaneously rob five casinos on New Year's Eve.(n)</desc>
+  </programme>
+  <programme start="20261126081700 -0500" stop="20261126101400 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Ocean's Eleven</title>
+    <desc lang="en">Dapper Danny Ocean organizes a gang to steal $150 million from three Las Vegas casinos in a single heist.(n)</desc>
+  </programme>
+  <programme start="20261126101400 -0500" stop="20261126122000 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Ocean's Twelve</title>
+    <desc lang="en">To pay back casino boss Terry Benedict, Danny Ocean and his team of criminals plan an elaborate heist in Europe.(n)</desc>
+  </programme>
+  <programme start="20261126122000 -0500" stop="20261126142300 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Ocean's Thirteen</title>
+    <desc lang="en">Danny Ocean and his gang hatch an ambitious plot for revenge after ruthless casino owner Willy Bank double-crosses Reuben Tishkoff, Danny's friend and mentor.(n)</desc>
+  </programme>
+  <programme start="20261126142300 -0500" stop="20261126155100 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Halloween: The Curse of Michael Myers</title>
+    <desc lang="en">An ancient Celtic ritual drives Dr. Loomis' (Donald Pleasence) patient to sacrifice an entire family in Haddonfield, Ill.(n)</desc>
+  </programme>
+  <programme start="20261126155100 -0500" stop="20261126171800 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Halloween H20: 20 Years Later</title>
+    <desc lang="en">In hiding for two decades, a traumatized woman (Jamie Lee Curtis) learns her murderous brother has returned for her.(n)</desc>
+  </programme>
+  <programme start="20261126171800 -0500" stop="20261126184800 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Halloween: Resurrection</title>
+    <desc lang="en">Internet users watch six collegians as they spend the night in Michael Myers' (Brad Loree) childhood home.(n)</desc>
+  </programme>
+  <programme start="20261126184800 -0500" stop="20261126203400 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Hall Pass</title>
+    <desc lang="en">Rick and Fred, two husbands who are having difficulty in their marriages, are given a Hall Pass by their wives for one week, they can do whatever they want.(n)</desc>
+  </programme>
+  <programme start="20261126203400 -0500" stop="20261126223300 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Crazy, Stupid, Love.</title>
+    <desc lang="en">A self-styled Lothario (Ryan Gosling) teaches a suddenly single 40-something (Steve Carell) how to be a hit with the ladies.(n)</desc>
+  </programme>
+  <programme start="20261126223300 -0500" stop="20261127000400 -0500" channel="cinemaxclassics.us">
+    <title lang="en">MacGruber</title>
+    <desc lang="en">After his sworn enemy steals a nuclear warhead, a clueless soldier-of-fortune (Will Forte) leads a skilled team on a mission to retrieve the device and bring the thief to justice.(n)</desc>
+  </programme>
+  <programme start="20261127000400 -0500" stop="20261127021300 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Night on Earth</title>
+    <desc lang="en">Five brief encounters occur in five taxis on the same night in Los Angeles, New York, Rome, Paris and Helsinki.(n)</desc>
+  </programme>
+  <programme start="20261127021300 -0500" stop="20261127042900 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Twin Peaks: Fire Walk With Me</title>
+    <desc lang="en">Agent Cooper (Kyle MacLachlan) comes to Twin Peaks, Wash., following two unresolved murders and the disappearance of two fellow agents.(n)</desc>
+  </programme>
+  <programme start="20261127042900 -0500" stop="20261127042900 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Get Him to the Greek</title>
+    <desc lang="en">A record-company employee (Jonah Hill) has just a few days to get a boozy British rock star (Russell Brand) to Hollywood for a big comeback concert.(n)</desc>
+  </programme>
+  <programme start="20261127042900 -0500" stop="20261127062100 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Get Him to the Greek</title>
+    <desc lang="en">A record-company employee (Jonah Hill) has just a few days to get a boozy British rock star (Russell Brand) to Hollywood for a big comeback concert.(n)</desc>
+  </programme>
+  <programme start="20261127062100 -0500" stop="20261127080000 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Collision Course</title>
+    <desc lang="en">A Japanese detective (Pat Morita) and a Detroit detective (Jay Leno) team up to recover a stolen top-secret turbocharger.(n)</desc>
+  </programme>
+  <programme start="20261127080000 -0500" stop="20261127093200 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Gimme Shelter</title>
+    <desc lang="en">Filmmakers Albert Maysles, David Maysles and Charlotte Zwerin show the Rolling Stones' 1969 California concert.(n)</desc>
+  </programme>
+  <programme start="20261127093200 -0500" stop="20261127113700 -0500" channel="cinemaxclassics.us">
+    <title lang="en">The Player</title>
+    <desc lang="en">About 65 real-life movie stars fringe the satire of a Hollywood studio executive (Tim Robbins) who gets away with murder.(n)</desc>
+  </programme>
+  <programme start="20261127113700 -0500" stop="20261127144500 -0500" channel="cinemaxclassics.us">
+    <title lang="en">It</title>
+    <desc lang="en">In 1960, seven preteen outcasts fight an evil demon that poses as a child-killing clown. Thirty years later, they reunite to stop the demon once and for all when it returns to their hometown.(n)</desc>
+  </programme>
+  <programme start="20261127144500 -0500" stop="20261127162300 -0500" channel="cinemaxclassics.us">
+    <title lang="en">The Hitcher</title>
+    <desc lang="en">A teenage motorist (C. Thomas Howell) cannot get away from a twisted man (Rutger Hauer) he picked up and ditched in Texas.(n)</desc>
+  </programme>
+  <programme start="20261127162300 -0500" stop="20261127182000 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Ghost Dog: The Way of the Samurai</title>
+    <desc lang="en">When his boss (John Tormey) turns against him, a hit man (Forest Whitaker) who lives like a samurai must fend for his life.(n)</desc>
+  </programme>
+  <programme start="20261127182000 -0500" stop="20261127204100 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Robin Hood</title>
+    <desc lang="en">In twelfth-century England, Robin Longstride and his band of marauders confront corruption in a local village and lead an uprising against the crown that will forever alter the balance of power.(n)</desc>
+  </programme>
+  <programme start="20261127204100 -0500" stop="20261127220900 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Catfish</title>
+    <desc lang="en">An unexpected odyssey rolls out when a filmmaker's brother begins receiving unusually advanced paintings from a girl, supposedly 8 years old.(n)</desc>
+  </programme>
+  <programme start="20261127220900 -0500" stop="20261128001000 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Kiss of the Spider Woman</title>
+    <desc lang="en">In a Latin American prison, an emotional relationship evolves between a homosexual and his cellmate, a political radical.(n)</desc>
+  </programme>
+  <programme start="20261128001000 -0500" stop="20261128015600 -0500" channel="cinemaxclassics.us">
+    <title lang="en">The Adjustment Bureau</title>
+    <desc lang="en">After glimpsing his future, an ambitious politician (Matt Damon) battles the agents of Fate itself to be with the woman (Emily Blunt) he loves.(n)</desc>
+  </programme>
+  <programme start="20261128015600 -0500" stop="20261128040500 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Sherlock Holmes: A Game of Shadows</title>
+    <desc lang="en">The murder of Austria's crown prince leads Holmes (Robert Downey Jr.), Watson (Jude Law) and a Gypsy (Noomi Rapace) to a showdown with an evil genius named Moriarty (Jared Harris).(n)</desc>
+  </programme>
+  <programme start="20261128040500 -0500" stop="20261128052800 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Rodan</title>
+    <desc lang="en">A bug-eating pterodactyl flies out of a coal mine and wrecks Japan with sonic booms.(n)</desc>
+  </programme>
+  <programme start="20261128052800 -0500" stop="20261128054800 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Reframed: Next Gen Narratives</title>
+    <desc lang="en">Clover must leave her family behind to compete in an algorithm-based singing competition; pressure from the judges leads Clover to doubt herself, but her family's words give her the strength to perform.(n)</desc>
+  </programme>
+  <programme start="20261128054800 -0500" stop="20261128054800 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Reframed: Next Gen Narratives</title>
+    <desc lang="en">Trapped in a bizarre, bureaucratic afterlife, a famous Mohawk ghost is drawn into an encounter with an identical and partially-deceased descendant.(n)</desc>
+  </programme>
+  <programme start="20261128054800 -0500" stop="20261128060500 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Reframed: Next Gen Narratives</title>
+    <desc lang="en">Trapped in a bizarre, bureaucratic afterlife, a famous Mohawk ghost is drawn into an encounter with an identical and partially-deceased descendant.(n)</desc>
+  </programme>
+  <programme start="20261128060500 -0500" stop="20261128062200 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Talk Black</title>
+    <desc lang="en">A timid engineer develops a wild and expressive split personality that helps her stand up to male co-workers.(n)</desc>
+  </programme>
+  <programme start="20261128062200 -0500" stop="20261128073800 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Fantastic Planet</title>
+    <desc lang="en">The 39-foot-tall pastel Draags keep leashes on the Oms, their tiny pets descended from humans.(n)</desc>
+  </programme>
+  <programme start="20261128073800 -0500" stop="20261128090700 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Mothra vs. Godzilla</title>
+    <desc lang="en">Japan comes under attack from two monsters in a giant monster battle between a rampaging Godzilla and the colossal genetically engineered moth called Mothra.(n)</desc>
+  </programme>
+  <programme start="20261128090700 -0500" stop="20261128103700 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Godzilla vs. Gigan</title>
+    <desc lang="en">Godzilla and Anguirus fight three-headed dragon Ghidorah and huge bird Gigan at a cartoonist's theme park.(n)</desc>
+  </programme>
+  <programme start="20261128103700 -0500" stop="20261128115900 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Godzilla vs. Megalon</title>
+    <desc lang="en">Godzilla and flying cyborg Jet Jaguar meet a giant cockroach and a big black chicken sent by Seatopians.(n)</desc>
+  </programme>
+  <programme start="20261128115900 -0500" stop="20261128132600 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Godzilla vs. Mechagodzilla</title>
+    <desc lang="en">An Okinawan monster-god helps Godzilla defeat his bionic double.(n)</desc>
+  </programme>
+  <programme start="20261128132600 -0500" stop="20261128145800 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Head Office</title>
+    <desc lang="en">A U.S. senator's son (Judge Reinhold) gets a job at a conglomerate and falls for the chairman's (Eddie Albert) radical daughter.(n)</desc>
+  </programme>
+  <programme start="20261128145800 -0500" stop="20261128162100 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Rodan</title>
+    <desc lang="en">A bug-eating pterodactyl flies out of a coal mine and wrecks Japan with sonic booms.(n)</desc>
+  </programme>
+  <programme start="20261128162100 -0500" stop="20261128173900 -0500" channel="cinemaxclassics.us">
+    <title lang="en">The Hobbit</title>
+    <desc lang="en">An animated adaptation of J.R.R. Tolkien's tale of the adventures of a hobbit on a quest to regain a dwarf king's gold.(n)</desc>
+  </programme>
+  <programme start="20261128173900 -0500" stop="20261128191600 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Dim Sum Funeral</title>
+    <desc lang="en">The grown children of an overbearing Chinese matriarch reluctantly gather to take part in seven days' worth of traditional funeral rites.(n)</desc>
+  </programme>
+  <programme start="20261128191600 -0500" stop="20261128204800 -0500" channel="cinemaxclassics.us">
+    <title lang="en">Head Office</title>
+    <desc lang="en">A U.S. senator's son (Judge Reinhold) gets a job at a conglomerate and falls for the chairman's (Eddie Albert) radical daughter.(n)</desc>
+  </programme>
+  <programme start="20261128204800 -0500" stop="20261128233200 -0500" channel="cinemaxclassics.us">
+    <title lang="en">The Last Emperor</title>
+    <desc lang="en">Named Emperor of China at age 3 in 1908, Pu Yi (John Lone) becomes a prisoner of destiny.(n)</desc>
+  </programme>
+  <programme start="20261128233200 -0500" stop="20261129011900 -0500" channel="cinemaxclassics.us">
+    <title lang="en">The Usual Suspects</title>
+    <desc lang="en">A detective (Chazz Palminteri) questions a con man about his relationships with assorted criminals (Stephen Baldwin, Gabriel Byrne) and their link to a ship explosion.(n)</desc>
+  </programme>
+  <programme start="20261125040100 -0500" stop="20261125062600 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Kingdom of the Planet of the Apes</title>
+    <desc lang="en">Many years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he's been taught about the past and make choices that will define a future for apes and humans alike.(n)</desc>
+  </programme>
+  <programme start="20261125062600 -0500" stop="20261125083000 -0500" channel="actionmaxpacific.us">
+    <title lang="en">The Shape of Water</title>
+    <desc lang="en">Elisa is a mute, isolated woman who works in a hidden, high-security government laboratory. Her life changes forever when she discovers the lab's classified secret -- a mysterious, scaled creature from South America that lives in a water tank.(n)</desc>
+  </programme>
+  <programme start="20261125083000 -0500" stop="20261125102600 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Grudge Match</title>
+    <desc lang="en">A boxing promoter (Kevin Hart) offers two rival boxers (Robert De Niro, Sylvester Stallone) the chance to come out of retirement for one final bout.(n)</desc>
+  </programme>
+  <programme start="20261125102600 -0500" stop="20261125114800 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Godzilla Raids Again</title>
+    <desc lang="en">Prehistoric monsters Godzilla and Anguirus battle it out in Osaka, Japan.(n)</desc>
+  </programme>
+  <programme start="20261125114800 -0500" stop="20261125131000 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Godzilla, King of the Monsters!</title>
+    <desc lang="en">A U.S. newsman (Raymond Burr) in Tokyo recounts the story of a huge dinosaur roused from the sea by an atomic blast.(n)</desc>
+  </programme>
+  <programme start="20261125131000 -0500" stop="20261125143400 -0500" channel="actionmaxpacific.us">
+    <title lang="en">The Man</title>
+    <desc lang="en">A case of mistaken identity leaves an ATF agent (Samuel L. Jackson) squabbling with a talkative salesman (Eugene Levy) in his custody.(n)</desc>
+  </programme>
+  <programme start="20261125143400 -0500" stop="20261125160500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Man Down</title>
+    <desc lang="en">With help from his best friend (Jai Courtney), a Marine (Shia LaBeouf) embarks on a desperate search to find his wife (Kate Mara) and son (Charlie Shotwell) in post-apocalyptic America.(n)</desc>
+  </programme>
+  <programme start="20261125160500 -0500" stop="20261125172500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Open Water</title>
+    <desc lang="en">Scuba divers (Blanchard Ryan, Daniel Travis) struggle to survive in shark-infested waters after their tour boat accidentally leaves them behind.(n)</desc>
+  </programme>
+  <programme start="20261125172500 -0500" stop="20261125185500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Smoking Tigers</title>
+    <desc lang="en">Lonely 16-year-old Korean American Hayoung tries to hide her problematic family and lower-income background from her new wealthy friends.(n)</desc>
+  </programme>
+  <programme start="20261125185500 -0500" stop="20261125203200 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Nerve</title>
+    <desc lang="en">Partnered with a mysterious stranger (Dave Franco), a high school senior (Emma Roberts) joins a popular online game that dares players to perform increasingly dangerous stunts.(n)</desc>
+  </programme>
+  <programme start="20261125203200 -0500" stop="20261125223300 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Shot Caller</title>
+    <desc lang="en">Recently released from prison, a gang member finds himself forced by his leaders to orchestrate a major crime with a rival gang.(n)</desc>
+  </programme>
+  <programme start="20261125223300 -0500" stop="20261126001100 -0500" channel="actionmaxpacific.us">
+    <title lang="en">A Good Day to Die Hard</title>
+    <desc lang="en">New York City cop John McClane (Bruce Willis) and his estranged son (Jai Courtney) must put aside their differences and work together to get a Russian whistleblower to safety and thwart a disastrous crime in Chernobyl.(n)</desc>
+  </programme>
+  <programme start="20261126001100 -0500" stop="20261126020200 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Pacific Rim Uprising</title>
+    <desc lang="en">Jake Pentecost, son of Stacker Pentecost, reunites with Mako Mori to lead a new generation of Jaeger pilots, including rival Lambert and 15-year-old hacker Amara, against a new Kaiju threat.(n)</desc>
+  </programme>
+  <programme start="20261126020200 -0500" stop="20261126040000 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Tomb Raider</title>
+    <desc lang="en">Hoping to solve the mystery of her father's disappearance, young Lara Croft embarks on a perilous journey to his last-known destination -- a fabled tomb on a mythical island that might be somewhere off the coast of Japan.(n)</desc>
+  </programme>
+  <programme start="20261126040000 -0500" stop="20261126055500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Godzilla x Kong: The New Empire</title>
+    <desc lang="en">Godzilla and the almighty Kong face a colossal threat hidden deep within the planet, challenging their very existence and the survival of the human race.(n)</desc>
+  </programme>
+  <programme start="20261126055500 -0500" stop="20261126040100 -0500" channel="actionmaxpacific.us">
+    <title lang="en">The Alto Knights</title>
+    <desc lang="en">The Alto Knights follow two of New York's most notorious crime bosses and how their separate paths to power place them on a deadly collision course.(n)</desc>
+  </programme>
+  <programme start="20261126040100 -0500" stop="20261126062600 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Kingdom of the Planet of the Apes</title>
+    <desc lang="en">Many years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he's been taught about the past and make choices that will define a future for apes and humans alike.(n)</desc>
+  </programme>
+  <programme start="20261126040100 -0500" stop="20261126062600 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Kingdom of the Planet of the Apes</title>
+    <desc lang="en">Many years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he's been taught about the past and make choices that will define a future for apes and humans alike.(n)</desc>
+  </programme>
+  <programme start="20261126040100 -0500" stop="20261126062600 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Kingdom of the Planet of the Apes</title>
+    <desc lang="en">Many years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he's been taught about the past and make choices that will define a future for apes and humans alike.(n)</desc>
+  </programme>
+  <programme start="20261126062600 -0500" stop="20261126083000 -0500" channel="actionmaxpacific.us">
+    <title lang="en">The Shape of Water</title>
+    <desc lang="en">Elisa is a mute, isolated woman who works in a hidden, high-security government laboratory. Her life changes forever when she discovers the lab's classified secret -- a mysterious, scaled creature from South America that lives in a water tank.(n)</desc>
+  </programme>
+  <programme start="20261126062600 -0500" stop="20261126083000 -0500" channel="actionmaxpacific.us">
+    <title lang="en">The Shape of Water</title>
+    <desc lang="en">Elisa is a mute, isolated woman who works in a hidden, high-security government laboratory. Her life changes forever when she discovers the lab's classified secret -- a mysterious, scaled creature from South America that lives in a water tank.(n)</desc>
+  </programme>
+  <programme start="20261126062600 -0500" stop="20261126083000 -0500" channel="actionmaxpacific.us">
+    <title lang="en">The Shape of Water</title>
+    <desc lang="en">Elisa is a mute, isolated woman who works in a hidden, high-security government laboratory. Her life changes forever when she discovers the lab's classified secret -- a mysterious, scaled creature from South America that lives in a water tank.(n)</desc>
+  </programme>
+  <programme start="20261126083000 -0500" stop="20261126102600 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Grudge Match</title>
+    <desc lang="en">A boxing promoter (Kevin Hart) offers two rival boxers (Robert De Niro, Sylvester Stallone) the chance to come out of retirement for one final bout.(n)</desc>
+  </programme>
+  <programme start="20261126083000 -0500" stop="20261126102600 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Grudge Match</title>
+    <desc lang="en">A boxing promoter (Kevin Hart) offers two rival boxers (Robert De Niro, Sylvester Stallone) the chance to come out of retirement for one final bout.(n)</desc>
+  </programme>
+  <programme start="20261126083000 -0500" stop="20261126102600 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Grudge Match</title>
+    <desc lang="en">A boxing promoter (Kevin Hart) offers two rival boxers (Robert De Niro, Sylvester Stallone) the chance to come out of retirement for one final bout.(n)</desc>
+  </programme>
+  <programme start="20261126102600 -0500" stop="20261126114800 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Godzilla Raids Again</title>
+    <desc lang="en">Prehistoric monsters Godzilla and Anguirus battle it out in Osaka, Japan.(n)</desc>
+  </programme>
+  <programme start="20261126102600 -0500" stop="20261126114800 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Godzilla Raids Again</title>
+    <desc lang="en">Prehistoric monsters Godzilla and Anguirus battle it out in Osaka, Japan.(n)</desc>
+  </programme>
+  <programme start="20261126102600 -0500" stop="20261126114800 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Godzilla Raids Again</title>
+    <desc lang="en">Prehistoric monsters Godzilla and Anguirus battle it out in Osaka, Japan.(n)</desc>
+  </programme>
+  <programme start="20261126114800 -0500" stop="20261126131000 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Godzilla, King of the Monsters!</title>
+    <desc lang="en">A U.S. newsman (Raymond Burr) in Tokyo recounts the story of a huge dinosaur roused from the sea by an atomic blast.(n)</desc>
+  </programme>
+  <programme start="20261126114800 -0500" stop="20261126131000 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Godzilla, King of the Monsters!</title>
+    <desc lang="en">A U.S. newsman (Raymond Burr) in Tokyo recounts the story of a huge dinosaur roused from the sea by an atomic blast.(n)</desc>
+  </programme>
+  <programme start="20261126114800 -0500" stop="20261126131000 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Godzilla, King of the Monsters!</title>
+    <desc lang="en">A U.S. newsman (Raymond Burr) in Tokyo recounts the story of a huge dinosaur roused from the sea by an atomic blast.(n)</desc>
+  </programme>
+  <programme start="20261126131000 -0500" stop="20261126143400 -0500" channel="actionmaxpacific.us">
+    <title lang="en">The Man</title>
+    <desc lang="en">A case of mistaken identity leaves an ATF agent (Samuel L. Jackson) squabbling with a talkative salesman (Eugene Levy) in his custody.(n)</desc>
+  </programme>
+  <programme start="20261126131000 -0500" stop="20261126143400 -0500" channel="actionmaxpacific.us">
+    <title lang="en">The Man</title>
+    <desc lang="en">A case of mistaken identity leaves an ATF agent (Samuel L. Jackson) squabbling with a talkative salesman (Eugene Levy) in his custody.(n)</desc>
+  </programme>
+  <programme start="20261126131000 -0500" stop="20261126143400 -0500" channel="actionmaxpacific.us">
+    <title lang="en">The Man</title>
+    <desc lang="en">A case of mistaken identity leaves an ATF agent (Samuel L. Jackson) squabbling with a talkative salesman (Eugene Levy) in his custody.(n)</desc>
+  </programme>
+  <programme start="20261126143400 -0500" stop="20261126160500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Man Down</title>
+    <desc lang="en">With help from his best friend (Jai Courtney), a Marine (Shia LaBeouf) embarks on a desperate search to find his wife (Kate Mara) and son (Charlie Shotwell) in post-apocalyptic America.(n)</desc>
+  </programme>
+  <programme start="20261126143400 -0500" stop="20261126160500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Man Down</title>
+    <desc lang="en">With help from his best friend (Jai Courtney), a Marine (Shia LaBeouf) embarks on a desperate search to find his wife (Kate Mara) and son (Charlie Shotwell) in post-apocalyptic America.(n)</desc>
+  </programme>
+  <programme start="20261126143400 -0500" stop="20261126160500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Man Down</title>
+    <desc lang="en">With help from his best friend (Jai Courtney), a Marine (Shia LaBeouf) embarks on a desperate search to find his wife (Kate Mara) and son (Charlie Shotwell) in post-apocalyptic America.(n)</desc>
+  </programme>
+  <programme start="20261126160500 -0500" stop="20261126172500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Open Water</title>
+    <desc lang="en">Scuba divers (Blanchard Ryan, Daniel Travis) struggle to survive in shark-infested waters after their tour boat accidentally leaves them behind.(n)</desc>
+  </programme>
+  <programme start="20261126160500 -0500" stop="20261126172500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Open Water</title>
+    <desc lang="en">Scuba divers (Blanchard Ryan, Daniel Travis) struggle to survive in shark-infested waters after their tour boat accidentally leaves them behind.(n)</desc>
+  </programme>
+  <programme start="20261126160500 -0500" stop="20261126172500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Open Water</title>
+    <desc lang="en">Scuba divers (Blanchard Ryan, Daniel Travis) struggle to survive in shark-infested waters after their tour boat accidentally leaves them behind.(n)</desc>
+  </programme>
+  <programme start="20261126172500 -0500" stop="20261126185500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Smoking Tigers</title>
+    <desc lang="en">Lonely 16-year-old Korean American Hayoung tries to hide her problematic family and lower-income background from her new wealthy friends.(n)</desc>
+  </programme>
+  <programme start="20261126172500 -0500" stop="20261126185500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Smoking Tigers</title>
+    <desc lang="en">Lonely 16-year-old Korean American Hayoung tries to hide her problematic family and lower-income background from her new wealthy friends.(n)</desc>
+  </programme>
+  <programme start="20261126172500 -0500" stop="20261126185500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Smoking Tigers</title>
+    <desc lang="en">Lonely 16-year-old Korean American Hayoung tries to hide her problematic family and lower-income background from her new wealthy friends.(n)</desc>
+  </programme>
+  <programme start="20261126185500 -0500" stop="20261126203200 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Nerve</title>
+    <desc lang="en">Partnered with a mysterious stranger (Dave Franco), a high school senior (Emma Roberts) joins a popular online game that dares players to perform increasingly dangerous stunts.(n)</desc>
+  </programme>
+  <programme start="20261126185500 -0500" stop="20261126203200 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Nerve</title>
+    <desc lang="en">Partnered with a mysterious stranger (Dave Franco), a high school senior (Emma Roberts) joins a popular online game that dares players to perform increasingly dangerous stunts.(n)</desc>
+  </programme>
+  <programme start="20261126185500 -0500" stop="20261126203200 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Nerve</title>
+    <desc lang="en">Partnered with a mysterious stranger (Dave Franco), a high school senior (Emma Roberts) joins a popular online game that dares players to perform increasingly dangerous stunts.(n)</desc>
+  </programme>
+  <programme start="20261126203200 -0500" stop="20261126223300 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Shot Caller</title>
+    <desc lang="en">Recently released from prison, a gang member finds himself forced by his leaders to orchestrate a major crime with a rival gang.(n)</desc>
+  </programme>
+  <programme start="20261126203200 -0500" stop="20261126223300 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Shot Caller</title>
+    <desc lang="en">Recently released from prison, a gang member finds himself forced by his leaders to orchestrate a major crime with a rival gang.(n)</desc>
+  </programme>
+  <programme start="20261126203200 -0500" stop="20261126223300 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Shot Caller</title>
+    <desc lang="en">Recently released from prison, a gang member finds himself forced by his leaders to orchestrate a major crime with a rival gang.(n)</desc>
+  </programme>
+  <programme start="20261126223300 -0500" stop="20261127001100 -0500" channel="actionmaxpacific.us">
+    <title lang="en">A Good Day to Die Hard</title>
+    <desc lang="en">New York City cop John McClane (Bruce Willis) and his estranged son (Jai Courtney) must put aside their differences and work together to get a Russian whistleblower to safety and thwart a disastrous crime in Chernobyl.(n)</desc>
+  </programme>
+  <programme start="20261126223300 -0500" stop="20261127001100 -0500" channel="actionmaxpacific.us">
+    <title lang="en">A Good Day to Die Hard</title>
+    <desc lang="en">New York City cop John McClane (Bruce Willis) and his estranged son (Jai Courtney) must put aside their differences and work together to get a Russian whistleblower to safety and thwart a disastrous crime in Chernobyl.(n)</desc>
+  </programme>
+  <programme start="20261126223300 -0500" stop="20261127001100 -0500" channel="actionmaxpacific.us">
+    <title lang="en">A Good Day to Die Hard</title>
+    <desc lang="en">New York City cop John McClane (Bruce Willis) and his estranged son (Jai Courtney) must put aside their differences and work together to get a Russian whistleblower to safety and thwart a disastrous crime in Chernobyl.(n)</desc>
+  </programme>
+  <programme start="20261127001100 -0500" stop="20261127020200 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Pacific Rim Uprising</title>
+    <desc lang="en">Jake Pentecost, son of Stacker Pentecost, reunites with Mako Mori to lead a new generation of Jaeger pilots, including rival Lambert and 15-year-old hacker Amara, against a new Kaiju threat.(n)</desc>
+  </programme>
+  <programme start="20261127001100 -0500" stop="20261127020200 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Pacific Rim Uprising</title>
+    <desc lang="en">Jake Pentecost, son of Stacker Pentecost, reunites with Mako Mori to lead a new generation of Jaeger pilots, including rival Lambert and 15-year-old hacker Amara, against a new Kaiju threat.(n)</desc>
+  </programme>
+  <programme start="20261127001100 -0500" stop="20261127020200 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Pacific Rim Uprising</title>
+    <desc lang="en">Jake Pentecost, son of Stacker Pentecost, reunites with Mako Mori to lead a new generation of Jaeger pilots, including rival Lambert and 15-year-old hacker Amara, against a new Kaiju threat.(n)</desc>
+  </programme>
+  <programme start="20261127020200 -0500" stop="20261127040000 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Tomb Raider</title>
+    <desc lang="en">Hoping to solve the mystery of her father's disappearance, young Lara Croft embarks on a perilous journey to his last-known destination -- a fabled tomb on a mythical island that might be somewhere off the coast of Japan.(n)</desc>
+  </programme>
+  <programme start="20261127020200 -0500" stop="20261127040000 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Tomb Raider</title>
+    <desc lang="en">Hoping to solve the mystery of her father's disappearance, young Lara Croft embarks on a perilous journey to his last-known destination -- a fabled tomb on a mythical island that might be somewhere off the coast of Japan.(n)</desc>
+  </programme>
+  <programme start="20261127020200 -0500" stop="20261127040000 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Tomb Raider</title>
+    <desc lang="en">Hoping to solve the mystery of her father's disappearance, young Lara Croft embarks on a perilous journey to his last-known destination -- a fabled tomb on a mythical island that might be somewhere off the coast of Japan.(n)</desc>
+  </programme>
+  <programme start="20261127040000 -0500" stop="20261127055500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Godzilla x Kong: The New Empire</title>
+    <desc lang="en">Godzilla and the almighty Kong face a colossal threat hidden deep within the planet, challenging their very existence and the survival of the human race.(n)</desc>
+  </programme>
+  <programme start="20261127040000 -0500" stop="20261127055500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Godzilla x Kong: The New Empire</title>
+    <desc lang="en">Godzilla and the almighty Kong face a colossal threat hidden deep within the planet, challenging their very existence and the survival of the human race.(n)</desc>
+  </programme>
+  <programme start="20261127040000 -0500" stop="20261127055500 -0500" channel="actionmaxpacific.us">
+    <title lang="en">Godzilla x Kong: The New Empire</title>
+    <desc lang="en">Godzilla and the almighty Kong face a colossal threat hidden deep within the planet, challenging their very existence and the survival of the human race.(n)</desc>
+  </programme>
+  <programme start="20261127055500 -0500" stop="20261127040100 -0500" channel="actionmaxpacific.us">
+    <title lang="en">The Alto Knights</title>
+    <desc lang="en">The Alto Knights follow two of New York's most notorious crime bosses and how their separate paths to power place them on a deadly collision course.(n)</desc>
+  </programme>
+  <programme start="20261127055500 -0500" stop="20261127040100 -0500" channel="actionmaxpacific.us">
+    <title lang="en">The Alto Knights</title>
+    <desc lang="en">The Alto Knights follow two of New York's most notorious crime bosses and how their separate paths to power place them on a deadly collision course.(n)</desc>
+  </programme>
+  <programme start="20261125053000 -0500" stop="20261125072600 -0500" channel="actionmax.us">
+    <title lang="en">Grudge Match</title>
+    <desc lang="en">A boxing promoter (Kevin Hart) offers two rival boxers (Robert De Niro, Sylvester Stallone) the chance to come out of retirement for one final bout.(n)</desc>
+  </programme>
+  <programme start="20261125072600 -0500" stop="20261125084800 -0500" channel="actionmax.us">
+    <title lang="en">Godzilla Raids Again</title>
+    <desc lang="en">Prehistoric monsters Godzilla and Anguirus battle it out in Osaka, Japan.(n)</desc>
+  </programme>
+  <programme start="20261125084800 -0500" stop="20261125101000 -0500" channel="actionmax.us">
+    <title lang="en">Godzilla, King of the Monsters!</title>
+    <desc lang="en">A U.S. newsman (Raymond Burr) in Tokyo recounts the story of a huge dinosaur roused from the sea by an atomic blast.(n)</desc>
+  </programme>
+  <programme start="20261125101000 -0500" stop="20261125113400 -0500" channel="actionmax.us">
+    <title lang="en">The Man</title>
+    <desc lang="en">A case of mistaken identity leaves an ATF agent (Samuel L. Jackson) squabbling with a talkative salesman (Eugene Levy) in his custody.(n)</desc>
+  </programme>
+  <programme start="20261125113400 -0500" stop="20261125130500 -0500" channel="actionmax.us">
+    <title lang="en">Man Down</title>
+    <desc lang="en">With help from his best friend (Jai Courtney), a Marine (Shia LaBeouf) embarks on a desperate search to find his wife (Kate Mara) and son (Charlie Shotwell) in post-apocalyptic America.(n)</desc>
+  </programme>
+  <programme start="20261125130500 -0500" stop="20261125142500 -0500" channel="actionmax.us">
+    <title lang="en">Open Water</title>
+    <desc lang="en">Scuba divers (Blanchard Ryan, Daniel Travis) struggle to survive in shark-infested waters after their tour boat accidentally leaves them behind.(n)</desc>
+  </programme>
+  <programme start="20261125142500 -0500" stop="20261125155500 -0500" channel="actionmax.us">
+    <title lang="en">Smoking Tigers</title>
+    <desc lang="en">Lonely 16-year-old Korean American Hayoung tries to hide her problematic family and lower-income background from her new wealthy friends.(n)</desc>
+  </programme>
+  <programme start="20261125155500 -0500" stop="20261125173200 -0500" channel="actionmax.us">
+    <title lang="en">Nerve</title>
+    <desc lang="en">Partnered with a mysterious stranger (Dave Franco), a high school senior (Emma Roberts) joins a popular online game that dares players to perform increasingly dangerous stunts.(n)</desc>
+  </programme>
+  <programme start="20261125173200 -0500" stop="20261125193300 -0500" channel="actionmax.us">
+    <title lang="en">Shot Caller</title>
+    <desc lang="en">Recently released from prison, a gang member finds himself forced by his leaders to orchestrate a major crime with a rival gang.(n)</desc>
+  </programme>
+  <programme start="20261125193300 -0500" stop="20261125211100 -0500" channel="actionmax.us">
+    <title lang="en">A Good Day to Die Hard</title>
+    <desc lang="en">New York City cop John McClane (Bruce Willis) and his estranged son (Jai Courtney) must put aside their differences and work together to get a Russian whistleblower to safety and thwart a disastrous crime in Chernobyl.(n)</desc>
+  </programme>
+  <programme start="20261125211100 -0500" stop="20261125230200 -0500" channel="actionmax.us">
+    <title lang="en">Pacific Rim Uprising</title>
+    <desc lang="en">Jake Pentecost, son of Stacker Pentecost, reunites with Mako Mori to lead a new generation of Jaeger pilots, including rival Lambert and 15-year-old hacker Amara, against a new Kaiju threat.(n)</desc>
+  </programme>
+  <programme start="20261125230200 -0500" stop="20261126010000 -0500" channel="actionmax.us">
+    <title lang="en">Tomb Raider</title>
+    <desc lang="en">Hoping to solve the mystery of her father's disappearance, young Lara Croft embarks on a perilous journey to his last-known destination -- a fabled tomb on a mythical island that might be somewhere off the coast of Japan.(n)</desc>
+  </programme>
+  <programme start="20261126010000 -0500" stop="20261126025500 -0500" channel="actionmax.us">
+    <title lang="en">Godzilla x Kong: The New Empire</title>
+    <desc lang="en">Godzilla and the almighty Kong face a colossal threat hidden deep within the planet, challenging their very existence and the survival of the human race.(n)</desc>
+  </programme>
+  <programme start="20261126025500 -0500" stop="20261126045800 -0500" channel="actionmax.us">
+    <title lang="en">The Alto Knights</title>
+    <desc lang="en">The Alto Knights follow two of New York's most notorious crime bosses and how their separate paths to power place them on a deadly collision course.(n)</desc>
+  </programme>
+  <programme start="20261126045800 -0500" stop="20261126045800 -0500" channel="actionmax.us">
+    <title lang="en">Aniara</title>
+    <desc lang="en">When a spacecraft carrying settlers to Mars strays off course, the consumption-obsessed passengers are prompted to consider their place in the universe.(n)</desc>
+  </programme>
+  <programme start="20261126045800 -0500" stop="20261126064600 -0500" channel="actionmax.us">
+    <title lang="en">Aniara</title>
+    <desc lang="en">When a spacecraft carrying settlers to Mars strays off course, the consumption-obsessed passengers are prompted to consider their place in the universe.(n)</desc>
+  </programme>
+  <programme start="20261126064600 -0500" stop="20261126082500 -0500" channel="actionmax.us">
+    <title lang="en">Collision Course</title>
+    <desc lang="en">A Japanese detective (Pat Morita) and a Detroit detective (Jay Leno) team up to recover a stolen top-secret turbocharger.(n)</desc>
+  </programme>
+  <programme start="20261126082500 -0500" stop="20261126100800 -0500" channel="actionmax.us">
+    <title lang="en">Epic</title>
+    <desc lang="en">Magically transported to a secret realm, a teenage girl (Amanda Seyfried) joins an ongoing battle between the forces of good, which keep the natural world vital, and the forces of evil, which want to destroy it.(n)</desc>
+  </programme>
+  <programme start="20261126100800 -0500" stop="20261126123300 -0500" channel="actionmax.us">
+    <title lang="en">The Flash</title>
+    <desc lang="en">Worlds collide when the Flash travels back in time to change the events of the past. However, when his attempt to save his family alters the future, he becomes trapped in a reality in which General Zod has returned, threatening annihilation.(n)</desc>
+  </programme>
+  <programme start="20261126123300 -0500" stop="20261126140900 -0500" channel="actionmax.us">
+    <title lang="en">Due Date</title>
+    <desc lang="en">Desperate to reach his pregnant wife (Michelle Monaghan), a high-strung architect (Robert Downey Jr.) takes a road trip home with an annoying stranger (Zach Galifianakis).(n)</desc>
+  </programme>
+  <programme start="20261126140900 -0500" stop="20261126154700 -0500" channel="actionmax.us">
+    <title lang="en">The Hitcher</title>
+    <desc lang="en">A teenage motorist (C. Thomas Howell) cannot get away from a twisted man (Rutger Hauer) he picked up and ditched in Texas.(n)</desc>
+  </programme>
+  <programme start="20261126154700 -0500" stop="20261126173500 -0500" channel="actionmax.us">
+    <title lang="en">My Soul to Take</title>
+    <desc lang="en">A teen (Max Thieriot) must figure a way to save his friends from a presumed-dead serial killer who has returned to finish the job he started 16 years earlier.(n)</desc>
+  </programme>
+  <programme start="20261126173500 -0500" stop="20261126190100 -0500" channel="actionmax.us">
+    <title lang="en">Holla</title>
+    <desc lang="en">A mysterious killer stalks a sitcom actress (Shelli Boone) and her companions (Young Sir, Michael Bergin) on a weekend getaway in the wilderness.(n)</desc>
+  </programme>
+  <programme start="20261126190100 -0500" stop="20261126204500 -0500" channel="actionmax.us">
+    <title lang="en">The Darkest Minds</title>
+    <desc lang="en">When teens mysteriously develop powerful new abilities, they are declared a threat by the government and detained. Betrayed by the adults in power, they must use their collective powers to wage a resistance and take back their future.(n)</desc>
+  </programme>
+  <programme start="20261126204500 -0500" stop="20261126220700 -0500" channel="actionmax.us">
+    <title lang="en">The Blair Witch Project</title>
+    <desc lang="en">A filmmaking crew (Heather Donahue, Michael C. Williams, Joshua Leonard) hikes into Maryland's Black Hills Forest seeking clues about a legendary witch.(n)</desc>
+  </programme>
+  <programme start="20261126220700 -0500" stop="20261126233800 -0500" channel="actionmax.us">
+    <title lang="en">Book of Shadows: Blair Witch 2</title>
+    <desc lang="en">When a townie takes collegians on an overnight tour in Burkittsville, Md., they awake to chaos and have no memory of sleeping.(n)</desc>
+  </programme>
+  <programme start="20261126233800 -0500" stop="20261127010800 -0500" channel="actionmax.us">
+    <title lang="en">Blair Witch</title>
+    <desc lang="en">A group of friends (James Allen McCune, Callie Hernandez, Corbin Reid) and their two guides encounter the legendary Blair Witch while exploring the Black Hills Forest in Maryland.(n)</desc>
+  </programme>
+  <programme start="20261127010800 -0500" stop="20261127025300 -0500" channel="actionmax.us">
+    <title lang="en">Beetlejuice Beetlejuice</title>
+    <desc lang="en">Still haunted by Beetlejuice, Lydia's life gets turned upside down when her daughter discovers a portal to the afterlife. When someone says Beetlejuice's name three times, the mischievous demon returns to unleash his very own brand of mayhem.(n)</desc>
+  </programme>
+  <programme start="20261127025300 -0500" stop="20261127050200 -0500" channel="actionmax.us">
+    <title lang="en">Sherlock Holmes: A Game of Shadows</title>
+    <desc lang="en">The murder of Austria's crown prince leads Holmes (Robert Downey Jr.), Watson (Jude Law) and a Gypsy (Noomi Rapace) to a showdown with an evil genius named Moriarty (Jared Harris).(n)</desc>
+  </programme>
+  <programme start="20261127050200 -0500" stop="20261127050200 -0500" channel="actionmax.us">
+    <title lang="en">The Player</title>
+    <desc lang="en">About 65 real-life movie stars fringe the satire of a Hollywood studio executive (Tim Robbins) who gets away with murder.(n)</desc>
+  </programme>
+  <programme start="20261127050200 -0500" stop="20261127070900 -0500" channel="actionmax.us">
+    <title lang="en">The Player</title>
+    <desc lang="en">About 65 real-life movie stars fringe the satire of a Hollywood studio executive (Tim Robbins) who gets away with murder.(n)</desc>
+  </programme>
+  <programme start="20261127070900 -0500" stop="20261127083900 -0500" channel="actionmax.us">
+    <title lang="en">Godzilla vs. Gigan</title>
+    <desc lang="en">Godzilla and Anguirus fight three-headed dragon Ghidorah and huge bird Gigan at a cartoonist's theme park.(n)</desc>
+  </programme>
+  <programme start="20261127083900 -0500" stop="20261127100500 -0500" channel="actionmax.us">
+    <title lang="en">Godzilla vs. Hedorah</title>
+    <desc lang="en">Godzilla fights pollution in the form of living sludge found by a scientist (Akira Yamauchi) and his son (Toshie Kimura).(n)</desc>
+  </programme>
+  <programme start="20261127100500 -0500" stop="20261127112700 -0500" channel="actionmax.us">
+    <title lang="en">Godzilla vs. Megalon</title>
+    <desc lang="en">Godzilla and flying cyborg Jet Jaguar meet a giant cockroach and a big black chicken sent by Seatopians.(n)</desc>
+  </programme>
+  <programme start="20261127112700 -0500" stop="20261127125600 -0500" channel="actionmax.us">
+    <title lang="en">Mom and Dad Save the World</title>
+    <desc lang="en">The dastardly emperor (Jon Lovitz) of another planet beams up a station wagon with a California couple (Teri Garr, Jeffrey Jones) inside.(n)</desc>
+  </programme>
+  <programme start="20261127125600 -0500" stop="20261127144300 -0500" channel="actionmax.us">
+    <title lang="en">The Usual Suspects</title>
+    <desc lang="en">A detective (Chazz Palminteri) questions a con man about his relationships with assorted criminals (Stephen Baldwin, Gabriel Byrne) and their link to a ship explosion.(n)</desc>
+  </programme>
+  <programme start="20261127144300 -0500" stop="20261127162500 -0500" channel="actionmax.us">
+    <title lang="en">Trance</title>
+    <desc lang="en">A criminal (Vincent Cassel) hires a hypnotherapist (Rosario Dawson) to probe the mind of a brain-injured auctioneer (James McAvoy) to uncover the hiding place of a stolen painting.(n)</desc>
+  </programme>
+  <programme start="20261127162500 -0500" stop="20261127182300 -0500" channel="actionmax.us">
+    <title lang="en">3 Days to Kill</title>
+    <desc lang="en">A dying Secret Service agent (Kevin Costner) who wants to reconnect with his estranged daughter (Hailee Steinfeld) is offered a potentially lifesaving drug in exchange for completing one final mission.(n)</desc>
+  </programme>
+  <programme start="20261127182300 -0500" stop="20261127201900 -0500" channel="actionmax.us">
+    <title lang="en">Meg 2: The Trench</title>
+    <desc lang="en">Jonas Taylor leads a research team on an exploratory dive into the deepest depths of the ocean. Pitted against colossal, prehistoric sharks and relentless environmental plunderers, they must outrun, outsmart and outswim their merciless predators.(n)</desc>
+  </programme>
+  <programme start="20261127201900 -0500" stop="20261127214900 -0500" channel="actionmax.us">
+    <title lang="en">Enter Nowhere</title>
+    <desc lang="en">Three strangers arrive one at a time in a remote cabin, and learn they have been brought together for a reason.(n)</desc>
+  </programme>
+  <programme start="20261127214900 -0500" stop="20261127234600 -0500" channel="actionmax.us">
+    <title lang="en">Us</title>
+    <desc lang="en">A couple and their two children must fight for survival when four masked strangers descend upon their beachfront home. When the masks come off, the family is horrified to learn that each attacker takes the appearance of one of them.(n)</desc>
+  </programme>
+  <programme start="20261127234600 -0500" stop="20261128012400 -0500" channel="actionmax.us">
+    <title lang="en">Companion</title>
+    <desc lang="en">A weekend getaway at a remote cabin turns to chaos when it's revealed that one of the guests -- a subservient android built for human companionship -- has gone haywire.(n)</desc>
+  </programme>
+  <programme start="20261128012400 -0500" stop="20261128032500 -0500" channel="actionmax.us">
+    <title lang="en">The Killing of a Sacred Deer</title>
+    <desc lang="en">A fatherless teen starts to insinuate himself into the life of a renowned surgeon, his wife and two children. The full scope of his intent soon becomes menacingly clear when he confronts the doctor with a long-forgotten transgression.(n)</desc>
+  </programme>
+  <programme start="20261128032500 -0500" stop="20261128050700 -0500" channel="actionmax.us">
+    <title lang="en">The Hangover Part II</title>
+    <desc lang="en">Hoping to avoid the mayhem that marked his friend's Las Vegas bachelor party, Stu opts for what he thinks will be a safe prewedding brunch in Thailand.(n)</desc>
+  </programme>
+  <programme start="20261128050700 -0500" stop="20261128050700 -0500" channel="actionmax.us">
+    <title lang="en">Game Night</title>
+    <desc lang="en">A couple's weekly game night gets kicked up a notch when their friends agree to participate in a murder mystery party. They soon find themselves in over their heads as each twist leads to another unexpected turn over the course of one chaotic night.(n)</desc>
+  </programme>
+  <programme start="20261128050700 -0500" stop="20261128065000 -0500" channel="actionmax.us">
+    <title lang="en">Game Night</title>
+    <desc lang="en">A couple's weekly game night gets kicked up a notch when their friends agree to participate in a murder mystery party. They soon find themselves in over their heads as each twist leads to another unexpected turn over the course of one chaotic night.(n)</desc>
+  </programme>
+  <programme start="20261128065000 -0500" stop="20261128085700 -0500" channel="actionmax.us">
+    <title lang="en">Batman</title>
+    <desc lang="en">The Caped Crusader (Michael Keaton) saves dismal Gotham City and gorgeous Vicki Vale (Kim Basinger) from the freaky Joker (Jack Nicholson).(n)</desc>
+  </programme>
+  <programme start="20261128085700 -0500" stop="20261128110400 -0500" channel="actionmax.us">
+    <title lang="en">Batman Returns</title>
+    <desc lang="en">The Caped Crusader (Michael Keaton) clashes with Catwoman (Michelle Pfeiffer) and saves gloomy Gotham City from the foul Penguin's (Danny DeVito) plot.(n)</desc>
+  </programme>
+  <programme start="20261128110400 -0500" stop="20261128130600 -0500" channel="actionmax.us">
+    <title lang="en">Batman Forever</title>
+    <desc lang="en">The Caped Crusader (Val Kilmer) woos a criminal psychologist, takes on a sidekick and battles Two-Face (Tommy Lee Jones) and the Riddler (Jim Carrey).(n)</desc>
+  </programme>
+  <programme start="20261128130600 -0500" stop="20261128151100 -0500" channel="actionmax.us">
+    <title lang="en">Batman &amp; Robin</title>
+    <desc lang="en">Batgirl joins the caped crusaders (George Clooney, Chris O'Donnell) to stop Mr. Freeze (Arnold Schwarzenegger) and Poison Ivy from wreaking revenge upon the world.(n)</desc>
+  </programme>
+  <programme start="20261128151100 -0500" stop="20261128171300 -0500" channel="actionmax.us">
+    <title lang="en">Joker</title>
+    <desc lang="en">Isolated, bullied and disregarded by society, failed comedian Arthur Fleck begins a slow descent into madness as he transforms into the criminal mastermind known as the Joker.(n)</desc>
+  </programme>
+  <programme start="20261128171300 -0500" stop="20261128193100 -0500" channel="actionmax.us">
+    <title lang="en">Joker: Folie à Deux</title>
+    <desc lang="en">Struggling with his dual identity, failed comedian Arthur Fleck stumbles upon true love while incarcerated at Arkham State Hospital. Awaiting trial for the murder of five people, Fleck soon discovers the music that's always been inside him.(n)</desc>
+  </programme>
+  <programme start="20261128193100 -0500" stop="20261128212000 -0500" channel="actionmax.us">
+    <title lang="en">Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)</title>
+    <desc lang="en">Harley Quinn faces the wrath of narcissistic crime boss Black Mask and every other thug in Gotham. But things soon even out for Harley when she becomes unexpected allies with three deadly women -- Huntress, Black Canary and Renee Montoya.(n)</desc>
+  </programme>
+  <programme start="20261128212000 -0500" stop="20261128230600 -0500" channel="actionmax.us">
+    <title lang="en">Rise of the Planet of the Apes</title>
+    <desc lang="en">A scientist's quest to find a cure for Alzheimer's disease unintentionally results in a highly intelligent chimpanzee, which may signal the end of man's dominion over Earth.(n)</desc>
+  </programme>
+  <programme start="20261128230600 -0500" stop="20261129011700 -0500" channel="actionmax.us">
+    <title lang="en">Dawn of the Planet of the Apes</title>
+    <desc lang="en">Human survivors of a plague threaten Caesar's growing nation of genetically evolved apes. Though they reach a fragile peace, soon both sides are brought to the brink of a war that will determine which will become Earth's dominant species.(n)</desc>
+  </programme>
+  <programme start="20261125042000 -0500" stop="20261125061900 -0500" channel="moremax.us">
+    <title lang="en">Time Bandits</title>
+    <desc lang="en">Cosmic dwarfs take a boy on an odyssey featuring Robin Hood (John Cleese), Napoleon, King Agamemnon (Sean Connery).(n)</desc>
+  </programme>
+  <programme start="20261125061900 -0500" stop="20261125081100 -0500" channel="moremax.us">
+    <title lang="en">Colette</title>
+    <desc lang="en">After moving to Paris, author Sidonie-Gabrielle Colette agrees to ghostwrite a semi-autobiographical novel for her husband. Its success soon inspires her to fight for creative ownership and overcome the societal constraints of the early 20th century.(n)</desc>
+  </programme>
+  <programme start="20261125081100 -0500" stop="20261125095700 -0500" channel="moremax.us">
+    <title lang="en">DC League of Super-Pets</title>
+    <desc lang="en">Krypto the Super-Dog must convince a ragtag group of animals to master their own newfound powers to help him save Superman and the rest of the Justice League.(n)</desc>
+  </programme>
+  <programme start="20261125095700 -0500" stop="20261125114200 -0500" channel="moremax.us">
+    <title lang="en">Beetlejuice Beetlejuice</title>
+    <desc lang="en">Still haunted by Beetlejuice, Lydia's life gets turned upside down when her daughter discovers a portal to the afterlife. When someone says Beetlejuice's name three times, the mischievous demon returns to unleash his very own brand of mayhem.(n)</desc>
+  </programme>
+  <programme start="20261125114200 -0500" stop="20261125131400 -0500" channel="moremax.us">
+    <title lang="en">Gimme Shelter</title>
+    <desc lang="en">Filmmakers Albert Maysles, David Maysles and Charlotte Zwerin show the Rolling Stones' 1969 California concert.(n)</desc>
+  </programme>
+  <programme start="20261125131400 -0500" stop="20261125145600 -0500" channel="moremax.us">
+    <title lang="en">Once Were Brothers: Robbie Robertson and The Band</title>
+    <desc lang="en">The story of a band that went from backing up Bob Dylan to becoming one of the most influential groups of its era.(n)</desc>
+  </programme>
+  <programme start="20261125145600 -0500" stop="20261125162700 -0500" channel="moremax.us">
+    <title lang="en">MacGruber</title>
+    <desc lang="en">After his sworn enemy steals a nuclear warhead, a clueless soldier-of-fortune (Will Forte) leads a skilled team on a mission to retrieve the device and bring the thief to justice.(n)</desc>
+  </programme>
+  <programme start="20261125162700 -0500" stop="20261125180800 -0500" channel="moremax.us">
+    <title lang="en">Friendship</title>
+    <desc lang="en">Suburban dad Craig falls hard for his charismatic new neighbor, but his attempts to make an adult male friend soon threatens to ruin both of their lives.(n)</desc>
+  </programme>
+  <programme start="20261125180800 -0500" stop="20261125194600 -0500" channel="moremax.us">
+    <title lang="en">Companion</title>
+    <desc lang="en">A weekend getaway at a remote cabin turns to chaos when it's revealed that one of the guests -- a subservient android built for human companionship -- has gone haywire.(n)</desc>
+  </programme>
+  <programme start="20261125194600 -0500" stop="20261125214100 -0500" channel="moremax.us">
+    <title lang="en">Atomic Blonde</title>
+    <desc lang="en">With the Berlin Wall about to fall, an elite MI6 spy travels into the heart of the city to retrieve a priceless dossier and take down a ruthless espionage ring.(n)</desc>
+  </programme>
+  <programme start="20261125214100 -0500" stop="20261125234600 -0500" channel="moremax.us">
+    <title lang="en">Black Adam</title>
+    <desc lang="en">Bestowed with the almighty powers of the gods, Black Adam's unique form of justice, born out of rage, is challenged by modern-day heroes who form the Justice Society: Hawkman, Dr. Fate, Atom Smasher and Cyclone.(n)</desc>
+  </programme>
+  <programme start="20261125234600 -0500" stop="20261126014300 -0500" channel="moremax.us">
+    <title lang="en">Ghost Dog: The Way of the Samurai</title>
+    <desc lang="en">When his boss (John Tormey) turns against him, a hit man (Forest Whitaker) who lives like a samurai must fend for his life.(n)</desc>
+  </programme>
+  <programme start="20261126014300 -0500" stop="20261126031600 -0500" channel="moremax.us">
+    <title lang="en">Mojave</title>
+    <desc lang="en">A down-and-out artist (Garrett Hedlund) has a dangerous and shocking encounter with an evil drifter (Oscar Isaac) in the desert, leading to terrifying consequences when the deadly stranger follows his unsuspecting victim home.(n)</desc>
+  </programme>
+  <programme start="20261126031600 -0500" stop="20261126045400 -0500" channel="moremax.us">
+    <title lang="en">Arctic</title>
+    <desc lang="en">A man stranded in the Arctic after an airplane crash must decide whether to remain in the relative safety of his makeshift camp or to embark on a deadly trek through the unknown in hopes of making it out alive.(n)</desc>
+  </programme>
+  <programme start="20261126045400 -0500" stop="20261126045400 -0500" channel="moremax.us">
+    <title lang="en">Head Office</title>
+    <desc lang="en">A U.S. senator's son (Judge Reinhold) gets a job at a conglomerate and falls for the chairman's (Eddie Albert) radical daughter.(n)</desc>
+  </programme>
+  <programme start="20261126045400 -0500" stop="20261126062800 -0500" channel="moremax.us">
+    <title lang="en">Head Office</title>
+    <desc lang="en">A U.S. senator's son (Judge Reinhold) gets a job at a conglomerate and falls for the chairman's (Eddie Albert) radical daughter.(n)</desc>
+  </programme>
+  <programme start="20261126062800 -0500" stop="20261126082500 -0500" channel="moremax.us">
+    <title lang="en">Chasing Mavericks</title>
+    <desc lang="en">Hearing that the mythic Mavericks surf break is real, a teenage surfer (Jonny Weston) asks a local legend (Gerard Butler) to teach him how to ride the wave and live to tell the tale.(n)</desc>
+  </programme>
+  <programme start="20261126082500 -0500" stop="20261126100500 -0500" channel="moremax.us">
+    <title lang="en">Brian Banks</title>
+    <desc lang="en">The true story of Brian Banks, a high school football player who faces prison for a crime he didn't commit. Years later, with the support of the California Innocence Project, Banks fights to reclaim his life and fulfill his dreams of NFL stardom.(n)</desc>
+  </programme>
+  <programme start="20261126100500 -0500" stop="20261126113600 -0500" channel="moremax.us">
+    <title lang="en">Hoot</title>
+    <desc lang="en">After moving from Montana, a youth and his new friends in Florida take on corrupt politicians and greedy developers in a fight to protect endangered owls.(n)</desc>
+  </programme>
+  <programme start="20261126113600 -0500" stop="20261126131800 -0500" channel="moremax.us">
+    <title lang="en">Isle of Dogs</title>
+    <desc lang="en">In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island that's a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.(n)</desc>
+  </programme>
+  <programme start="20261126131800 -0500" stop="20261126150000 -0500" channel="moremax.us">
+    <title lang="en">It's Kind of a Funny Story</title>
+    <desc lang="en">A depressed teenager (Keir Gilchrist) checks himself into a psychiatric facility and winds up in the adult ward, where a fellow patient (Zach Galifianakis) takes him under his wing.(n)</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126164200 -0500" channel="moremax.us">
+    <title lang="en">The Switch</title>
+    <desc lang="en">A woman (Jennifer Aniston) inseminates herself without knowing that her best friend (Jason Bateman) substituted her preferred sperm sample for his own.(n)</desc>
+  </programme>
+  <programme start="20261126164200 -0500" stop="20261126180800 -0500" channel="moremax.us">
+    <title lang="en">Mid90s</title>
+    <desc lang="en">In the 1990s Los Angeles, a 13-year-old spends his summer navigating between a troubled home life and a crew of new friends he meets at a skate shop.(n)</desc>
+  </programme>
+  <programme start="20261126180800 -0500" stop="20261126195600 -0500" channel="moremax.us">
+    <title lang="en">The Predator</title>
+    <desc lang="en">In Shane Black's explosive reinvention, the Predator is deadlier than ever, and only a ragtag crew can prevent the end of the human race.(n)</desc>
+  </programme>
+  <programme start="20261126195600 -0500" stop="20261126215100 -0500" channel="moremax.us">
+    <title lang="en">Godzilla x Kong: The New Empire</title>
+    <desc lang="en">Godzilla and the almighty Kong face a colossal threat hidden deep within the planet, challenging their very existence and the survival of the human race.(n)</desc>
+  </programme>
+  <programme start="20261126215100 -0500" stop="20261126232900 -0500" channel="moremax.us">
+    <title lang="en">A Good Day to Die Hard</title>
+    <desc lang="en">New York City cop John McClane (Bruce Willis) and his estranged son (Jai Courtney) must put aside their differences and work together to get a Russian whistleblower to safety and thwart a disastrous crime in Chernobyl.(n)</desc>
+  </programme>
+  <programme start="20261126232900 -0500" stop="20261127010500 -0500" channel="moremax.us">
+    <title lang="en">A History of Violence</title>
+    <desc lang="en">Vicious criminals continue to harass a man (Viggo Mortensen) and his wife (Maria Bello) after he thwarts a robbery attempt at his diner.(n)</desc>
+  </programme>
+  <programme start="20261127010500 -0500" stop="20261127030300 -0500" channel="moremax.us">
+    <title lang="en">3 Days to Kill</title>
+    <desc lang="en">A dying Secret Service agent (Kevin Costner) who wants to reconnect with his estranged daughter (Hailee Steinfeld) is offered a potentially lifesaving drug in exchange for completing one final mission.(n)</desc>
+  </programme>
+  <programme start="20261127030300 -0500" stop="20261127045000 -0500" channel="moremax.us">
+    <title lang="en">Inconceivable</title>
+    <desc lang="en">Angela develops a friendship with a mysterious woman named Katie and offers her a job as a live-in nanny. The natural bond soon turns into a dangerous obsession as Katie becomes overly attached to the family's young daughter.(n)</desc>
+  </programme>
+  <programme start="20261127045000 -0500" stop="20261127045000 -0500" channel="moremax.us">
+    <title lang="en">Girls Trip</title>
+    <desc lang="en">Four best friends travel to New Orleans for the annual Essence Festival. Along the way, they rekindle their sisterhood and rediscover their wild side by doing enough dancing, drinking, brawling and romancing to make the Big Easy blush.(n)</desc>
+  </programme>
+  <programme start="20261127045000 -0500" stop="20261127065500 -0500" channel="moremax.us">
+    <title lang="en">Girls Trip</title>
+    <desc lang="en">Four best friends travel to New Orleans for the annual Essence Festival. Along the way, they rekindle their sisterhood and rediscover their wild side by doing enough dancing, drinking, brawling and romancing to make the Big Easy blush.(n)</desc>
+  </programme>
+  <programme start="20261127065500 -0500" stop="20261127085500 -0500" channel="moremax.us">
+    <title lang="en">The Internship</title>
+    <desc lang="en">Two old-school, unemployed salesmen internships at Google, then must compete with younger, smarter candidates for prime positions.(n)</desc>
+  </programme>
+  <programme start="20261127085500 -0500" stop="20261127110300 -0500" channel="moremax.us">
+    <title lang="en">Ocean's 11</title>
+    <desc lang="en">Veterans of the 82nd Airborne Division devise an elaborate plot to simultaneously rob five casinos on New Year's Eve.(n)</desc>
+  </programme>
+  <programme start="20261127110300 -0500" stop="20261127130000 -0500" channel="moremax.us">
+    <title lang="en">Ocean's Eleven</title>
+    <desc lang="en">Dapper Danny Ocean organizes a gang to steal $150 million from three Las Vegas casinos in a single heist.(n)</desc>
+  </programme>
+  <programme start="20261127130000 -0500" stop="20261127150600 -0500" channel="moremax.us">
+    <title lang="en">Ocean's Twelve</title>
+    <desc lang="en">To pay back casino boss Terry Benedict, Danny Ocean and his team of criminals plan an elaborate heist in Europe.(n)</desc>
+  </programme>
+  <programme start="20261127150600 -0500" stop="20261127170900 -0500" channel="moremax.us">
+    <title lang="en">Ocean's Thirteen</title>
+    <desc lang="en">Danny Ocean and his gang hatch an ambitious plot for revenge after ruthless casino owner Willy Bank double-crosses Reuben Tishkoff, Danny's friend and mentor.(n)</desc>
+  </programme>
+  <programme start="20261127170900 -0500" stop="20261127190100 -0500" channel="moremax.us">
+    <title lang="en">Repo Men</title>
+    <desc lang="en">Set in the future when artificial organs can be bought on credit, a man struggles to make the payments on a heart he has purchased. He must go on the run before the heart is repossessed.(n)</desc>
+  </programme>
+  <programme start="20261127190100 -0500" stop="20261127205100 -0500" channel="moremax.us">
+    <title lang="en">The Nun II</title>
+    <desc lang="en">An evil spreads in 1956 France as a priest is murdered, and Sister Irene once again comes face-to-face with the demonic nun Valak.(n)</desc>
+  </programme>
+  <programme start="20261127205100 -0500" stop="20261127223800 -0500" channel="moremax.us">
+    <title lang="en">Contagion</title>
+    <desc lang="en">The world panics as doctors race to find a cure for a rapidly spreading virus that kills those contaminated within days.(n)</desc>
+  </programme>
+  <programme start="20261127223800 -0500" stop="20261128004000 -0500" channel="moremax.us">
+    <title lang="en">Joker</title>
+    <desc lang="en">Isolated, bullied and disregarded by society, failed comedian Arthur Fleck begins a slow descent into madness as he transforms into the criminal mastermind known as the Joker.(n)</desc>
+  </programme>
+  <programme start="20261128004000 -0500" stop="20261128025800 -0500" channel="moremax.us">
+    <title lang="en">Joker: Folie à Deux</title>
+    <desc lang="en">Struggling with his dual identity, failed comedian Arthur Fleck stumbles upon true love while incarcerated at Arkham State Hospital. Awaiting trial for the murder of five people, Fleck soon discovers the music that's always been inside him.(n)</desc>
+  </programme>
+  <programme start="20261128025800 -0500" stop="20261128051900 -0500" channel="moremax.us">
+    <title lang="en">War for the Planet of the Apes</title>
+    <desc lang="en">A ruthless colonel (Woody Harrelson) leads his troops in a deadly battle against Caesar (Andy Serkis) and his army of intelligent apes.(n)</desc>
+  </programme>
+  <programme start="20261128051900 -0500" stop="20261128051900 -0500" channel="moremax.us">
+    <title lang="en">The Way, Way Back</title>
+    <desc lang="en">After his mother's lover (Steve Carell) belittles him, a boy (Liam James) befriends a water-park employee (Sam Rockwell) who helps give him the confidence to come out of his shell.(n)</desc>
+  </programme>
+  <programme start="20261128051900 -0500" stop="20261128070500 -0500" channel="moremax.us">
+    <title lang="en">The Way, Way Back</title>
+    <desc lang="en">After his mother's lover (Steve Carell) belittles him, a boy (Liam James) befriends a water-park employee (Sam Rockwell) who helps give him the confidence to come out of his shell.(n)</desc>
+  </programme>
+  <programme start="20261128070500 -0500" stop="20261128084000 -0500" channel="moremax.us">
+    <title lang="en">My Big Fat Greek Wedding</title>
+    <desc lang="en">Family tensions arise after a woman (Nia Vardalos) falls in love with a man (John Corbett) who is not Greek.(n)</desc>
+  </programme>
+  <programme start="20261128084000 -0500" stop="20261128101000 -0500" channel="moremax.us">
+    <title lang="en">Smoking Tigers</title>
+    <desc lang="en">Lonely 16-year-old Korean American Hayoung tries to hide her problematic family and lower-income background from her new wealthy friends.(n)</desc>
+  </programme>
+  <programme start="20261128101000 -0500" stop="20261128115900 -0500" channel="moremax.us">
+    <title lang="en">Nanny McPhee Returns</title>
+    <desc lang="en">Magical Nanny McPhee helps a harried mother who is trying to care for five children and tend to the family farm while her husband is away at war.(n)</desc>
+  </programme>
+  <programme start="20261128115900 -0500" stop="20261128141100 -0500" channel="moremax.us">
+    <title lang="en">Shazam!</title>
+    <desc lang="en">Billy Batson is a streetwise 14-year-old who can magically transform into the adult superhero Shazam simply by shouting out one word. His newfound powers soon get put to the test when he squares off against the evil Dr. Thaddeus Sivana.(n)</desc>
+  </programme>
+  <programme start="20261128141100 -0500" stop="20261128162200 -0500" channel="moremax.us">
+    <title lang="en">Shazam! Fury of the Gods</title>
+    <desc lang="en">When a vengeful trio of ancient gods arrives on Earth in search of the magic stolen from them long ago, Shazam and his allies get thrust into a battle for their superpowers, their lives and the fate of the world.(n)</desc>
+  </programme>
+  <programme start="20261128162200 -0500" stop="20261128184300 -0500" channel="moremax.us">
+    <title lang="en">Robin Hood</title>
+    <desc lang="en">In twelfth-century England, Robin Longstride and his band of marauders confront corruption in a local village and lead an uprising against the crown that will forever alter the balance of power.(n)</desc>
+  </programme>
+  <programme start="20261128184300 -0500" stop="20261128203100 -0500" channel="moremax.us">
+    <title lang="en">Rampage</title>
+    <desc lang="en">When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.(n)</desc>
+  </programme>
+  <programme start="20261128203100 -0500" stop="20261128222900 -0500" channel="moremax.us">
+    <title lang="en">Tomb Raider</title>
+    <desc lang="en">Hoping to solve the mystery of her father's disappearance, young Lara Croft embarks on a perilous journey to his last-known destination -- a fabled tomb on a mythical island that might be somewhere off the coast of Japan.(n)</desc>
+  </programme>
+  <programme start="20261128222900 -0500" stop="20261129004100 -0500" channel="moremax.us">
+    <title lang="en">X-Men: First Class</title>
+    <desc lang="en">Charles Xavier and Erik Lehnsherr work with other mutants to prevent a nuclear nightmare, but a situation soon tears the close friends apart.(n)</desc>
+  </programme>
+  <programme start="20261125072000 -0500" stop="20261125091900 -0500" channel="moremaxpacific.us">
+    <title lang="en">Time Bandits</title>
+    <desc lang="en">Cosmic dwarfs take a boy on an odyssey featuring Robin Hood (John Cleese), Napoleon, King Agamemnon (Sean Connery).(n)</desc>
+  </programme>
+  <programme start="20261125091900 -0500" stop="20261125111100 -0500" channel="moremaxpacific.us">
+    <title lang="en">Colette</title>
+    <desc lang="en">After moving to Paris, author Sidonie-Gabrielle Colette agrees to ghostwrite a semi-autobiographical novel for her husband. Its success soon inspires her to fight for creative ownership and overcome the societal constraints of the early 20th century.(n)</desc>
+  </programme>
+  <programme start="20261125111100 -0500" stop="20261125125700 -0500" channel="moremaxpacific.us">
+    <title lang="en">DC League of Super-Pets</title>
+    <desc lang="en">Krypto the Super-Dog must convince a ragtag group of animals to master their own newfound powers to help him save Superman and the rest of the Justice League.(n)</desc>
+  </programme>
+  <programme start="20261125125700 -0500" stop="20261125144200 -0500" channel="moremaxpacific.us">
+    <title lang="en">Beetlejuice Beetlejuice</title>
+    <desc lang="en">Still haunted by Beetlejuice, Lydia's life gets turned upside down when her daughter discovers a portal to the afterlife. When someone says Beetlejuice's name three times, the mischievous demon returns to unleash his very own brand of mayhem.(n)</desc>
+  </programme>
+  <programme start="20261125144200 -0500" stop="20261125161400 -0500" channel="moremaxpacific.us">
+    <title lang="en">Gimme Shelter</title>
+    <desc lang="en">Filmmakers Albert Maysles, David Maysles and Charlotte Zwerin show the Rolling Stones' 1969 California concert.(n)</desc>
+  </programme>
+  <programme start="20261125161400 -0500" stop="20261125175600 -0500" channel="moremaxpacific.us">
+    <title lang="en">Once Were Brothers: Robbie Robertson and The Band</title>
+    <desc lang="en">The story of a band that went from backing up Bob Dylan to becoming one of the most influential groups of its era.(n)</desc>
+  </programme>
+  <programme start="20261125175600 -0500" stop="20261125192700 -0500" channel="moremaxpacific.us">
+    <title lang="en">MacGruber</title>
+    <desc lang="en">After his sworn enemy steals a nuclear warhead, a clueless soldier-of-fortune (Will Forte) leads a skilled team on a mission to retrieve the device and bring the thief to justice.(n)</desc>
+  </programme>
+  <programme start="20261125192700 -0500" stop="20261125210800 -0500" channel="moremaxpacific.us">
+    <title lang="en">Friendship</title>
+    <desc lang="en">Suburban dad Craig falls hard for his charismatic new neighbor, but his attempts to make an adult male friend soon threatens to ruin both of their lives.(n)</desc>
+  </programme>
+  <programme start="20261125210800 -0500" stop="20261125224600 -0500" channel="moremaxpacific.us">
+    <title lang="en">Companion</title>
+    <desc lang="en">A weekend getaway at a remote cabin turns to chaos when it's revealed that one of the guests -- a subservient android built for human companionship -- has gone haywire.(n)</desc>
+  </programme>
+  <programme start="20261125224600 -0500" stop="20261126004100 -0500" channel="moremaxpacific.us">
+    <title lang="en">Atomic Blonde</title>
+    <desc lang="en">With the Berlin Wall about to fall, an elite MI6 spy travels into the heart of the city to retrieve a priceless dossier and take down a ruthless espionage ring.(n)</desc>
+  </programme>
+  <programme start="20261126004100 -0500" stop="20261126024600 -0500" channel="moremaxpacific.us">
+    <title lang="en">Black Adam</title>
+    <desc lang="en">Bestowed with the almighty powers of the gods, Black Adam's unique form of justice, born out of rage, is challenged by modern-day heroes who form the Justice Society: Hawkman, Dr. Fate, Atom Smasher and Cyclone.(n)</desc>
+  </programme>
+  <programme start="20261126024600 -0500" stop="20261126044300 -0500" channel="moremaxpacific.us">
+    <title lang="en">Ghost Dog: The Way of the Samurai</title>
+    <desc lang="en">When his boss (John Tormey) turns against him, a hit man (Forest Whitaker) who lives like a samurai must fend for his life.(n)</desc>
+  </programme>
+  <programme start="20261126044300 -0500" stop="20261126061600 -0500" channel="moremaxpacific.us">
+    <title lang="en">Mojave</title>
+    <desc lang="en">A down-and-out artist (Garrett Hedlund) has a dangerous and shocking encounter with an evil drifter (Oscar Isaac) in the desert, leading to terrifying consequences when the deadly stranger follows his unsuspecting victim home.(n)</desc>
+  </programme>
+  <programme start="20261126061600 -0500" stop="20261126075400 -0500" channel="moremaxpacific.us">
+    <title lang="en">Arctic</title>
+    <desc lang="en">A man stranded in the Arctic after an airplane crash must decide whether to remain in the relative safety of his makeshift camp or to embark on a deadly trek through the unknown in hopes of making it out alive.(n)</desc>
+  </programme>
+  <programme start="20261126075400 -0500" stop="20261126075400 -0500" channel="moremaxpacific.us">
+    <title lang="en">Head Office</title>
+    <desc lang="en">A U.S. senator's son (Judge Reinhold) gets a job at a conglomerate and falls for the chairman's (Eddie Albert) radical daughter.(n)</desc>
+  </programme>
+  <programme start="20261126075400 -0500" stop="20261126092800 -0500" channel="moremaxpacific.us">
+    <title lang="en">Head Office</title>
+    <desc lang="en">A U.S. senator's son (Judge Reinhold) gets a job at a conglomerate and falls for the chairman's (Eddie Albert) radical daughter.(n)</desc>
+  </programme>
+  <programme start="20261126092800 -0500" stop="20261126112500 -0500" channel="moremaxpacific.us">
+    <title lang="en">Chasing Mavericks</title>
+    <desc lang="en">Hearing that the mythic Mavericks surf break is real, a teenage surfer (Jonny Weston) asks a local legend (Gerard Butler) to teach him how to ride the wave and live to tell the tale.(n)</desc>
+  </programme>
+  <programme start="20261126112500 -0500" stop="20261126130500 -0500" channel="moremaxpacific.us">
+    <title lang="en">Brian Banks</title>
+    <desc lang="en">The true story of Brian Banks, a high school football player who faces prison for a crime he didn't commit. Years later, with the support of the California Innocence Project, Banks fights to reclaim his life and fulfill his dreams of NFL stardom.(n)</desc>
+  </programme>
+  <programme start="20261126130500 -0500" stop="20261126143600 -0500" channel="moremaxpacific.us">
+    <title lang="en">Hoot</title>
+    <desc lang="en">After moving from Montana, a youth and his new friends in Florida take on corrupt politicians and greedy developers in a fight to protect endangered owls.(n)</desc>
+  </programme>
+  <programme start="20261126143600 -0500" stop="20261126161800 -0500" channel="moremaxpacific.us">
+    <title lang="en">Isle of Dogs</title>
+    <desc lang="en">In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island that's a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.(n)</desc>
+  </programme>
+  <programme start="20261126161800 -0500" stop="20261126180000 -0500" channel="moremaxpacific.us">
+    <title lang="en">It's Kind of a Funny Story</title>
+    <desc lang="en">A depressed teenager (Keir Gilchrist) checks himself into a psychiatric facility and winds up in the adult ward, where a fellow patient (Zach Galifianakis) takes him under his wing.(n)</desc>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126194200 -0500" channel="moremaxpacific.us">
+    <title lang="en">The Switch</title>
+    <desc lang="en">A woman (Jennifer Aniston) inseminates herself without knowing that her best friend (Jason Bateman) substituted her preferred sperm sample for his own.(n)</desc>
+  </programme>
+  <programme start="20261126194200 -0500" stop="20261126210800 -0500" channel="moremaxpacific.us">
+    <title lang="en">Mid90s</title>
+    <desc lang="en">In the 1990s Los Angeles, a 13-year-old spends his summer navigating between a troubled home life and a crew of new friends he meets at a skate shop.(n)</desc>
+  </programme>
+  <programme start="20261126210800 -0500" stop="20261126225600 -0500" channel="moremaxpacific.us">
+    <title lang="en">The Predator</title>
+    <desc lang="en">In Shane Black's explosive reinvention, the Predator is deadlier than ever, and only a ragtag crew can prevent the end of the human race.(n)</desc>
+  </programme>
+  <programme start="20261126225600 -0500" stop="20261127005100 -0500" channel="moremaxpacific.us">
+    <title lang="en">Godzilla x Kong: The New Empire</title>
+    <desc lang="en">Godzilla and the almighty Kong face a colossal threat hidden deep within the planet, challenging their very existence and the survival of the human race.(n)</desc>
+  </programme>
+  <programme start="20261127005100 -0500" stop="20261127022900 -0500" channel="moremaxpacific.us">
+    <title lang="en">A Good Day to Die Hard</title>
+    <desc lang="en">New York City cop John McClane (Bruce Willis) and his estranged son (Jai Courtney) must put aside their differences and work together to get a Russian whistleblower to safety and thwart a disastrous crime in Chernobyl.(n)</desc>
+  </programme>
+  <programme start="20261127022900 -0500" stop="20261127040500 -0500" channel="moremaxpacific.us">
+    <title lang="en">A History of Violence</title>
+    <desc lang="en">Vicious criminals continue to harass a man (Viggo Mortensen) and his wife (Maria Bello) after he thwarts a robbery attempt at his diner.(n)</desc>
+  </programme>
+  <programme start="20261127040500 -0500" stop="20261127060300 -0500" channel="moremaxpacific.us">
+    <title lang="en">3 Days to Kill</title>
+    <desc lang="en">A dying Secret Service agent (Kevin Costner) who wants to reconnect with his estranged daughter (Hailee Steinfeld) is offered a potentially lifesaving drug in exchange for completing one final mission.(n)</desc>
+  </programme>
+  <programme start="20261127060300 -0500" stop="20261127075000 -0500" channel="moremaxpacific.us">
+    <title lang="en">Inconceivable</title>
+    <desc lang="en">Angela develops a friendship with a mysterious woman named Katie and offers her a job as a live-in nanny. The natural bond soon turns into a dangerous obsession as Katie becomes overly attached to the family's young daughter.(n)</desc>
+  </programme>
+  <programme start="20261127075000 -0500" stop="20261127075000 -0500" channel="moremaxpacific.us">
+    <title lang="en">Girls Trip</title>
+    <desc lang="en">Four best friends travel to New Orleans for the annual Essence Festival. Along the way, they rekindle their sisterhood and rediscover their wild side by doing enough dancing, drinking, brawling and romancing to make the Big Easy blush.(n)</desc>
+  </programme>
+  <programme start="20261127075000 -0500" stop="20261127095500 -0500" channel="moremaxpacific.us">
+    <title lang="en">Girls Trip</title>
+    <desc lang="en">Four best friends travel to New Orleans for the annual Essence Festival. Along the way, they rekindle their sisterhood and rediscover their wild side by doing enough dancing, drinking, brawling and romancing to make the Big Easy blush.(n)</desc>
+  </programme>
+  <programme start="20261127095500 -0500" stop="20261127115500 -0500" channel="moremaxpacific.us">
+    <title lang="en">The Internship</title>
+    <desc lang="en">Two old-school, unemployed salesmen internships at Google, then must compete with younger, smarter candidates for prime positions.(n)</desc>
+  </programme>
+  <programme start="20261127115500 -0500" stop="20261127140300 -0500" channel="moremaxpacific.us">
+    <title lang="en">Ocean's 11</title>
+    <desc lang="en">Veterans of the 82nd Airborne Division devise an elaborate plot to simultaneously rob five casinos on New Year's Eve.(n)</desc>
+  </programme>
+  <programme start="20261127140300 -0500" stop="20261127160000 -0500" channel="moremaxpacific.us">
+    <title lang="en">Ocean's Eleven</title>
+    <desc lang="en">Dapper Danny Ocean organizes a gang to steal $150 million from three Las Vegas casinos in a single heist.(n)</desc>
+  </programme>
+  <programme start="20261127160000 -0500" stop="20261127180600 -0500" channel="moremaxpacific.us">
+    <title lang="en">Ocean's Twelve</title>
+    <desc lang="en">To pay back casino boss Terry Benedict, Danny Ocean and his team of criminals plan an elaborate heist in Europe.(n)</desc>
+  </programme>
+  <programme start="20261127180600 -0500" stop="20261127200900 -0500" channel="moremaxpacific.us">
+    <title lang="en">Ocean's Thirteen</title>
+    <desc lang="en">Danny Ocean and his gang hatch an ambitious plot for revenge after ruthless casino owner Willy Bank double-crosses Reuben Tishkoff, Danny's friend and mentor.(n)</desc>
+  </programme>
+  <programme start="20261127200900 -0500" stop="20261127220100 -0500" channel="moremaxpacific.us">
+    <title lang="en">Repo Men</title>
+    <desc lang="en">Set in the future when artificial organs can be bought on credit, a man struggles to make the payments on a heart he has purchased. He must go on the run before the heart is repossessed.(n)</desc>
+  </programme>
+  <programme start="20261127220100 -0500" stop="20261127235100 -0500" channel="moremaxpacific.us">
+    <title lang="en">The Nun II</title>
+    <desc lang="en">An evil spreads in 1956 France as a priest is murdered, and Sister Irene once again comes face-to-face with the demonic nun Valak.(n)</desc>
+  </programme>
+  <programme start="20261127235100 -0500" stop="20261128013800 -0500" channel="moremaxpacific.us">
+    <title lang="en">Contagion</title>
+    <desc lang="en">The world panics as doctors race to find a cure for a rapidly spreading virus that kills those contaminated within days.(n)</desc>
+  </programme>
+  <programme start="20261128013800 -0500" stop="20261128034000 -0500" channel="moremaxpacific.us">
+    <title lang="en">Joker</title>
+    <desc lang="en">Isolated, bullied and disregarded by society, failed comedian Arthur Fleck begins a slow descent into madness as he transforms into the criminal mastermind known as the Joker.(n)</desc>
+  </programme>
+  <programme start="20261128034000 -0500" stop="20261128055800 -0500" channel="moremaxpacific.us">
+    <title lang="en">Joker: Folie à Deux</title>
+    <desc lang="en">Struggling with his dual identity, failed comedian Arthur Fleck stumbles upon true love while incarcerated at Arkham State Hospital. Awaiting trial for the murder of five people, Fleck soon discovers the music that's always been inside him.(n)</desc>
+  </programme>
+  <programme start="20261128055800 -0500" stop="20261128081900 -0500" channel="moremaxpacific.us">
+    <title lang="en">War for the Planet of the Apes</title>
+    <desc lang="en">A ruthless colonel (Woody Harrelson) leads his troops in a deadly battle against Caesar (Andy Serkis) and his army of intelligent apes.(n)</desc>
+  </programme>
+  <programme start="20261128081900 -0500" stop="20261128081900 -0500" channel="moremaxpacific.us">
+    <title lang="en">The Way, Way Back</title>
+    <desc lang="en">After his mother's lover (Steve Carell) belittles him, a boy (Liam James) befriends a water-park employee (Sam Rockwell) who helps give him the confidence to come out of his shell.(n)</desc>
+  </programme>
+  <programme start="20261128081900 -0500" stop="20261128100500 -0500" channel="moremaxpacific.us">
+    <title lang="en">The Way, Way Back</title>
+    <desc lang="en">After his mother's lover (Steve Carell) belittles him, a boy (Liam James) befriends a water-park employee (Sam Rockwell) who helps give him the confidence to come out of his shell.(n)</desc>
+  </programme>
+  <programme start="20261128100500 -0500" stop="20261128114000 -0500" channel="moremaxpacific.us">
+    <title lang="en">My Big Fat Greek Wedding</title>
+    <desc lang="en">Family tensions arise after a woman (Nia Vardalos) falls in love with a man (John Corbett) who is not Greek.(n)</desc>
+  </programme>
+  <programme start="20261128114000 -0500" stop="20261128131000 -0500" channel="moremaxpacific.us">
+    <title lang="en">Smoking Tigers</title>
+    <desc lang="en">Lonely 16-year-old Korean American Hayoung tries to hide her problematic family and lower-income background from her new wealthy friends.(n)</desc>
+  </programme>
+  <programme start="20261128131000 -0500" stop="20261128145900 -0500" channel="moremaxpacific.us">
+    <title lang="en">Nanny McPhee Returns</title>
+    <desc lang="en">Magical Nanny McPhee helps a harried mother who is trying to care for five children and tend to the family farm while her husband is away at war.(n)</desc>
+  </programme>
+  <programme start="20261128145900 -0500" stop="20261128171100 -0500" channel="moremaxpacific.us">
+    <title lang="en">Shazam!</title>
+    <desc lang="en">Billy Batson is a streetwise 14-year-old who can magically transform into the adult superhero Shazam simply by shouting out one word. His newfound powers soon get put to the test when he squares off against the evil Dr. Thaddeus Sivana.(n)</desc>
+  </programme>
+  <programme start="20261128171100 -0500" stop="20261128192200 -0500" channel="moremaxpacific.us">
+    <title lang="en">Shazam! Fury of the Gods</title>
+    <desc lang="en">When a vengeful trio of ancient gods arrives on Earth in search of the magic stolen from them long ago, Shazam and his allies get thrust into a battle for their superpowers, their lives and the fate of the world.(n)</desc>
+  </programme>
+  <programme start="20261128192200 -0500" stop="20261128214300 -0500" channel="moremaxpacific.us">
+    <title lang="en">Robin Hood</title>
+    <desc lang="en">In twelfth-century England, Robin Longstride and his band of marauders confront corruption in a local village and lead an uprising against the crown that will forever alter the balance of power.(n)</desc>
+  </programme>
+  <programme start="20261128214300 -0500" stop="20261128233100 -0500" channel="moremaxpacific.us">
+    <title lang="en">Rampage</title>
+    <desc lang="en">When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.(n)</desc>
+  </programme>
+  <programme start="20261128233100 -0500" stop="20261129012900 -0500" channel="moremaxpacific.us">
+    <title lang="en">Tomb Raider</title>
+    <desc lang="en">Hoping to solve the mystery of her father's disappearance, young Lara Croft embarks on a perilous journey to his last-known destination -- a fabled tomb on a mythical island that might be somewhere off the coast of Japan.(n)</desc>
+  </programme>
+  <programme start="20261129012900 -0500" stop="20261129034100 -0500" channel="moremaxpacific.us">
+    <title lang="en">X-Men: First Class</title>
+    <desc lang="en">Charles Xavier and Erik Lehnsherr work with other mutants to prevent a nuclear nightmare, but a situation soon tears the close friends apart.(n)</desc>
+  </programme>
+  <programme start="20261125060000 -0500" stop="20261125063000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">Brunch at Prohibition Montreal; the specialty at Battista's Calzone Co.; burgers and fries at Burgers 'n Fries Forever.(n)</desc>
+  </programme>
+  <programme start="20261125063000 -0500" stop="20261125070000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">An Edmonton hot spot for Mexican rotisserie; a cute breakfast in Ottawa.(n)</desc>
+  </programme>
+  <programme start="20261125070000 -0500" stop="20261125073000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John learns how Toronto earns its nickname; pizza and burgers at Son of a Peach in Ontario; a lobster roll at Belle Isle Seafood.(n)</desc>
+  </programme>
+  <programme start="20261125073000 -0500" stop="20261125080000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">Pizza at Tonda; homemade pasta and Roman stews; pasta carbonara.(n)</desc>
+  </programme>
+  <programme start="20261125080000 -0500" stop="20261125083000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">Panini at All'Antico Vinaio; Tuscan truffles and pasta; simple, delicious Tuscan meals.(n)</desc>
+  </programme>
+  <programme start="20261125083000 -0500" stop="20261125090000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">Extreme grilled cheese in Cleveland; burgers in Windsor; diner food and coconut cream pie.(n)</desc>
+  </programme>
+  <programme start="20261125090000 -0500" stop="20261125093000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">East Coast hospitality in St. John's; barbecue at Fat Bob's Smokehouse in Buffalo; Canadian-themed pizzas.(n)</desc>
+  </programme>
+  <programme start="20261125093000 -0500" stop="20261125100000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">An Edmonton hot spot for Mexican rotisserie; a cute breakfast in Ottawa.(n)</desc>
+  </programme>
+  <programme start="20261125100000 -0500" stop="20261125103000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">Brunch at Prohibition Montreal; the specialty at Battista's Calzone Co.; burgers and fries at Burgers 'n Fries Forever.(n)</desc>
+  </programme>
+  <programme start="20261125103000 -0500" stop="20261125110000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John learns how Toronto earns its nickname; pizza and burgers at Son of a Peach in Ontario; a lobster roll at Belle Isle Seafood.(n)</desc>
+  </programme>
+  <programme start="20261125110000 -0500" stop="20261125113000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">Pizza at Tonda; homemade pasta and Roman stews; pasta carbonara.(n)</desc>
+  </programme>
+  <programme start="20261125113000 -0500" stop="20261125120000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">Panini at All'Antico Vinaio; Tuscan truffles and pasta; simple, delicious Tuscan meals.(n)</desc>
+  </programme>
+  <programme start="20261125120000 -0500" stop="20261125123000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">Extreme grilled cheese in Cleveland; burgers in Windsor; diner food and coconut cream pie.(n)</desc>
+  </programme>
+  <programme start="20261125123000 -0500" stop="20261125130000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">Venison burger and barbecue sandwiches at Buck Stop; Soup at The Burnt Tongue; Belgian fries and waffles.(n)</desc>
+  </programme>
+  <programme start="20261125130000 -0500" stop="20261125140000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Kitchen Nightmares</title>
+    <desc lang="en">Ramsay tries to help the owner of Iberville Cuisine &amp; Oyster Bar, located in the heart of the French Quarter.(n)</desc>
+  </programme>
+  <programme start="20261125140000 -0500" stop="20261125150000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Kitchen Nightmares</title>
+    <desc lang="en">Gordon Ramsay continues to help the lost owner of Iberville Cuisine.(n)</desc>
+  </programme>
+  <programme start="20261125150000 -0500" stop="20261125160000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Kitchen Nightmares</title>
+    <desc lang="en">Gordon tries to revamp Voleo's Seafood Restaurant, a second-generation family-run restaurant struggling to stay afloat following the devastation caused by Hurricane Ida in 2021.(n)</desc>
+  </programme>
+  <programme start="20261125160000 -0500" stop="20261125170000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Kitchen Nightmares</title>
+    <desc lang="en">A vegan restaurant grappling with direction and disorganization needs help.(n)</desc>
+  </programme>
+  <programme start="20261125170000 -0500" stop="20261125180000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Kitchen Nightmares</title>
+    <desc lang="en">Gordon Ramsay pays a visit to traditional southern cuisine restaurant 3 Southern Girls; the restaurant's owners hope to rebuild a successful business after being forced to close down for more than a month due to a family tragedy.(n)</desc>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125190000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Kitchen Nightmares</title>
+    <desc lang="en">Gordon tries to revamp Kings Blue Jam Café in Houston, a café specializing in all things breakfast, brunch and lunch, but the overwhelming menu and miscommunication among staff members are causing issues.(n)</desc>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125200000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Next Level Baker</title>
+    <desc lang="en">Nine bakers from home, professional and social media backgrounds compete; Pentatonix performs; following a surprise team reveal, the competition unfolds with festive flair.(n)</desc>
+  </programme>
+  <programme start="20261125200000 -0500" stop="20261125210000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Top Chef Canada</title>
+    <desc lang="en">The Chefs head to Charlevoix, where they're immersed in locally grown produce and artisanal products from the region's famous Flavour Trail.(n)</desc>
+  </programme>
+  <programme start="20261125210000 -0500" stop="20261125224500 -0500" channel="flavournetwork.ca">
+    <title lang="en">My Kitchen Rules</title>
+    <desc lang="en">Teams compete in an ordinary home to serve a three-course meal for a $100,000 prize.(n)</desc>
+  </programme>
+  <programme start="20261125224500 -0500" stop="20261125233000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing's Tales from a Kitchen Garden</title>
+    <desc lang="en">Marcus Wareing follows his dream of living and cooking in the English countryside; he travels around the country visiting growers, farmers and producers inspiring him to grow his own market garden.(n)</desc>
+  </programme>
+  <programme start="20261125233000 -0500" stop="20261126000000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Beat Bobby Flay</title>
+    <desc lang="en">Country music superstar Martina McBride and chef Alex Guarnaschelli jam with chefs Drew Erickson and Aristide Williams to tune Bobby Flay up.(n)</desc>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126010000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Kitchen Nightmares</title>
+    <desc lang="en">Gordon Ramsay tries to help an English pub located in Georgetown, Texas, which lacks a quintessential British identity.(n)</desc>
+  </programme>
+  <programme start="20261126010000 -0500" stop="20261126020000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Kitchen Nightmares</title>
+    <desc lang="en">A family tragedy leaves Leo's Italian Grill on the decline; customers are met with low-quality ingredients and a lack of customer service; Gordon is determined to help the owner rediscover his dream of operating a vibrant restaurant.(n)</desc>
+  </programme>
+  <programme start="20261126020000 -0500" stop="20261126030000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Kitchen Nightmares</title>
+    <desc lang="en">Ramsay tries to help the owner of Iberville Cuisine &amp; Oyster Bar, located in the heart of the French Quarter.(n)</desc>
+  </programme>
+  <programme start="20261126030000 -0500" stop="20261126040000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Kitchen Nightmares</title>
+    <desc lang="en">Gordon Ramsay continues to help the lost owner of Iberville Cuisine.(n)</desc>
+  </programme>
+  <programme start="20261126040000 -0500" stop="20261126050000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Kitchen Nightmares</title>
+    <desc lang="en">Gordon tries to revamp Voleo's Seafood Restaurant, a second-generation family-run restaurant struggling to stay afloat following the devastation caused by Hurricane Ida in 2021.(n)</desc>
+  </programme>
+  <programme start="20261126050000 -0500" stop="20261126060000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Kitchen Nightmares</title>
+    <desc lang="en">A vegan restaurant grappling with direction and disorganization needs help.(n)</desc>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126063000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">Southern barbecue in Georgetown, Ont.; Napoletana pizza in St. John's.(n)</desc>
+  </programme>
+  <programme start="20261126063000 -0500" stop="20261126070000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">Chilean breads and desserts at Panaderia Latin Bakery in Vancouver; gourmet fry toppers at The Mess Hall Poutinerie; deli sandwiches in Boston.(n)</desc>
+  </programme>
+  <programme start="20261126070000 -0500" stop="20261126073000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">Barbecue at MEAT in Edmonton; Italian pizza and pasta in Ottawa; friendly classics in Winnipeg.(n)</desc>
+  </programme>
+  <programme start="20261126073000 -0500" stop="20261126080000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John checks out the breakfast options at Homeskillet in Bellingham, Washington; John feasts on southwestern comfort foods at Toronto's Combine Eatery; John has a gourmet burger at Burger Bar in Montreal.(n)</desc>
+  </programme>
+  <programme start="20261126080000 -0500" stop="20261126083000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John tours Tucson's BOCA Tacos y Tequila; John's barbecue dream comes true at Palomino in Calgary; John has a few cheesy slices at Burlington's NaRoma Pizza Bar.(n)</desc>
+  </programme>
+  <programme start="20261126083000 -0500" stop="20261126090000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John heads to Oak Tree Tavern in Calgary in search of great pub food; Montreal's Satay Brothers serves up some Southeast Asian street food; John tries the Big A. Panzerotti.(n)</desc>
+  </programme>
+  <programme start="20261126090000 -0500" stop="20261126110000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Holiday Baking Championship</title>
+    <desc lang="en">Host Jesse Palmer honors the tradition of making treats for family and friends at a holiday open house; the bakers create holiday cheese ball desserts and holiday bark-inspired desserts to impress judges Carla Hall, Duff Goldman and Nancy Fuller.(n)</desc>
+  </programme>
+  <programme start="20261126110000 -0500" stop="20261126130000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Holiday Baking Championship</title>
+    <desc lang="en">Jesse Palmer asks the bakers to make Thanksgiving cupcakes and 3D pies that bring drama to the Turkey Day feast; Kids Baking Championship alums Matt Azuma and Summer Haque join judges Carla Hall, Duff Goldman and Nancy Fuller.(n)</desc>
+  </programme>
+  <programme start="20261126130000 -0500" stop="20261126140000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Holiday Baking Championship</title>
+    <desc lang="en">Jesse Palmer asks the bakers to create flavor friends desserts designed to make a seasonal flavor pairing shine; the bakers are divided into two teams as they take on apple vs. pumpkin desserts.(n)</desc>
+  </programme>
+  <programme start="20261126140000 -0500" stop="20261126150000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Holiday Baking Championship</title>
+    <desc lang="en">Jesse Palmer asks the remaining nine bakers to make fruitcake blend desserts and Victorian-era Lambeth cakes, featuring intricate piping and an old-timey ingredient; judges Carla Hall, Duff Goldman and Nancy Fuller decide which baker gets eliminated.(n)</desc>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126160000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Holiday Baking Championship</title>
+    <desc lang="en">Jesse Palmer asks the bakers to make flavor-forward cookies; judges Carla Hall, Duff Goldman and Nancy Fuller decide the winner in a blind tasting.(n)</desc>
+  </programme>
+  <programme start="20261126160000 -0500" stop="20261126170000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Holiday Baking Championship</title>
+    <desc lang="en">Jesse Palmer asks the remaining seven bakers to team up and make ooey-gooey caramel and chocolate desserts; the real party begins as the ice luge arrives; the bakers make boozy trifles for judges Carla Hall, Duff Goldman and Nancy Fuller.(n)</desc>
+  </programme>
+  <programme start="20261126170000 -0500" stop="20261126190000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Holiday Baking Championship</title>
+    <desc lang="en">Jesse Palmer asks the bakers to make footie pajama macarons, cream puff garlands and a dessert consisting of either a Charlotte royale, entremets cake or a dacquoise cake.(n)</desc>
+  </programme>
+  <programme start="20261126190000 -0500" stop="20261126210000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Holiday Baking Championship</title>
+    <desc lang="en">In the pre-heat, the bakers create faux candy desserts, traditional candy decorations that are actually desserts on the inside; the bakers construct gingerbread house cakes in unique architectural styles like modern, Tudor, cozy cottage or castle.(n)</desc>
+  </programme>
+  <programme start="20261126210000 -0500" stop="20261126220000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Next Level Baker</title>
+    <desc lang="en">Eight bakers face a festive stuffed-cookie challenge where a gifted ingredient from Santa could make or break their bake; when two bakers are sent into a high-stakes chocolate showdown, one baker's emotional tribute goes disastrously wrong.(n)</desc>
+  </programme>
+  <programme start="20261126220000 -0500" stop="20261126223000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Everything on the Menu With Braun Strowman</title>
+    <desc lang="en">Braun hits the music city for a dinner with rock stars and Nashville chicken with AJ Wilkerson.(n)</desc>
+  </programme>
+  <programme start="20261126223000 -0500" stop="20261126230000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Everything on the Menu With Braun Strowman</title>
+    <desc lang="en">In Seattle, Braun throws fish, catches giant clams, and dines with the godfather of sushi.(n)</desc>
+  </programme>
+  <programme start="20261126230000 -0500" stop="20261127000000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Top Chef Canada</title>
+    <desc lang="en">The Chefs head to Charlevoix, where they're immersed in locally grown produce and artisanal products from the region's famous Flavour Trail.(n)</desc>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127010000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Next Level Baker</title>
+    <desc lang="en">Eight bakers face a festive stuffed-cookie challenge where a gifted ingredient from Santa could make or break their bake; when two bakers are sent into a high-stakes chocolate showdown, one baker's emotional tribute goes disastrously wrong.(n)</desc>
+  </programme>
+  <programme start="20261127010000 -0500" stop="20261127013000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Everything on the Menu With Braun Strowman</title>
+    <desc lang="en">Braun hits the music city for a dinner with rock stars and Nashville chicken with AJ Wilkerson.(n)</desc>
+  </programme>
+  <programme start="20261127013000 -0500" stop="20261127020000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Everything on the Menu With Braun Strowman</title>
+    <desc lang="en">In Seattle, Braun throws fish, catches giant clams, and dines with the godfather of sushi.(n)</desc>
+  </programme>
+  <programme start="20261127020000 -0500" stop="20261127030000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Holiday Baking Championship</title>
+    <desc lang="en">Jesse Palmer asks the bakers to create flavor friends desserts designed to make a seasonal flavor pairing shine; the bakers are divided into two teams as they take on apple vs. pumpkin desserts.(n)</desc>
+  </programme>
+  <programme start="20261127030000 -0500" stop="20261127040000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Holiday Baking Championship</title>
+    <desc lang="en">Jesse Palmer asks the remaining nine bakers to make fruitcake blend desserts and Victorian-era Lambeth cakes, featuring intricate piping and an old-timey ingredient; judges Carla Hall, Duff Goldman and Nancy Fuller decide which baker gets eliminated.(n)</desc>
+  </programme>
+  <programme start="20261127040000 -0500" stop="20261127050000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Holiday Baking Championship</title>
+    <desc lang="en">Jesse Palmer asks the bakers to make flavor-forward cookies; judges Carla Hall, Duff Goldman and Nancy Fuller decide the winner in a blind tasting.(n)</desc>
+  </programme>
+  <programme start="20261127050000 -0500" stop="20261127060000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Holiday Baking Championship</title>
+    <desc lang="en">Jesse Palmer asks the remaining seven bakers to team up and make ooey-gooey caramel and chocolate desserts; the real party begins as the ice luge arrives; the bakers make boozy trifles for judges Carla Hall, Duff Goldman and Nancy Fuller.(n)</desc>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127063000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John tries the treats at Cartems Donuterie in Vancouver; John tours Toronto's Pizzeria Defina; John visits Wallace &amp; Co. in Toronto.(n)</desc>
+  </programme>
+  <programme start="20261127063000 -0500" stop="20261127070000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John gets a meaty treat at Pig and Duke in Calgary; John tries the burger at Little Fin in Toronto; John enjoys a Hawaiian feast at Everett's Kama'aina Grindz.(n)</desc>
+  </programme>
+  <programme start="20261127070000 -0500" stop="20261127073000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John goes on a food vacation in London for fish and chips at Mayfair Chippy, some Indian curries at Roti Chai and a roast at the Princess Victoria.(n)</desc>
+  </programme>
+  <programme start="20261127073000 -0500" stop="20261127080000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John travels to Dublin, Ireland to visit Gallagher's Boxty House, L. Mulligan Grocer and the Oar House.(n)</desc>
+  </programme>
+  <programme start="20261127080000 -0500" stop="20261127083000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John heads to Hamilton's The Ship for some pub food; John has some southwestern brunch at Baja Café in Tucson, Arizona; Vancouver's Cannibal Café offers some hardcore punk rock burgers.(n)</desc>
+  </programme>
+  <programme start="20261127083000 -0500" stop="20261127090000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">At Queen Bee in Seattle, John gets his crumpwich on; John drops by Saskatoon's Bons Temps Café for some Cajun cuisine; John tries a Yorkshire pudding burger at Toronto's Borough.(n)</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127093000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John gets some breakfast at Deacon's Corner in Vancouver; Peterborough's Two Dishes Cookshop serves up some hearty home cooking; at Izabel's in Waterdown, Ontario, John tries some schnitzel.(n)</desc>
+  </programme>
+  <programme start="20261127093000 -0500" stop="20261127100000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John gets a meaty treat at Pig and Duke in Calgary; John tries the burger at Little Fin in Toronto; John enjoys a Hawaiian feast at Everett's Kama'aina Grindz.(n)</desc>
+  </programme>
+  <programme start="20261127100000 -0500" stop="20261127103000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John tries the treats at Cartems Donuterie in Vancouver; John tours Toronto's Pizzeria Defina; John visits Wallace &amp; Co. in Toronto.(n)</desc>
+  </programme>
+  <programme start="20261127103000 -0500" stop="20261127110000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John goes on a food vacation in London for fish and chips at Mayfair Chippy, some Indian curries at Roti Chai and a roast at the Princess Victoria.(n)</desc>
+  </programme>
+  <programme start="20261127110000 -0500" stop="20261127113000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John travels to Dublin, Ireland to visit Gallagher's Boxty House, L. Mulligan Grocer and the Oar House.(n)</desc>
+  </programme>
+  <programme start="20261127113000 -0500" stop="20261127120000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">John heads to Hamilton's The Ship for some pub food; John has some southwestern brunch at Baja Café in Tucson, Arizona; Vancouver's Cannibal Café offers some hardcore punk rock burgers.(n)</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127123000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">At Queen Bee in Seattle, John gets his crumpwich on; John drops by Saskatoon's Bons Temps Café for some Cajun cuisine; John tries a Yorkshire pudding burger at Toronto's Borough.(n)</desc>
+  </programme>
+  <programme start="20261127123000 -0500" stop="20261127130000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">An open-faced blackened salmon sandwich on homemade focaccia at Stoney's Bread Company.(n)</desc>
+  </programme>
+  <programme start="20261127130000 -0500" stop="20261127133000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus shares some festive favorites to make in advance, a glazed ham, home-cured gravadlax with orange and coriander and mince pies.(n)</desc>
+  </programme>
+  <programme start="20261127133000 -0500" stop="20261127140000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus Wareing gets feast-ready for Christmas with his favorite go-to recipes; he uses his world-class chef skills to create festive showstoppers.(n)</desc>
+  </programme>
+  <programme start="20261127140000 -0500" stop="20261127143000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus serves up dishes from across Europe, from a Bundt cake, to slow cooked pork belly and scallops on a bed of crisp chorizo.(n)</desc>
+  </programme>
+  <programme start="20261127143000 -0500" stop="20261127150000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus serves up celebratory desserts, including panettone bread and butter pudding, pear and ginger trifle and bite-sized Christmas puddings.(n)</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127153000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus prepares festive favorites to make the night before Christmas, from pollock in a creamy mushroom sauce to green beans in a sweet hazelnut dressing.(n)</desc>
+  </programme>
+  <programme start="20261127153000 -0500" stop="20261127160000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus Wareing gets feast-ready for Christmas with his favorite go-to recipes; he uses his world-class chef skills to create festive showstoppers.(n)</desc>
+  </programme>
+  <programme start="20261127160000 -0500" stop="20261127163000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus Wareing gets feast-ready for Christmas with his favorite go-to recipes; he uses his world-class chef skills to create festive showstoppers.(n)</desc>
+  </programme>
+  <programme start="20261127163000 -0500" stop="20261127170000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus Wareing gets feast-ready for Christmas with his favorite go-to recipes; he uses his world-class chef skills to create festive showstoppers.(n)</desc>
+  </programme>
+  <programme start="20261127170000 -0500" stop="20261127173000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus turns seasonal surplus into tasteful meals, from bubble and squeak pie to an Asian-style slaw with shredded turkey and a Christmas pudding Eton Mess.(n)</desc>
+  </programme>
+  <programme start="20261127173000 -0500" stop="20261127201500 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus Wareing gets feast-ready for Christmas with his favorite go-to recipes; he uses his world-class chef skills to create festive showstoppers.(n)</desc>
+  </programme>
+  <programme start="20261127201500 -0500" stop="20261127210000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Chasing Flavor</title>
+    <desc lang="en">Carla Hall goes on a slow and low trek to dig up the roots of barbecue.(n)</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261127220500 -0500" channel="flavournetwork.ca">
+    <title lang="en">Order Up</title>
+    <desc lang="en">Hudson Yang's journey to improve his cooking skills with chefs at top restaurants discovering himself and his Asian heritage; Hudson proves he can handle complex challenges and become a culinary artist.(n)</desc>
+  </programme>
+  <programme start="20261127220500 -0500" stop="20261127230000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Alex vs. America</title>
+    <desc lang="en">Eric Adjepong welcomes three talented brunch experts from New Hampshire, California and Arizona to challenge chef Alex Guarnaschelli in two intense rounds of cooking.(n)</desc>
+  </programme>
+  <programme start="20261127230000 -0500" stop="20261128000000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Holiday Bakeshop</title>
+    <desc lang="en">The bakers venture into a whimsical winter woodland where some of the cutest creatures are celebrating the holidays; from cozy cardinals to fluffy-scarved foxes, they must create desserts that bring these forest friends to life using holiday magic.(n)</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128010500 -0500" channel="flavournetwork.ca">
+    <title lang="en">Order Up</title>
+    <desc lang="en">Hudson Yang's journey to improve his cooking skills with chefs at top restaurants discovering himself and his Asian heritage; Hudson proves he can handle complex challenges and become a culinary artist.(n)</desc>
+  </programme>
+  <programme start="20261128010500 -0500" stop="20261128020000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Alex vs. America</title>
+    <desc lang="en">Eric Adjepong welcomes three talented brunch experts from New Hampshire, California and Arizona to challenge chef Alex Guarnaschelli in two intense rounds of cooking.(n)</desc>
+  </programme>
+  <programme start="20261128020000 -0500" stop="20261128023000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus shares some festive favorites to make in advance, a glazed ham, home-cured gravadlax with orange and coriander and mince pies.(n)</desc>
+  </programme>
+  <programme start="20261128023000 -0500" stop="20261128030000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus Wareing gets feast-ready for Christmas with his favorite go-to recipes; he uses his world-class chef skills to create festive showstoppers.(n)</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128033000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus serves up dishes from across Europe, from a Bundt cake, to slow cooked pork belly and scallops on a bed of crisp chorizo.(n)</desc>
+  </programme>
+  <programme start="20261128033000 -0500" stop="20261128040000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus serves up celebratory desserts, including panettone bread and butter pudding, pear and ginger trifle and bite-sized Christmas puddings.(n)</desc>
+  </programme>
+  <programme start="20261128040000 -0500" stop="20261128043000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus prepares festive favorites to make the night before Christmas, from pollock in a creamy mushroom sauce to green beans in a sweet hazelnut dressing.(n)</desc>
+  </programme>
+  <programme start="20261128043000 -0500" stop="20261128050000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus Wareing gets feast-ready for Christmas with his favorite go-to recipes; he uses his world-class chef skills to create festive showstoppers.(n)</desc>
+  </programme>
+  <programme start="20261128050000 -0500" stop="20261128053000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus Wareing gets feast-ready for Christmas with his favorite go-to recipes; he uses his world-class chef skills to create festive showstoppers.(n)</desc>
+  </programme>
+  <programme start="20261128053000 -0500" stop="20261128060000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Marcus Wareing At Christmas</title>
+    <desc lang="en">Marcus Wareing gets feast-ready for Christmas with his favorite go-to recipes; he uses his world-class chef skills to create festive showstoppers.(n)</desc>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128063000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">The cure for what ails you at Elgin Street Diner; a smoked-meat sandwich at Schwartz's Deli; the K2 Mountain Burger at Mrs. Riches Restaurant.(n)</desc>
+  </programme>
+  <programme start="20261128063000 -0500" stop="20261128070000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">Blueberries are the secret to Busters BBQ's sauce; unique fish cakes are served at Magnolia's Grill.(n)</desc>
+  </programme>
+  <programme start="20261128070000 -0500" stop="20261128073000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">Crushing tomatoes by hand at the family-run Pizzeria Napoletana; a chef's preference mystery meal at Floyd's Diner in Victoria, BC.; sampling top secret dipping sauce at Haugen's Chicken &amp; Ribs in Port Perry, ON.(n)</desc>
+  </programme>
+  <programme start="20261128073000 -0500" stop="20261128080000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">Boomers Gourmet Fries in Stratford, ON; Relish Burgers in London, ON; over 40 gourmet burger selections including one heart-stopping option named after the local ER; John's Place in Victoria, BC; more than 10 varieties of 'Eggs Benny.'.(n)</desc>
+  </programme>
+  <programme start="20261128080000 -0500" stop="20261128083000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">At Uncle Betty's Diner the eggs benny is served on freshly-made doughnuts; The Armview's fresh fish.(n)</desc>
+  </programme>
+  <programme start="20261128083000 -0500" stop="20261128090000 -0500" channel="flavournetwork.ca">
+    <title lang="en">You Gotta Eat Here!</title>
+    <desc lang="en">At Salvatore's Pizzaiolo as a twist, the cheese goes under the sauce on their pizza.(n)</desc>
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128100000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Top Chef Canada</title>
+    <desc lang="en">The Chefs head to Charlevoix, where they're immersed in locally grown produce and artisanal products from the region's famous Flavour Trail.(n)</desc>
+  </programme>
+  <programme start="20261128100000 -0500" stop="20261128103000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Everyday Gourmet: Sweet Edition</title>
+    <desc lang="en">Thomas Schnetzler shares Switzerland's guaranteed favorite, a chocolate cake; Mike Reid prepares a dulce flan; Justine bakes some café-style muffins.(n)</desc>
+  </programme>
+  <programme start="20261128103000 -0500" stop="20261128110000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
+    <desc lang="en">Andrew turns wild boar into the ultimate game-day spread with boar and black bean chili topped with crisp cornbread waffles, and pulled boar sliders braised low and slow in Carolina Gold mustard sauce.(n)</desc>
+  </programme>
+  <programme start="20261128110000 -0500" stop="20261128113000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Everyday Gourmet with Justine Schofield</title>
+  </programme>
+  <programme start="20261128113000 -0500" stop="20261128120000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Donal's Italian Kitchen</title>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128130000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Holiday Bakeshop</title>
+    <desc lang="en">The bakers venture into a whimsical winter woodland where some of the cutest creatures are celebrating the holidays; from cozy cardinals to fluffy-scarved foxes, they must create desserts that bring these forest friends to life using holiday magic.(n)</desc>
+  </programme>
+  <programme start="20261128130000 -0500" stop="20261128140000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Next Level Baker</title>
+    <desc lang="en">Nine bakers from home, professional and social media backgrounds compete; Pentatonix performs; following a surprise team reveal, the competition unfolds with festive flair.(n)</desc>
+  </programme>
+  <programme start="20261128140000 -0500" stop="20261128150000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Next Level Baker</title>
+    <desc lang="en">Eight bakers face a festive stuffed-cookie challenge where a gifted ingredient from Santa could make or break their bake; when two bakers are sent into a high-stakes chocolate showdown, one baker's emotional tribute goes disastrously wrong.(n)</desc>
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128160000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Hell's Kitchen</title>
+    <desc lang="en">The team that identifies the most foods in a blind taste test wins a shopping spree; the chefs present a five-course dinner for two charitable organizations.Guests: Fran Drescher..(n)</desc>
+  </programme>
+  <programme start="20261128160000 -0500" stop="20261128170000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Hell's Kitchen</title>
+    <desc lang="en">The contestants find keys for lockers containing various cuts of steak, then prepare a delicious dish -- all in under 35 minutes; pairs of contestants battle it out in the.(n)</desc>
+  </programme>
+  <programme start="20261128170000 -0500" stop="20261128180000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Hell's Kitchen</title>
+    <desc lang="en">Pairs of contestants battle it out in the.(n)</desc>
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128190000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Hell's Kitchen</title>
+    <desc lang="en">The top five chefs must prepare a unique and elegant small-plate dish in under 45 minutes for people attending a private symphony performance; the challenge winner earns a private helicopter tour of Los Angeles; the top four chefs are revealed.(n)</desc>
+  </programme>
+  <programme start="20261128190000 -0500" stop="20261128200000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Hell's Kitchen</title>
+    <desc lang="en">The chef who prepares the best vegetarian dish wins a trip to Newport Beach, Calif.; the chefs visit with their friends and family.(n)</desc>
+  </programme>
+  <programme start="20261128200000 -0500" stop="20261128210000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Hell's Kitchen</title>
+    <desc lang="en">The top two chefs visit Christina Wilson in Las Vegas for motivation; the finalists prepare five dishes to be judged by chefs Wolfgang Puck, Nancy Silverton, Hubert Keller, Nancy Oakes and Anna Kelly.Guests: Wolfgang Puck, Nancy Silverton, Hubert Keller..(n)</desc>
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261128220000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Next Level Chef</title>
+    <desc lang="en">The chefs each prepare a dish from Mexico; one contestant is eliminated.(n)</desc>
+  </programme>
+  <programme start="20261128220000 -0500" stop="20261128230000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Hell's Kitchen</title>
+    <desc lang="en">This season's contestants head to Las Vegas where they participate in the signature dish challenge; the winners of the challenge ride on the world's tallest Ferris wheel while the losers peel 50 pounds of shrimp and 1,000 pounds of potatoes.(n)</desc>
+  </programme>
+  <programme start="20261128230000 -0500" stop="20261129000000 -0500" channel="flavournetwork.ca">
+    <title lang="en">Hell's Kitchen</title>
+    <desc lang="en">The teams have 20 minutes to see which team can produce the most shrimp dumplings; rapper The Game attends the dinner service.Guests: The Game..(n)</desc>
+  </programme>
