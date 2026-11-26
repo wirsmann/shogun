@@ -85,9 +85,18 @@ if (Test-Path -LiteralPath $PlaylistEdits) {
 
 # ------------------------------------------------------------ publish EPG source
 $EPGSource = Join-Path $Repo "EPG.xml"
+$EPGStrongLocal = Join-Path $Repo "EPGStrong.xml"
 $EPGStrong = "\\ragnar\f\wwwroot\EPGStrong.xml"
 if (-not (Test-Path -LiteralPath $EPGSource)) {
     Write-Host "Can't find EPG source: $EPGSource" -ForegroundColor Red
+    exit 1
+}
+
+try {
+    Copy-Item -LiteralPath $EPGSource -Destination $EPGStrongLocal -Force -ErrorAction Stop
+}
+catch {
+    Write-Host "Couldn't copy EPG.xml to $EPGStrongLocal`: $($_.Exception.Message)" -ForegroundColor Red
     exit 1
 }
 
@@ -99,7 +108,7 @@ catch {
     exit 1
 }
 
-Write-Host "Copied EPG.xml to $EPGStrong." -ForegroundColor Green
+Write-Host "Copied EPG.xml to $EPGStrongLocal and $EPGStrong." -ForegroundColor Green
 
 # ------------------------------------------------------------ push to GitHub
 Write-Host ""
