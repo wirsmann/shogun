@@ -5,7 +5,9 @@
   const STORAGE_KEY = "shogun-channel-studio:v1";
   const GUIDE_WINDOW_MS = 48 * 60 * 60 * 1000;
   const CHANNEL_COLLATOR = new Intl.Collator(undefined, { numeric: true, sensitivity: "base" });
-  const TV_BASE_URL = "http://tv.shogun.ca";
+  const TV_BASE_URL = window.location.hostname === "tv.shogun.ca"
+    ? window.location.origin
+    : "http://tv.shogun.ca";
   const PLAYLIST_URL = `${TV_BASE_URL}/wes.m3u`;
   const EPGSTRONG_URL = `${TV_BASE_URL}/EPGStrong.xml`;
   const EDITS_URL = `${TV_BASE_URL}/wes-edits.json`;
