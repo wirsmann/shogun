@@ -270,10 +270,8 @@ kbd { padding: 2px 6px; border: 1px solid #33404e; border-radius: 4px; color: #8
 .match-option { display: flex; justify-content: space-between; align-items: center; gap: 10px; padding: 8px 10px; border: 1px solid #2e3b49; border-radius: 7px; color: #d9e3ed; background: #1d2732; cursor: pointer; text-align: left; }
 .match-option:hover { border-color: #438d78; background: #22332f; }
 .match-option span:first-child { overflow: hidden; font-size: 10px; text-overflow: ellipsis; white-space: nowrap; }
-.match-option span:last-child { flex: 0 0 auto; color: #8797a8; font-size: 9px; }
+.match-option span:last-child { flex: 0 1 auto; max-width: 55%; overflow: hidden; color: #8797a8; font-size: 9px; text-overflow: ellipsis; white-space: nowrap; }
 .no-matches { padding: 8px 3px; color: #8493a3; font-size: 10px; }
-.source-select { width: 100%; min-height: 36px; padding: 0 10px; border: 1px solid #303d4b; border-radius: 7px; color: #e8eef5; background: #131a23; font-size: 11px; }
-.source-select:focus { outline: 1px solid #438d78; }
 .editor-save-note { margin: 14px 0 0; color: #778698; font-size: 9px; }
 
 .now-panel { min-height: 160px; padding: 17px 19px; }

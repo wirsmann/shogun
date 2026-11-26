@@ -605,42 +605,22 @@
     nameInput.addEventListener("change", persistEdits);
     nameField.append(nameLabel, nameInput);
 
-    const sourceField = document.createElement("div");
-    sourceField.className = "form-field";
-    const sourceLabel = document.createElement("label");
-    sourceLabel.textContent = "EPG source";
-    const sourceHint = document.createElement("span");
-    sourceHint.className = "field-hint";
-    sourceHint.textContent = "Choose which guide to search";
-    sourceLabel.append(sourceHint);
-    const sourceSelect = document.createElement("select");
-    sourceSelect.className = "source-select";
-    sortedSources().forEach((source) => sourceSelect.add(new Option(source.name, source.id)));
-    if (!state.sources.has(channel.sourceId)) {
-      sourceSelect.add(new Option(`${channel.sourceId} (not loaded)`, channel.sourceId));
-    }
-    sourceSelect.value = channel.sourceId;
-    sourceSelect.addEventListener("change", () => {
-      channel.sourceId = sourceSelect.value;
-      persistEdits();
-      renderEditor();
-      renderList();
-      updateStats();
-    });
-    sourceField.append(sourceLabel, sourceSelect);
-
     const matchField = document.createElement("div");
     matchField.className = "form-field";
+    const currentSource = state.sources.get(channel.sourceId);
+    const currentGuideName = currentSource && currentSource.channels.get(channel.epgId);
     const matchLabel = document.createElement("label");
     matchLabel.textContent = "Match to EPG channel";
     const matchHint = document.createElement("span");
     matchHint.className = "field-hint";
-    matchHint.textContent = "Search by channel name or ID";
+    matchHint.textContent = currentGuideName && currentSource
+      ? `Matched: ${currentGuideName} · ${currentSource.name}`
+      : channel.epgId
+        ? `No loaded match · ${channel.epgId} · ${currentSource ? currentSource.name : channel.sourceId}`
+        : "Search all loaded EPG sources";
     matchLabel.append(matchHint);
     const matchRow = document.createElement("div");
     matchRow.className = "match-search-row";
-    const currentSource = state.sources.get(channel.sourceId);
-    const currentGuideName = currentSource && currentSource.channels.get(channel.epgId);
     const matchInput = makeInput("Search EPG channel", currentGuideName || channel.epgId, "Search guide channels…");
     if (channel.epgId && currentGuideName) matchInput.classList.add("has-match");
     const clearButton = document.createElement("button");
@@ -659,42 +639,51 @@
     results.className = "match-results";
     const renderSuggestions = () => {
       results.replaceChildren();
-      const source = state.sources.get(channel.sourceId);
       const query = matchInput.value.trim().toLocaleLowerCase();
-      if (!source || !query) return;
+      if (!query) return;
       const choices = [];
-      source.channels.forEach((displayName, id) => {
-        if (`${displayName} ${id}`.toLocaleLowerCase().includes(query)) {
-          choices.push({ id, displayName });
-        }
+      sortedSources().forEach((source) => {
+        source.channels.forEach((displayName, id) => {
+          if (`${displayName} ${id} ${source.name}`.toLocaleLowerCase().includes(query)) {
+            choices.push({ id, displayName, sourceId: source.id, sourceName: source.name });
+          }
+        });
       });
       choices.sort((a, b) => {
-        const aExact = a.id.toLocaleLowerCase() === query || a.displayName.toLocaleLowerCase() === query;
-        const bExact = b.id.toLocaleLowerCase() === query || b.displayName.toLocaleLowerCase() === query;
-        return Number(bExact) - Number(aExact) || a.displayName.localeCompare(b.displayName);
+        const aExact = a.id.toLocaleLowerCase() === query ||
+          a.displayName.toLocaleLowerCase() === query ||
+          a.sourceName.toLocaleLowerCase() === query;
+        const bExact = b.id.toLocaleLowerCase() === query ||
+          b.displayName.toLocaleLowerCase() === query ||
+          b.sourceName.toLocaleLowerCase() === query;
+        return Number(bExact) - Number(aExact) ||
+          CHANNEL_COLLATOR.compare(a.displayName, b.displayName) ||
+          CHANNEL_COLLATOR.compare(a.sourceName, b.sourceName) ||
+          CHANNEL_COLLATOR.compare(a.id, b.id);
       });
-      choices.slice(0, 8).forEach(({ id, displayName }) => {
+      choices.slice(0, 8).forEach(({ id, displayName, sourceId, sourceName }) => {
         const option = document.createElement("button");
         option.type = "button";
         option.className = "match-option";
         const name = document.createElement("span");
         name.textContent = displayName;
-        const channelId = document.createElement("span");
-        channelId.textContent = id;
-        option.append(name, channelId);
+        const details = document.createElement("span");
+        details.textContent = `${sourceName} · ${id}`;
         option.addEventListener("click", () => {
           channel.epgId = id;
+          channel.sourceId = sourceId;
           persistEdits();
           renderEditor();
           renderList();
           updateStats();
         });
+        option.append(name, details);
         results.append(option);
       });
       if (!choices.length) {
         const noMatches = document.createElement("span");
         noMatches.className = "no-matches";
-        noMatches.textContent = "No guide channels match. Enter an ID and press Enter to use it anyway.";
+        noMatches.textContent = "No channel matches in the loaded guides. Enter an ID and press Enter to use it anyway.";
         results.append(noMatches);
       }
     };
@@ -734,7 +723,7 @@
     const editorActions = document.createElement("div");
     editorActions.className = "editor-actions";
     editorActions.append(removeButton);
-    ui.channelEditor.append(header, nameField, sourceField, matchField, note, editorActions);
+    ui.channelEditor.append(header, nameField, matchField, note, editorActions);
     renderNowPlaying();
   }
 
