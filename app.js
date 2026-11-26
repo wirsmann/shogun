@@ -10,7 +10,7 @@
     : "http://tv.shogun.ca";
   const PLAYLIST_URL = `${TV_BASE_URL}/wes.m3u`;
   const EPGSTRONG_URL = `${TV_BASE_URL}/EPGStrong.xml`;
-  const EDITS_URL = `${TV_BASE_URL}/wes-edits.json`;
+  const EDITS_URL = `${TV_BASE_URL}/edits.json`;
   const REMOTE_SEGMENTS = [
     ...Array.from({ length: 55 }, (_unused, index) => `temp${index + 1}.xml`),
     "temp900.xml"
@@ -19,7 +19,7 @@
     channels: [],
     playlistLines: [],
     playlistName: "wes.m3u",
-    configuration: { version: 1, playlist: "wes.m3u", channels: [] },
+    configuration: { version: 1, playlist: "*", channels: [] },
     sources: new Map(),
     selectedKey: null,
     query: "",
@@ -200,9 +200,9 @@
 
   function applyExistingConfiguration(configuration) {
     if (!configuration || configuration.version !== 1 ||
-        configuration.playlist !== state.playlistName ||
+        (configuration.playlist !== "*" && configuration.playlist !== state.playlistName) ||
         !Array.isArray(configuration.channels)) {
-      throw new Error("wes-edits.json must be a version 1 config for this playlist.");
+      throw new Error("edits.json must be a version 1 config for this playlist or '*'.");
     }
     const records = new Map();
     configuration.channels.forEach((record) => {
@@ -214,18 +214,18 @@
             .some((field) => typeof record.match[field] !== "string") ||
           !Number.isInteger(record.match.occurrence) || record.match.occurrence < 0 ||
           identityId(record.match) !== record.id) {
-        throw new Error("wes-edits.json contains an invalid channel identity.");
+        throw new Error("edits.json contains an invalid channel identity.");
       }
       if (Object.keys(record.set).some((field) =>
         !["name", "tvg_id", "epg_source"].includes(field) ||
         typeof record.set[field] !== "string"
       )) {
-        throw new Error("wes-edits.json contains an invalid channel edit.");
+        throw new Error("edits.json contains an invalid channel edit.");
       }
       if (Object.prototype.hasOwnProperty.call(record, "remove") && typeof record.remove !== "boolean") {
-        throw new Error("wes-edits.json contains an invalid channel removal flag.");
+        throw new Error("edits.json contains an invalid channel removal flag.");
       }
-      if (records.has(record.id)) throw new Error("wes-edits.json contains duplicate channel edits.");
+      if (records.has(record.id)) throw new Error("edits.json contains duplicate channel edits.");
       records.set(record.id, record);
     });
     state.configuration = configuration;
@@ -887,10 +887,6 @@
       setStatus("Load a playlist before exporting its config.", true);
       return;
     }
-    if (state.playlistName !== "wes.m3u") {
-      setStatus("The daily config is for wes.m3u. Load wes.m3u before exporting config.", true);
-      return;
-    }
     const records = new Map(
       state.configuration.channels.map((record) => [record.id, record])
     );
@@ -909,12 +905,12 @@
       }
     });
     const channels = Array.from(records.values());
-    const config = { version: 1, playlist: state.playlistName, channels };
+    const config = { version: 1, playlist: "*", channels };
     downloadBlob(
       new Blob([`${JSON.stringify(config, null, 2)}\n`], { type: "application/json;charset=utf-8" }),
-      "wes-edits.json"
+      "edits.json"
     );
-    setStatus(`Exported wes-edits.json · ${channels.length.toLocaleString()} channel config records`, false);
+    setStatus(`Exported edits.json · ${channels.length.toLocaleString()} channel config records`, false);
   }
 
   async function loadPlaylistFile(file) {
@@ -927,7 +923,7 @@
       state.playlistName = file.name;
       state.selectedKey = null;
       state.page = 0;
-      if (state.configuration.playlist === state.playlistName) {
+      if (state.configuration.playlist === "*" || state.configuration.playlist === state.playlistName) {
         applyExistingConfiguration(state.configuration);
       } else {
         state.configuration = { version: 1, playlist: state.playlistName, channels: [] };
@@ -1087,7 +1083,7 @@
         if (!guideResult.loaded) {
           problems.push(`could not load EPGStrong.xml: ${guideResult.error.message}`);
         }
-        if (configError) problems.push(`could not load wes-edits.json: ${configError.message}`);
+        if (configError) problems.push(`could not load edits.json: ${configError.message}`);
         if (segmentResult.failures.length) {
           problems.push(
             `loaded ${segmentResult.loaded}/${REMOTE_SEGMENTS.length} segments; failed: ${segmentResult.failures.join(", ")}`

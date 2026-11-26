@@ -26,14 +26,14 @@ class ApplyPlaylistConfigTests(unittest.TestCase):
         self.temp_dir = tempfile.TemporaryDirectory()
         self.root = Path(self.temp_dir.name)
         self.playlist = self.root / "wes.m3u"
-        self.config = self.root / "wes-edits.json"
+        self.config = self.root / "edits.json"
 
     def tearDown(self):
         self.temp_dir.cleanup()
 
-    def write_config(self, channels):
+    def write_config(self, channels, playlist="wes.m3u"):
         self.config.write_text(
-            json.dumps({"version": 1, "playlist": "wes.m3u", "channels": channels}),
+            json.dumps({"version": 1, "playlist": playlist, "channels": channels}),
             encoding="utf-8",
         )
 
@@ -50,7 +50,7 @@ class ApplyPlaylistConfigTests(unittest.TestCase):
             edit(identity(1), name="Edited Channel", tvg_id="guide.test", epg_source="segment-ab12")
         ])
 
-        self.assertEqual(apply_config(self.playlist, self.config), 1)
+        self.assertEqual(apply_config(self.playlist, self.config), (1, 0))
         result = self.playlist.read_bytes().decode("utf-8")
         lines = result.splitlines()
         self.assertIn('tvg-name="Test Channel"', lines[1])
@@ -96,7 +96,7 @@ class ApplyPlaylistConfigTests(unittest.TestCase):
             "remove": True,
         }])
 
-        self.assertEqual(apply_config(self.playlist, self.config), 1)
+        self.assertEqual(apply_config(self.playlist, self.config), (1, 0))
         result = self.playlist.read_bytes().decode("utf-8")
         self.assertEqual(result.count("#EXTINF:"), 1)
         self.assertIn("#EXTVLCOPT:option=first", result)
@@ -153,6 +153,23 @@ class ApplyPlaylistConfigTests(unittest.TestCase):
         with self.assertRaises(ConfigError):
             apply_config(self.playlist, self.config)
         self.assertEqual(self.playlist.read_text(encoding="utf-8"), original)
+
+    def test_wildcard_config_applies_matches_and_reports_channels_missing_from_playlist(self):
+        self.playlist = self.root / "josh.m3u"
+        self.playlist.write_text(
+            '#EXTM3U\n#EXTINF:-1 tvg-id="channel.test" tvg-name="Test Channel" '
+            'group-title="Test Group",Test Channel\nhttps://stream.invalid/live\n',
+            encoding="utf-8",
+        )
+        self.write_config([
+            edit(identity(), name="Edited Channel"),
+            edit(identity(tvg_id="missing.channel"), name="Not Present"),
+        ], playlist="*")
+
+        self.assertEqual(apply_config(self.playlist, self.config), (1, 1))
+        result = self.playlist.read_text(encoding="utf-8")
+        self.assertIn('tvg-name="Edited Channel"', result)
+        self.assertNotIn("Not Present", result)
 
 
 if __name__ == "__main__":

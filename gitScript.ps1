@@ -66,21 +66,24 @@ if ($failed.Count -gt 0) {
 }
 
 # ------------------------------------------------------------ apply Channel Studio edits and removals
-$PlaylistEdits = Join-Path $Repo "wes-edits.json"
-$Playlist = Join-Path $Repo "wes.m3u"
+$PlaylistEdits = Join-Path $Repo "edits.json"
 if (Test-Path -LiteralPath $PlaylistEdits) {
-    if (-not (Test-Path -LiteralPath $Playlist)) {
-        Write-Host "Can't apply $PlaylistEdits because wes.m3u was not generated." -ForegroundColor Red
+    $Playlists = @(Get-ChildItem -LiteralPath $Repo -Filter "*.m3u" -File | Sort-Object Name)
+    if ($Playlists.Count -eq 0) {
+        Write-Host "Can't apply $PlaylistEdits because no M3U playlists were found." -ForegroundColor Red
         exit 1
     }
 
-    & $Python (Join-Path $Repo "apply_playlist_config.py") --playlist $Playlist --config $PlaylistEdits
-    if ($LASTEXITCODE -ne 0) {
-        Write-Host "Applying wes-edits.json failed. Not publishing the playlist." -ForegroundColor Red
-        exit 1
+    foreach ($Playlist in $Playlists) {
+        Write-Host "Applying edits to $($Playlist.Name)..." -ForegroundColor Cyan
+        & $Python (Join-Path $Repo "apply_playlist_config.py") --playlist $Playlist.FullName --config $PlaylistEdits
+        if ($LASTEXITCODE -ne 0) {
+            Write-Host "Applying edits.json to $($Playlist.Name) failed. Not publishing the playlists." -ForegroundColor Red
+            exit 1
+        }
     }
 } else {
-    Write-Host "No wes-edits.json found; leaving the generated playlist unchanged." -ForegroundColor Yellow
+    Write-Host "No edits.json found; leaving the generated playlists unchanged." -ForegroundColor Yellow
 }
 
 # ------------------------------------------------------------ publish EPG source

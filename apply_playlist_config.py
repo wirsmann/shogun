@@ -89,9 +89,11 @@ def validate_config(config, playlist_path):
     if not isinstance(config, dict) or type(config.get("version")) is not int or config["version"] != 1:
         raise ConfigError("Config must be a version 1 JSON object.")
     configured_playlist = config.get("playlist")
-    if not isinstance(configured_playlist, str) or Path(configured_playlist).name != configured_playlist:
+    if not isinstance(configured_playlist, str) or (
+        configured_playlist != "*" and Path(configured_playlist).name != configured_playlist
+    ):
         raise ConfigError("Config playlist must be a file name, not a path.")
-    if configured_playlist.casefold() != playlist_path.name.casefold():
+    if configured_playlist != "*" and configured_playlist.casefold() != playlist_path.name.casefold():
         raise ConfigError(
             f"Config targets {configured_playlist!r}, not {playlist_path.name!r}."
         )
@@ -186,15 +188,22 @@ def apply_config(playlist_path, config_path):
     identities = playlist_identities(lines)
 
     missing = [identity for identity, _changes, _remove in edits if identity not in identities]
-    if missing:
+    if missing and config["playlist"] != "*":
         example = missing[0]
         raise ConfigError(
             f"{len(missing)} configured channel(s) no longer match {playlist_path}; "
             f"first missing identity is {example[:5]!r} (occurrence {example[5]})."
         )
+    applicable = [
+        (entry, edit)
+        for entry, edit in zip(config["channels"], edits)
+        if edit[0] in identities
+    ]
+    if not applicable:
+        return 0, len(missing)
 
     removals = []
-    for edit, (identity, changes, remove) in zip(config["channels"], edits):
+    for edit, (identity, changes, remove) in applicable:
         line_index = identities[identity]
         if remove:
             removals.append((line_index, channel_stream_line(lines, line_index)))
@@ -221,19 +230,21 @@ def apply_config(playlist_path, config_path):
     finally:
         if temp_path is not None and temp_path.exists():
             temp_path.unlink()
-    return len(edits)
+    return len(applicable), len(missing)
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--playlist", default="wes.m3u", help="Generated playlist to update")
-    parser.add_argument("--config", default="wes-edits.json", help="Channel Studio JSON config")
+    parser.add_argument("--config", default="edits.json", help="Channel Studio JSON config")
     args = parser.parse_args()
     try:
-        count = apply_config(args.playlist, args.config)
+        count, skipped = apply_config(args.playlist, args.config)
     except (OSError, UnicodeError, json.JSONDecodeError, ConfigError) as error:
         parser.exit(1, f"Could not apply playlist config: {error}\n")
     print(f"Applied {count} channel config record(s) from {args.config} to {args.playlist}.")
+    if skipped:
+        print(f"Warning: skipped {skipped} config record(s) not found in {args.playlist}.")
     return 0
 
 

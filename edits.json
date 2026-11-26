@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "playlist": "*",
+  "channels": [
+    {
+      "id": "WyJBTUlUVi5jYSIsIkFNSSBUViBIRCIsIkNBfCBHRU5FUkFMIiwiQU1JIFRWIEhEIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "AMITV.ca",
+        "tvg_name": "AMI TV HD",
+        "group_title": "CA| GENERAL",
+        "title": "AMI TV HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    }
+  ]
+}
