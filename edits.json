@@ -87,6 +87,326 @@
         "tvg_id": "fightnetwork.ca",
         "epg_source": "segment-x053tp"
       }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNuZXdzLnVrIiwiU0tZIFNQT1JUIE5FV1Mg4bS_4bSs4bWCIiwiOEt8IFNQT1JUIE9OIEFJUiDigbjhtLciLCJTS1kgU1BPUlQgTkVXUyDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "skysportsnews.uk",
+        "tvg_name": "SKY SPORT NEWS ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT NEWS ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNjcmlja2V0LnVrIiwiU0tZIFNQT1JUIENLUkVDS1Qg4bS_4bSs4bWCIiwiOEt8IFNQT1JUIE9OIEFJUiDigbjhtLciLCJTS1kgU1BPUlQgQ0tSRUNLVCDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "skysportscricket.uk",
+        "tvg_name": "SKY SPORT CKRECKT ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT CKRECKT ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNtYWluZXZlbnQudWsiLCJTS1kgU1BPUlQgTUFJTiBFVkVOVCDhtL_htKzhtYIiLCI4S3wgU1BPUlQgT04gQUlSIOKBuOG0tyIsIlNLWSBTUE9SVCBNQUlOIEVWRU5UIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "skysportsmainevent.uk",
+        "tvg_name": "SKY SPORT MAIN EVENT ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT MAIN EVENT ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNhY3Rpb24udWsiLCJTS1kgU1BPUlQgQUNUSU9OIOG0v-G0rOG1giIsIjhLfCBTUE9SVCBPTiBBSVIg4oG44bS3IiwiU0tZIFNQT1JUIEFDVElPTiDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "skysportsaction.uk",
+        "tvg_name": "SKY SPORT ACTION ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT ACTION ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNmMS51ayIsIlNLWSBTUE9SVCBGMSDhtL_htKzhtYIiLCI4S3wgU1BPUlQgT04gQUlSIOKBuOG0tyIsIlNLWSBTUE9SVCBGMSDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "skysportsf1.uk",
+        "tvg_name": "SKY SPORT F1 ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT F1 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNnb2xmLnVrIiwiU0tZIFNQT1JUIEdPTEYg4bS_4bSs4bWCIiwiOEt8IFNQT1JUIE9OIEFJUiDigbjhtLciLCJTS1kgU1BPUlQgR09MRiDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "skysportsgolf.uk",
+        "tvg_name": "SKY SPORT GOLF ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT GOLF ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNtaXgudWsiLCJTS1kgU1BPUlQgTUlYIOG0v-G0rOG1giIsIjhLfCBTUE9SVCBPTiBBSVIg4oG44bS3IiwiU0tZIFNQT1JUIE1JWCDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "skysportsmix.uk",
+        "tvg_name": "SKY SPORT MIX ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT MIX ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyIiLCJTS1kgU1BPUlQgUExVUyDhtL_htKzhtYIiLCI4S3wgU1BPUlQgT04gQUlSIOKBuOG0tyIsIlNLWSBTUE9SVCBQTFVTIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "SKY SPORT PLUS ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT PLUS ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNwcmVtaWVyZWxlYWd1ZS51ayIsIlNLWSBTUE9SVCBQUklNRSBMSUdFIOG0v-G0rOG1giIsIjhLfCBTUE9SVCBPTiBBSVIg4oG44bS3IiwiU0tZIFNQT1JUIFBSSU1FIExJR0Ug4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "skysportspremiereleague.uk",
+        "tvg_name": "SKY SPORT PRIME LIGE ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT PRIME LIGE ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNyYWNpbmcudWsiLCJTS1kgU1BPUlQgUkFDSU5HIOG0v-G0rOG1giIsIjhLfCBTUE9SVCBPTiBBSVIg4oG44bS3IiwiU0tZIFNQT1JUIFJBQ0lORyDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "skysportsracing.uk",
+        "tvg_name": "SKY SPORT RACING ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT RACING ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHN0ZW5uaXMudWsiLCJTS1kgU1BPUlQgVEVOTklTIOG0v-G0rOG1giIsIjhLfCBTUE9SVCBPTiBBSVIg4oG44bS3IiwiU0tZIFNQT1JUIFRFTk5JUyDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "skysportstennis.uk",
+        "tvg_name": "SKY SPORT TENNIS ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT TENNIS ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3l3aXRuZXNzLnVrIiwiU0tZIFdJVE5FU1Mg4bS_4bSs4bWCIiwiOEt8IFNQT1JUIE9OIEFJUiDigbjhtLciLCJTS1kgV0lUTkVTUyDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "skywitness.uk",
+        "tvg_name": "SKY WITNESS ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "SKY WITNESS ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJ0bnRzcG9ydHMxLnVrIiwiVE5UIFNQT1JUIDEg4bS_4bSs4bWCIiwiOEt8IFNQT1JUIE9OIEFJUiDigbjhtLciLCJUTlQgU1BPUlQgMSDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "tntsports1.uk",
+        "tvg_name": "TNT SPORT 1 ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "TNT SPORT 1 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJ0bnRzcG9ydHMyLnVrIiwiVE5UIFNQT1JUIDIg4bS_4bSs4bWCIiwiOEt8IFNQT1JUIE9OIEFJUiDigbjhtLciLCJUTlQgU1BPUlQgMiDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "tntsports2.uk",
+        "tvg_name": "TNT SPORT 2 ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "TNT SPORT 2 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJ0bnRzcG9ydHMzLnVrIiwiVE5UIFNQT1JUIDMg4bS_4bSs4bWCIiwiOEt8IFNQT1JUIE9OIEFJUiDigbjhtLciLCJUTlQgU1BPUlQgMyDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "tntsports3.uk",
+        "tvg_name": "TNT SPORT 3 ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "TNT SPORT 3 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJ0bnRzcG9ydHM0LnVrIiwiVE5UIFNQT1JUIDQg4bS_4bSs4bWCIiwiOEt8IFNQT1JUIE9OIEFJUiDigbjhtLciLCJUTlQgU1BPUlQgNCDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "tntsports4.uk",
+        "tvg_name": "TNT SPORT 4 ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "TNT SPORT 4 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNmb290YmFsbC51ayIsIlNLWSBTUE9SVCBGT09UQkFMTCDhtL_htKzhtYIiLCI4S3wgU1BPUlQgT04gQUlSIOKBuOG0tyIsIlNLWSBTUE9SVCBGT09UQkFMTCDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "skysportsfootball.uk",
+        "tvg_name": "SKY SPORT FOOTBALL ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT FOOTBALL ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJwcmVtaWVyc3BvcnRzMS51ayIsIlBSRU1JRVIgU1BPUlQgMSDhtL_htKzhtYIiLCI4S3wgU1BPUlQgT04gQUlSIOKBuOG0tyIsIlBSRU1JRVIgU1BPUlQgMSDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "premiersports1.uk",
+        "tvg_name": "PREMIER SPORT 1 ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "PREMIER SPORT 1 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJwcmVtaWVyc3BvcnRzMi51ayIsIlBSRU1JRVIgU1BPUlQgMiDhtL_htKzhtYIiLCI4S3wgU1BPUlQgT04gQUlSIOKBuOG0tyIsIlBSRU1JRVIgU1BPUlQgMiDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "premiersports2.uk",
+        "tvg_name": "PREMIER SPORT 2 ᴿᴬᵂ",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "PREMIER SPORT 2 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyIiLCJQUFY6IFVGQyBNQUlOIEVWRU5UIiwiOEt8IFNQT1JUIE9OIEFJUiDigbjhtLciLCJQUFY6IFVGQyBNQUlOIEVWRU5UIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PPV: UFC MAIN EVENT",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "PPV: UFC MAIN EVENT",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyIiLCJQUFY6IFdXRSBNQUlOIEVWRU5UIiwiOEt8IFNQT1JUIE9OIEFJUiDigbjhtLciLCJQUFY6IFdXRSBNQUlOIEVWRU5UIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PPV: WWE MAIN EVENT",
+        "group_title": "8K| SPORT ON AIR ⁸ᴷ",
+        "title": "PPV: WWE MAIN EVENT",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJBZGRpa1RWLmNhIiwiQURESUsgVFYiLCJDQXwgQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJBRERJSyBUViIsIiIsMF0",
+      "match": {
+        "tvg_id": "AddikTV.ca",
+        "tvg_name": "ADDIK TV",
+        "group_title": "CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "ADDIK TV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJUVkEgUVVFU1QgKFIpIiwiQ0F8IEdFTkVSQUwiLCJUVkEgUVVFU1QgKFIpIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TVA QUEST (R)",
+        "group_title": "CA| GENERAL",
+        "title": "TVA QUEST (R)",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
     }
   ]
 }

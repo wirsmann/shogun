@@ -431,15 +431,16 @@
     ui.groupFilter.value = selected;
   }
 
-  function renameGroup(groupName) {
-    const response = window.prompt(`Rename group "${groupName}" to:`, groupName);
-    if (response === null) return;
-    const newGroupName = response.trim();
+  function renameGroup(groupName, newGroupName) {
+    newGroupName = newGroupName.trim();
     if (!newGroupName) {
       setStatus("Group names cannot be empty.", true);
-      return;
+      return false;
     }
-    if (newGroupName === groupName) return;
+    if (newGroupName === groupName) {
+      renderList();
+      return true;
+    }
 
     state.channels.forEach((channel) => {
       if (channel.group === groupName) channel.group = newGroupName;
@@ -451,6 +452,47 @@
     renderList();
     renderEditor();
     updateStats();
+    return true;
+  }
+
+  function beginGroupRename(groupName, heading) {
+    const input = document.createElement("input");
+    input.type = "text";
+    input.className = "group-rename-input";
+    input.value = groupName;
+    input.setAttribute("aria-label", `New name for group ${groupName}`);
+
+    const actions = document.createElement("span");
+    actions.className = "group-rename-actions";
+    const saveButton = document.createElement("button");
+    saveButton.type = "button";
+    saveButton.className = "group-rename-action";
+    saveButton.textContent = "Save";
+    saveButton.setAttribute("aria-label", "Save group name");
+    saveButton.addEventListener("click", () => {
+      if (!renameGroup(groupName, input.value)) input.focus();
+    });
+
+    const cancelButton = document.createElement("button");
+    cancelButton.type = "button";
+    cancelButton.className = "group-rename-action";
+    cancelButton.textContent = "Cancel";
+    cancelButton.setAttribute("aria-label", "Cancel group rename");
+    cancelButton.addEventListener("click", renderList);
+
+    input.addEventListener("keydown", (event) => {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        saveButton.click();
+      } else if (event.key === "Escape") {
+        event.preventDefault();
+        renderList();
+      }
+    });
+    actions.append(saveButton, cancelButton);
+    heading.replaceChildren(input, actions);
+    input.focus();
+    input.select();
   }
 
   function filteredChannels() {
@@ -529,7 +571,7 @@
         renameButton.className = "group-rename-button";
         renameButton.textContent = "Rename";
         renameButton.setAttribute("aria-label", `Rename group ${channel.group}`);
-        renameButton.addEventListener("click", () => renameGroup(channel.group));
+        renameButton.addEventListener("click", () => beginGroupRename(channel.group, groupHeading));
         groupHeading.append(groupName, renameButton);
         fragment.append(groupHeading);
         lastGroup = channel.group;

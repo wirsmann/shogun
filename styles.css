@@ -217,6 +217,10 @@ kbd { padding: 2px 6px; border: 1px solid #33404e; border-radius: 4px; color: #8
 .channel-group-name { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .group-rename-button { flex: 0 0 auto; padding: 3px 7px; border: 1px solid #344252; border-radius: 5px; color: #adbac8; background: #202a36; cursor: pointer; font-size: 9px; font-weight: 500; letter-spacing: 0; text-transform: none; }
 .group-rename-button:hover { border-color: #438d78; color: #e8eef5; }
+.channel-group-heading input.group-rename-input { min-width: 0; min-height: 26px; flex: 1; padding: 2px 6px; font-size: 10px; text-transform: none; }
+.group-rename-actions { display: flex; flex: 0 0 auto; gap: 4px; }
+.group-rename-action { padding: 3px 6px; border: 1px solid #344252; border-radius: 5px; color: #adbac8; background: #202a36; cursor: pointer; font-size: 9px; font-weight: 500; letter-spacing: 0; text-transform: none; }
+.group-rename-action:hover { border-color: #438d78; color: #e8eef5; }
 .channel-row {
   width: 100%;
   min-height: 62px;
