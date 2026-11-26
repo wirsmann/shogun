@@ -65,6 +65,24 @@ if ($failed.Count -gt 0) {
     exit 1
 }
 
+# ------------------------------------------------------------ publish EPG source
+$EPGSource = Join-Path $Repo "EPG.xml"
+$EPGStrong = "\\ragnar\f\wwwroot\EPGStrong.xml"
+if (-not (Test-Path -LiteralPath $EPGSource)) {
+    Write-Host "Can't find EPG source: $EPGSource" -ForegroundColor Red
+    exit 1
+}
+
+try {
+    Copy-Item -LiteralPath $EPGSource -Destination $EPGStrong -Force -ErrorAction Stop
+}
+catch {
+    Write-Host "Couldn't copy EPG.xml to $EPGStrong`: $($_.Exception.Message)" -ForegroundColor Red
+    exit 1
+}
+
+Write-Host "Copied EPG.xml to $EPGStrong." -ForegroundColor Green
+
 # ------------------------------------------------------------ push to GitHub
 Write-Host ""
 Write-Host "===== GitHub =====" -ForegroundColor Cyan
