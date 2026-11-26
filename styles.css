@@ -105,6 +105,7 @@ button { color: inherit; }
 .button-accent:hover { background: #72e5c1; }
 .button-danger { color: #ffd9d9; background: #4a252c; border-color: #70404a; }
 .button-danger:hover { background: #603039; border-color: #92515d; }
+#export-playlist[hidden] { display: none; }
 
 .workspace { width: min(1440px, 100%); margin: 0 auto; padding: 38px clamp(18px, 4vw, 58px) 25px; }
 .intro { display: flex; justify-content: space-between; align-items: end; gap: 30px; margin-bottom: 24px; }
