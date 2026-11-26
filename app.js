@@ -4,6 +4,7 @@
   const PAGE_SIZE = 80;
   const STORAGE_KEY = "shogun-channel-studio:v1";
   const GUIDE_WINDOW_MS = 48 * 60 * 60 * 1000;
+  const CHANNEL_COLLATOR = new Intl.Collator(undefined, { numeric: true, sensitivity: "base" });
   const TV_BASE_URL = "http://tv.shogun.ca";
   const PLAYLIST_URL = `${TV_BASE_URL}/wes.m3u`;
   const EPGSTRONG_URL = `${TV_BASE_URL}/EPGStrong.xml`;
@@ -268,7 +269,7 @@
     return document;
   }
 
-  function addGuide(text, id, name) {
+  function addGuide(text, id, name, refreshUi) {
     const document = parseGuideDocument(text);
     const channels = new Map();
     Array.from(document.getElementsByTagName("channel")).forEach((node) => {
@@ -302,14 +303,21 @@
     programmes.forEach((items) => items.sort((a, b) => a.start - b.start));
 
     state.sources.set(id, { id, name, channels, programmes });
-    updateSourceUi();
-    renderList();
-    renderEditor();
-    updateStats();
+    if (refreshUi !== false) {
+      updateSourceUi();
+      renderList();
+      renderEditor();
+      updateStats();
+    }
   }
 
   function getCurrentChannel() {
     return state.channels.find((channel) => channel.key === state.selectedKey) || null;
+  }
+
+  function sortedSources() {
+    return Array.from(state.sources.values())
+      .sort((a, b) => CHANNEL_COLLATOR.compare(a.name, b.name));
   }
 
   function getProgram(channel, now) {
@@ -371,7 +379,7 @@
 
   function updateSourceUi() {
     ui.guideCount.textContent = String(state.sources.size);
-    const names = Array.from(state.sources.values()).map((source) => source.name);
+    const names = sortedSources().map((source) => source.name);
     ui.sourceSummary.textContent = names.length
       ? `${names.length} guide${names.length === 1 ? "" : "s"} ready · ${names.join(" · ")}`
       : "No guide sources loaded yet";
@@ -384,7 +392,8 @@
   }
 
   function uniqueGroups() {
-    return Array.from(new Set(state.channels.map((channel) => channel.group))).sort((a, b) => a.localeCompare(b));
+    return Array.from(new Set(state.channels.map((channel) => channel.group)))
+      .sort((a, b) => CHANNEL_COLLATOR.compare(a, b));
   }
 
   function updateGroupFilter() {
@@ -403,7 +412,10 @@
       const source = state.sources.get(channel.sourceId);
       const guideName = source && source.channels.get(channel.epgId);
       return `${channel.name} ${channel.epgId} ${channel.group} ${guideName || ""}`.toLocaleLowerCase().includes(query);
-    });
+    }).sort((a, b) =>
+      CHANNEL_COLLATOR.compare(a.group, b.group) ||
+      CHANNEL_COLLATOR.compare(a.name, b.name)
+    );
   }
 
   function createLogo(url, name, className) {
@@ -451,7 +463,15 @@
     }
 
     const fragment = document.createDocumentFragment();
+    let lastGroup = null;
     pageChannels.forEach((channel) => {
+      if (channel.group !== lastGroup) {
+        const groupHeading = document.createElement("div");
+        groupHeading.className = "channel-group-heading";
+        groupHeading.textContent = channel.group;
+        fragment.append(groupHeading);
+        lastGroup = channel.group;
+      }
       const button = document.createElement("button");
       button.type = "button";
       button.className = "channel-row";
@@ -547,7 +567,7 @@
     sourceLabel.append(sourceHint);
     const sourceSelect = document.createElement("select");
     sourceSelect.className = "source-select";
-    state.sources.forEach((source) => sourceSelect.add(new Option(source.name, source.id)));
+    sortedSources().forEach((source) => sourceSelect.add(new Option(source.name, source.id)));
     if (!state.sources.has(channel.sourceId)) {
       sourceSelect.add(new Option(`${channel.sourceId} (not loaded)`, channel.sourceId));
     }
@@ -894,6 +914,38 @@
     }
   }
 
+  async function loadAllRemoteSegments() {
+    const queue = REMOTE_SEGMENTS.slice();
+    const failures = [];
+    let loaded = 0;
+    setStatus(`Loading all ${REMOTE_SEGMENTS.length} hosted EPG segments…`, false);
+
+    const worker = async () => {
+      while (queue.length) {
+        const filename = queue.shift();
+        try {
+          const response = await fetch(`${TV_BASE_URL}/Temp/${filename}`, { cache: "no-cache" });
+          if (!response.ok) throw new Error(`HTTP ${response.status} ${response.statusText}`);
+          const id = `segment-${hashText(filename.toLocaleLowerCase())}`;
+          addGuide(await response.text(), id, `Segment · ${filename}`, false);
+          loaded += 1;
+          if (loaded % 8 === 0) setStatus(`Loaded ${loaded}/${REMOTE_SEGMENTS.length} EPG segments…`, false);
+        } catch (error) {
+          failures.push(`${filename}: ${error.message}`);
+        }
+      }
+    };
+
+    await Promise.all(Array.from({ length: 6 }, worker));
+    if (loaded) {
+      updateSourceUi();
+      renderList();
+      renderEditor();
+      updateStats();
+    }
+    return { loaded, failures };
+  }
+
   async function tryLoadDefault(path, loader) {
     try {
       const response = await fetch(path, { cache: "no-cache" });
@@ -935,6 +987,9 @@
       const guideResult = await tryLoadDefault(EPGSTRONG_URL, async (text) => {
         addGuide(text, "epgstrong", "EPGStrong");
       });
+      const segmentResult = playlistResult.loaded
+        ? await loadAllRemoteSegments()
+        : { loaded: 0, failures: [] };
       if (!playlistResult.loaded) {
         setStatus(`Could not load ${PLAYLIST_URL}: ${playlistResult.error.message}. Open a playlist file to get started.`, true);
       } else {
@@ -943,10 +998,18 @@
           problems.push(`could not load EPGStrong.xml: ${guideResult.error.message}`);
         }
         if (configError) problems.push(`could not load wes-edits.json: ${configError.message}`);
+        if (segmentResult.failures.length) {
+          problems.push(
+            `loaded ${segmentResult.loaded}/${REMOTE_SEGMENTS.length} segments; failed: ${segmentResult.failures.join(", ")}`
+          );
+        }
         if (problems.length) {
           setStatus(`Playlist loaded; ${problems.join("; ")}.`, true);
         } else {
-          setStatus(`Loaded wes.m3u · ${state.channels.length.toLocaleString()} channels`, false);
+          setStatus(
+            `Loaded wes.m3u · ${state.channels.length.toLocaleString()} channels · EPGStrong and all ${segmentResult.loaded} segments`,
+            false
+          );
         }
       }
     } catch (error) {
