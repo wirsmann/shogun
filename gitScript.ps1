@@ -65,7 +65,7 @@ if ($failed.Count -gt 0) {
     exit 1
 }
 
-# ------------------------------------------------------------ apply Channel Studio edits
+# ------------------------------------------------------------ apply Channel Studio edits and removals
 $PlaylistEdits = Join-Path $Repo "wes-edits.json"
 $Playlist = Join-Path $Repo "wes.m3u"
 if (Test-Path -LiteralPath $PlaylistEdits) {

@@ -78,6 +78,70 @@ class ApplyPlaylistConfigTests(unittest.TestCase):
         self.assertIn('tvg-id=""', result)
         self.assertNotIn("epg-source=", result)
 
+    def test_removes_only_selected_duplicate_and_its_channel_directives(self):
+        header = (
+            '#EXTINF:-1 tvg-id="channel.test" tvg-name="Test Channel" '
+            'group-title="Test Group",Test Channel\r\n'
+        )
+        self.playlist.write_bytes(
+            ("#EXTM3U\r\n" + header + "#EXTVLCOPT:option=first\r\n" +
+             "https://one.invalid/stream\r\n" + header +
+             "#EXTVLCOPT:option=second\r\nhttps://two.invalid/stream\r\n").encode("utf-8")
+        )
+        match = identity(1)
+        self.write_config([{
+            "id": stable_channel_id(match),
+            "match": match,
+            "set": {},
+            "remove": True,
+        }])
+
+        self.assertEqual(apply_config(self.playlist, self.config), 1)
+        result = self.playlist.read_bytes().decode("utf-8")
+        self.assertEqual(result.count("#EXTINF:"), 1)
+        self.assertIn("#EXTVLCOPT:option=first", result)
+        self.assertNotIn("#EXTVLCOPT:option=second", result)
+        self.assertIn("https://one.invalid/stream", result)
+        self.assertNotIn("https://two.invalid/stream", result)
+        self.assertTrue(result.endswith("\r\n"))
+
+    def test_rejects_invalid_channel_removal_flag(self):
+        self.playlist.write_text(
+            '#EXTM3U\n#EXTINF:-1 tvg-id="channel.test" tvg-name="Test Channel" '
+            'group-title="Test Group",Test Channel\nhttps://stream.invalid/live\n',
+            encoding="utf-8",
+        )
+        match = identity()
+        self.write_config([{
+            "id": stable_channel_id(match),
+            "match": match,
+            "set": {},
+            "remove": "true",
+        }])
+
+        with self.assertRaises(ConfigError):
+            apply_config(self.playlist, self.config)
+
+    def test_rejects_removal_when_channel_has_no_stream_url(self):
+        original = (
+            '#EXTM3U\n#EXTINF:-1 tvg-id="channel.test" tvg-name="Test Channel" '
+            'group-title="Test Group",Test Channel\n'
+            '#EXTINF:-1 tvg-id="next.test" tvg-name="Next Channel" '
+            'group-title="Test Group",Next Channel\nhttps://stream.invalid/next\n'
+        )
+        self.playlist.write_text(original, encoding="utf-8")
+        match = identity()
+        self.write_config([{
+            "id": stable_channel_id(match),
+            "match": match,
+            "set": {},
+            "remove": True,
+        }])
+
+        with self.assertRaises(ConfigError):
+            apply_config(self.playlist, self.config)
+        self.assertEqual(self.playlist.read_text(encoding="utf-8"), original)
+
     def test_rejects_stale_channel_match_without_modifying_playlist(self):
         original = (
             '#EXTM3U\n#EXTINF:-1 tvg-id="different" tvg-name="Other" '

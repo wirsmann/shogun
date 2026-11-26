@@ -91,6 +91,10 @@
             <input id="unmatched-filter" type="checkbox">
             <span>Unmatched</span>
           </label>
+          <label class="checkbox-label">
+            <input id="removed-filter" type="checkbox">
+            <span>Show removed</span>
+          </label>
         </div>
         <div id="channel-list" class="channel-list" aria-live="polite">
           <div class="empty-state">Loading your playlist…</div>
@@ -126,7 +130,7 @@
         </section>
       </section>
     </div>
-    <footer class="footer-note">Export <strong>wes-edits.json</strong> into this repository; gitScript applies it after the daily playlist build. Export M3U for a one-time playlist download.</footer>
+    <footer class="footer-note">Export <strong>wes-edits.json</strong> into this repository; gitScript applies edits and removals after the daily playlist build. Export M3U for a one-time playlist download.</footer>
   </main>
 </body>
 </html>

@@ -74,6 +74,17 @@ def playlist_identities(lines):
     return identities
 
 
+def channel_stream_line(lines, start_index):
+    for line_index in range(start_index + 1, len(lines)):
+        content, _ending = line_content_and_ending(lines[line_index])
+        if content.startswith("#EXTINF:"):
+            break
+        if not content.strip() or content.startswith("#"):
+            continue
+        return line_index
+    raise ConfigError(f"Channel at line {start_index + 1} has no stream URL.")
+
+
 def validate_config(config, playlist_path):
     if not isinstance(config, dict) or type(config.get("version")) is not int or config["version"] != 1:
         raise ConfigError("Config must be a version 1 JSON object.")
@@ -97,6 +108,9 @@ def validate_config(config, playlist_path):
         changes = entry.get("set")
         if not isinstance(match, dict) or not isinstance(changes, dict):
             raise ConfigError(f"Channel edit {index + 1} needs 'match' and 'set' objects.")
+        remove = entry.get("remove", False)
+        if not isinstance(remove, bool):
+            raise ConfigError(f"Channel edit {index + 1} has an invalid removal flag.")
         if any(not isinstance(match.get(field), str) for field in IDENTITY_FIELDS):
             raise ConfigError(f"Channel edit {index + 1} has an invalid match identity.")
         occurrence = match.get("occurrence")
@@ -113,13 +127,13 @@ def validate_config(config, playlist_path):
                 f"Channel edit {index + 1} has unsupported fields: "
                 + ", ".join(sorted(unknown_fields))
             )
-        if not changes or any(not isinstance(value, str) for value in changes.values()):
-            raise ConfigError(f"Channel edit {index + 1} must contain string changes.")
+        if (not changes and not remove) or any(not isinstance(value, str) for value in changes.values()):
+            raise ConfigError(f"Channel edit {index + 1} must contain string changes or remove the channel.")
         identity = tuple(match[field] for field in IDENTITY_FIELDS) + (occurrence,)
         if identity in seen:
             raise ConfigError(f"Config contains a duplicate edit for channel {index + 1}.")
         seen.add(identity)
-        validated.append((identity, changes))
+        validated.append((identity, changes, remove))
     return validated
 
 
@@ -171,7 +185,7 @@ def apply_config(playlist_path, config_path):
         raise ConfigError(f"No #EXTINF channels found in {playlist_path}.")
     identities = playlist_identities(lines)
 
-    missing = [identity for identity, _changes in edits if identity not in identities]
+    missing = [identity for identity, _changes, _remove in edits if identity not in identities]
     if missing:
         example = missing[0]
         raise ConfigError(
@@ -179,11 +193,18 @@ def apply_config(playlist_path, config_path):
             f"first missing identity is {example[:5]!r} (occurrence {example[5]})."
         )
 
-    for edit, (identity, changes) in zip(config["channels"], edits):
+    removals = []
+    for edit, (identity, changes, remove) in zip(config["channels"], edits):
         line_index = identities[identity]
+        if remove:
+            removals.append((line_index, channel_stream_line(lines, line_index)))
+            continue
         updated_line = apply_changes(lines[line_index], changes)
         content, ending = line_content_and_ending(updated_line)
         lines[line_index] = set_attribute(content, "channel-studio-id", edit["id"]) + ending
+
+    for start_index, end_index in sorted(removals, reverse=True):
+        del lines[start_index:end_index + 1]
 
     output = ("".join(lines)).encode("utf-8")
     if has_bom:
@@ -212,7 +233,7 @@ def main():
         count = apply_config(args.playlist, args.config)
     except (OSError, UnicodeError, json.JSONDecodeError, ConfigError) as error:
         parser.exit(1, f"Could not apply playlist config: {error}\n")
-    print(f"Applied {count} channel edit(s) from {args.config} to {args.playlist}.")
+    print(f"Applied {count} channel config record(s) from {args.config} to {args.playlist}.")
     return 0
 
 

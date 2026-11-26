@@ -25,6 +25,7 @@
     query: "",
     group: "",
     unmatchedOnly: false,
+    showRemoved: false,
     page: 0,
     overrides: {}
   };
@@ -46,6 +47,7 @@
     channelSearch: document.getElementById("channel-search"),
     groupFilter: document.getElementById("group-filter"),
     unmatchedFilter: document.getElementById("unmatched-filter"),
+    removedFilter: document.getElementById("removed-filter"),
     channelList: document.getElementById("channel-list"),
     visibleCount: document.getElementById("visible-count"),
     pageLabel: document.getElementById("page-label"),
@@ -162,9 +164,12 @@
       identity.occurrence = identityCounts.get(identityKey) || 0;
       identityCounts.set(identityKey, identity.occurrence + 1);
       let streamUrl = "";
+      let endLineIndex = lineIndex;
       for (let i = lineIndex + 1; i < lines.length; i += 1) {
+        if (lines[i].startsWith("#EXTINF:")) break;
         if (lines[i].trim() && !lines[i].startsWith("#")) {
           streamUrl = lines[i].trim();
+          endLineIndex = i;
           break;
         }
       }
@@ -174,6 +179,7 @@
       channels.push({
         key: hashText(keySeed),
         lineIndex,
+        endLineIndex,
         identity,
         studioId: attrs["channel-studio-id"] || "",
         name,
@@ -184,10 +190,11 @@
         originalSourceId: attrs["epg-source"] || "epgstrong",
         group,
         logo: attrs["tvg-logo"] || "",
-        streamUrl
+        streamUrl,
+        removed: false,
+        originalRemoved: false
       });
     });
-    if (!channels.length) throw new Error("No #EXTINF channels were found in this playlist.");
     return { lines, channels };
   }
 
@@ -201,7 +208,8 @@
     configuration.channels.forEach((record) => {
       if (!record || typeof record.id !== "string" || !record.match ||
           !record.set || typeof record.set !== "object" || Array.isArray(record.set) ||
-          Object.keys(record.set).length === 0 ||
+          (Object.keys(record.set).length === 0 && record.remove !== true) ||
+          (Object.prototype.hasOwnProperty.call(record, "remove") && typeof record.remove !== "boolean") ||
           ["tvg_id", "tvg_name", "group_title", "title", "epg_source"]
             .some((field) => typeof record.match[field] !== "string") ||
           !Number.isInteger(record.match.occurrence) || record.match.occurrence < 0 ||
@@ -213,6 +221,9 @@
         typeof record.set[field] !== "string"
       )) {
         throw new Error("wes-edits.json contains an invalid channel edit.");
+      }
+      if (Object.prototype.hasOwnProperty.call(record, "remove") && typeof record.remove !== "boolean") {
+        throw new Error("wes-edits.json contains an invalid channel removal flag.");
       }
       if (records.has(record.id)) throw new Error("wes-edits.json contains duplicate channel edits.");
       records.set(record.id, record);
@@ -238,6 +249,8 @@
       channel.sourceId = Object.prototype.hasOwnProperty.call(record.set, "epg_source")
         ? record.set.epg_source
         : channel.originalSourceId;
+      channel.removed = record.remove === true;
+      channel.originalRemoved = channel.removed;
     });
   }
 
@@ -343,11 +356,13 @@
     state.channels.forEach((channel) => {
       if (channel.name !== channel.originalName ||
           channel.epgId !== channel.originalEpgId ||
-          channel.sourceId !== channel.originalSourceId) {
+          channel.sourceId !== channel.originalSourceId ||
+          channel.removed !== channel.originalRemoved) {
         state.overrides[channel.key] = {
           name: channel.name,
           epgId: channel.epgId,
-          sourceId: channel.sourceId
+          sourceId: channel.sourceId,
+          removed: channel.removed
         };
       }
     });
@@ -372,6 +387,7 @@
         if (typeof override.name === "string") channel.name = override.name;
         if (typeof override.epgId === "string") channel.epgId = override.epgId;
         if (typeof override.sourceId === "string") channel.sourceId = override.sourceId;
+        if (typeof override.removed === "boolean") channel.removed = override.removed;
       });
     } catch (error) {
       state.overrides = {};
@@ -388,8 +404,9 @@
   }
 
   function updateStats() {
-    ui.channelCount.textContent = state.channels.length.toLocaleString();
-    ui.mappedCount.textContent = state.channels.filter(hasGuideMatch).length.toLocaleString();
+    const activeChannels = state.channels.filter((channel) => !channel.removed);
+    ui.channelCount.textContent = activeChannels.length.toLocaleString();
+    ui.mappedCount.textContent = activeChannels.filter(hasGuideMatch).length.toLocaleString();
     ui.guideCount.textContent = String(state.sources.size);
   }
 
@@ -408,6 +425,7 @@
   function filteredChannels() {
     const query = state.query.trim().toLocaleLowerCase();
     return state.channels.filter((channel) => {
+      if (channel.removed !== state.showRemoved) return false;
       if (state.group && channel.group !== state.group) return false;
       if (state.unmatchedOnly && hasGuideMatch(channel)) return false;
       if (!query) return true;
@@ -459,7 +477,9 @@
     if (!pageChannels.length) {
       const empty = document.createElement("div");
       empty.className = "empty-state";
-      empty.textContent = state.channels.length ? "No channels match these filters." : "Open a playlist to get started.";
+      empty.textContent = state.channels.length
+        ? "No channels match these filters."
+        : "This playlist has no channels.";
       ui.channelList.append(empty);
       return;
     }
@@ -528,6 +548,32 @@
       description.textContent = "Choose a channel from your playlist to edit its name and EPG match.";
       empty.append(icon, title, description);
       ui.channelEditor.append(empty);
+      renderNowPlaying();
+      return;
+    }
+
+    if (channel.removed) {
+      const removed = document.createElement("div");
+      removed.className = "removed-editor";
+      const title = document.createElement("h2");
+      title.textContent = `${channel.name} is removed`;
+      const description = document.createElement("p");
+      description.textContent = "This channel will be omitted from the exported playlist and the next daily playlist build.";
+      const restoreButton = document.createElement("button");
+      restoreButton.type = "button";
+      restoreButton.className = "button button-muted";
+      restoreButton.textContent = "Restore channel";
+      restoreButton.addEventListener("click", () => {
+        channel.removed = false;
+        state.showRemoved = false;
+        ui.removedFilter.checked = false;
+        persistEdits();
+        renderList();
+        renderEditor();
+        updateStats();
+      });
+      removed.append(createLogo(channel.logo, channel.name, "channel-logo"), title, description, restoreButton);
+      ui.channelEditor.append(removed);
       renderNowPlaying();
       return;
     }
@@ -669,7 +715,26 @@
     const note = document.createElement("p");
     note.className = "editor-save-note";
     note.textContent = "Export the daily config to keep these edits across playlist rebuilds.";
-    ui.channelEditor.append(header, nameField, sourceField, matchField, note);
+    const removeButton = document.createElement("button");
+    removeButton.type = "button";
+    removeButton.className = "button button-danger";
+    removeButton.textContent = "Remove from playlist";
+    removeButton.disabled = channel.endLineIndex === channel.lineIndex;
+    if (removeButton.disabled) removeButton.title = "This channel has no stream URL to remove.";
+    removeButton.addEventListener("click", () => {
+      if (!window.confirm(`Remove "${channel.name}" from the playlist? Export the config to apply this to future builds.`)) return;
+      channel.removed = true;
+      state.showRemoved = false;
+      ui.removedFilter.checked = false;
+      persistEdits();
+      renderList();
+      renderEditor();
+      updateStats();
+    });
+    const editorActions = document.createElement("div");
+    editorActions.className = "editor-actions";
+    editorActions.append(removeButton);
+    ui.channelEditor.append(header, nameField, sourceField, matchField, note, editorActions);
     renderNowPlaying();
   }
 
@@ -689,6 +754,13 @@
       const placeholder = document.createElement("span");
       placeholder.className = "guide-placeholder";
       placeholder.textContent = "Select a channel to see its current programme.";
+      ui.nowPlaying.append(placeholder);
+      return;
+    }
+    if (channel.removed) {
+      const placeholder = document.createElement("span");
+      placeholder.className = "guide-placeholder";
+      placeholder.textContent = "This channel is removed from the playlist.";
       ui.nowPlaying.append(placeholder);
       return;
     }
@@ -765,8 +837,19 @@
       setStatus("Load a playlist before exporting.", true);
       return;
     }
+    if (state.channels.some((channel) =>
+      channel.removed && channel.endLineIndex === channel.lineIndex
+    )) {
+      setStatus("Cannot export a removal for a channel with no stream URL.", true);
+      return;
+    }
     const lines = state.playlistLines.slice();
+    const removals = [];
     state.channels.forEach((channel) => {
+      if (channel.removed) {
+        removals.push(channel);
+        return;
+      }
       let line = lines[channel.lineIndex];
       if (channel.name !== channel.originalName) {
         line = replaceAttribute(line, "tvg-name", channel.name);
@@ -782,6 +865,9 @@
         else line = replaceAttribute(line, "epg-source", channel.sourceId);
       }
       lines[channel.lineIndex] = line;
+    });
+    removals.sort((a, b) => b.lineIndex - a.lineIndex).forEach((channel) => {
+      lines.splice(channel.lineIndex, channel.endLineIndex - channel.lineIndex + 1);
     });
     downloadBlob(new Blob([`${lines.join("\r\n")}\r\n`], { type: "audio/x-mpegurl;charset=utf-8" }), "wes-edited.m3u");
     setStatus("Exported wes-edited.m3u", false);
@@ -813,9 +899,11 @@
       if (channel.name !== channel.originalName) changes.name = channel.name;
       if (channel.epgId !== channel.originalEpgId) changes.tvg_id = channel.epgId;
       if (channel.sourceId !== channel.originalSourceId) changes.epg_source = channel.sourceId;
-      const id = identityId(channel.identity);
-      if (Object.keys(changes).length) {
-        records.set(id, { id, match: channel.identity, set: changes });
+      const id = channel.studioId || identityId(channel.identity);
+      if (Object.keys(changes).length || channel.removed) {
+        const record = { id, match: channel.identity, set: changes };
+        if (channel.removed) record.remove = true;
+        records.set(id, record);
       } else {
         records.delete(id);
       }
@@ -826,7 +914,7 @@
       new Blob([`${JSON.stringify(config, null, 2)}\n`], { type: "application/json;charset=utf-8" }),
       "wes-edits.json"
     );
-    setStatus(`Exported wes-edits.json · ${channels.length.toLocaleString()} channel edits`, false);
+    setStatus(`Exported wes-edits.json · ${channels.length.toLocaleString()} channel config records`, false);
   }
 
   async function loadPlaylistFile(file) {
@@ -1047,6 +1135,13 @@
     state.unmatchedOnly = ui.unmatchedFilter.checked;
     state.page = 0;
     renderList();
+  });
+  ui.removedFilter.addEventListener("change", () => {
+    state.showRemoved = ui.removedFilter.checked;
+    state.selectedKey = null;
+    state.page = 0;
+    renderList();
+    renderEditor();
   });
   ui.previousPage.addEventListener("click", () => {
     state.page = Math.max(0, state.page - 1);

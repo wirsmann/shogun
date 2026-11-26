@@ -103,6 +103,8 @@ button { color: inherit; }
 .button-muted:hover { background: #273443; border-color: #425367; }
 .button-accent { color: #08251d; background: var(--accent); }
 .button-accent:hover { background: #72e5c1; }
+.button-danger { color: #ffd9d9; background: #4a252c; border-color: #70404a; }
+.button-danger:hover { background: #603039; border-color: #92515d; }
 
 .workspace { width: min(1440px, 100%); margin: 0 auto; padding: 38px clamp(18px, 4vw, 58px) 25px; }
 .intro { display: flex; justify-content: space-between; align-items: end; gap: 30px; margin-bottom: 24px; }
@@ -193,7 +195,7 @@ h2 { margin-bottom: 0; font-size: 17px; letter-spacing: -.025em; }
 .search-box input { width: 100%; min-width: 0; padding: 0; border: 0; outline: 0; color: var(--text); background: transparent; font-size: 12px; }
 .search-box input::placeholder { color: #778698; }
 kbd { padding: 2px 6px; border: 1px solid #33404e; border-radius: 4px; color: #8594a5; font: 10px "DM Sans", sans-serif; }
-.filter-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 0 15px 12px; }
+.filter-row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; padding: 0 15px 12px; }
 .select-wrap select, input:not([type="checkbox"]):not([type="file"]) {
   min-height: 36px;
   padding: 0 10px;
@@ -246,6 +248,10 @@ kbd { padding: 2px 6px; border: 1px solid #33404e; border-radius: 4px; color: #8
 .empty-editor-icon { width: 45px; height: 45px; display: grid; place-items: center; margin-bottom: 15px; border-radius: 13px; color: var(--accent); background: rgba(83, 214, 173, .1); font-size: 22px; }
 .empty-editor h2 { margin-bottom: 7px; font-size: 15px; }
 .empty-editor p { max-width: 255px; margin-bottom: 0; color: var(--muted); font-size: 11px; line-height: 1.6; }
+.removed-editor { min-height: 295px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; text-align: center; }
+.removed-editor h2 { margin: 0; font-size: 15px; }
+.removed-editor p { max-width: 285px; margin: 0; color: var(--muted); font-size: 11px; line-height: 1.6; }
+.editor-actions { display: flex; justify-content: flex-end; margin-top: 15px; }
 .editor-header { display: flex; align-items: center; gap: 12px; padding-bottom: 17px; border-bottom: 1px solid rgba(151, 169, 191, .12); }
 .editor-header .channel-logo { width: 43px; height: 43px; flex-basis: 43px; border-radius: 10px; }
 .editor-title { min-width: 0; flex: 1; }
