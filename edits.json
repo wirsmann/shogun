@@ -14,6 +14,79 @@
       },
       "set": {},
       "remove": true
+    },
+    {
+      "id": "WyIiLCJGWCBIRCIsIkNBfCBHRU5FUkFMIiwiRlggSEQiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FX HD",
+        "group_title": "CA| GENERAL",
+        "title": "FX HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "tvg_id": "fx.ca",
+        "epg_source": "segment-pysn6b"
+      }
+    },
+    {
+      "id": "WyIiLCJHQU1FIFRWIEhEIiwiQ0F8IEdFTkVSQUwiLCJHQU1FIFRWIEhEIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "GAME TV HD",
+        "group_title": "CA| GENERAL",
+        "title": "GAME TV HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "tvg_id": "GameTV.ca"
+      }
+    },
+    {
+      "id": "WyIiLCJIQk8gMiAoUikiLCJDQXwgR0VORVJBTCIsIkhCTyAyIChSKSIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "HBO 2 (R)",
+        "group_title": "CA| GENERAL",
+        "title": "HBO 2 (R)",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "name": "HBO 2",
+        "tvg_id": "HBO2.ca"
+      }
+    },
+    {
+      "id": "WyIiLCJTUE9SVFNORVQgV0VTVCDhtL_htKzhtYIiLCJDQXwgU1BPUlRTIiwiU1BPUlRTTkVUIFdFU1Qg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "SPORTSNET WEST ᴿᴬᵂ",
+        "group_title": "CA| SPORTS",
+        "title": "SPORTSNET WEST ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "tvg_id": "SportsnetWest.ca"
+      }
+    },
+    {
+      "id": "WyIiLCJUSEUgRklHSFQgTkVUV09SSyBIRCIsIkNBfCBTUE9SVFMiLCJUSEUgRklHSFQgTkVUV09SSyBIRCIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "THE FIGHT NETWORK HD",
+        "group_title": "CA| SPORTS",
+        "title": "THE FIGHT NETWORK HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "tvg_id": "fightnetwork.ca",
+        "epg_source": "segment-x053tp"
+      }
     }
   ]
 }

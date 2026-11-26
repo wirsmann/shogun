@@ -213,7 +213,10 @@ kbd { padding: 2px 6px; border: 1px solid #33404e; border-radius: 4px; color: #8
 .checkbox-label input { accent-color: var(--accent-strong); }
 
 .channel-list { min-height: 190px; max-height: min(55vh, 580px); overflow: auto; border-top: 1px solid rgba(151, 169, 191, .1); }
-.channel-group-heading { position: sticky; top: 0; z-index: 1; padding: 8px 15px; border-bottom: 1px solid rgba(151, 169, 191, .08); color: #a7b5c5; background: #1a232e; font-size: 9px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+.channel-group-heading { position: sticky; top: 0; z-index: 1; display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 6px 15px; border-bottom: 1px solid rgba(151, 169, 191, .08); color: #a7b5c5; background: #1a232e; font-size: 9px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+.channel-group-name { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.group-rename-button { flex: 0 0 auto; padding: 3px 7px; border: 1px solid #344252; border-radius: 5px; color: #adbac8; background: #202a36; cursor: pointer; font-size: 9px; font-weight: 500; letter-spacing: 0; text-transform: none; }
+.group-rename-button:hover { border-color: #438d78; color: #e8eef5; }
 .channel-row {
   width: 100%;
   min-height: 62px;

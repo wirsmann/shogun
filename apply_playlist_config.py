@@ -13,7 +13,7 @@ from pathlib import Path
 
 
 IDENTITY_FIELDS = ("tvg_id", "tvg_name", "group_title", "title", "epg_source")
-SET_FIELDS = {"name", "tvg_id", "epg_source"}
+SET_FIELDS = {"name", "tvg_id", "epg_source", "group_title"}
 
 
 class ConfigError(ValueError):
@@ -169,6 +169,8 @@ def apply_changes(line, changes):
             content = remove_attribute(content, "epg-source")
         else:
             content = set_attribute(content, "epg-source", changes["epg_source"])
+    if "group_title" in changes:
+        content = set_attribute(content, "group-title", changes["group_title"])
     return content + ending
 
 

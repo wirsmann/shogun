@@ -661,11 +661,11 @@ http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414207.ts
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414093.ts
 #EXTINF:-1 tvg-id="" tvg-name="WEATHER NETWORK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6338.jpg?93313" group-title="CA| GENERAL",WEATHER NETWORK
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414049.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6695.png?88579" group-title="CA| GENERAL",FX HD
+#EXTINF:-1 tvg-id="fx.ca" tvg-name="FX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6695.png?88579" group-title="CA| GENERAL" epg-source="segment-pysn6b" channel-studio-id="WyIiLCJGWCBIRCIsIkNBfCBHRU5FUkFMIiwiRlggSEQiLCIiLDBd",FX HD
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414157.ts
 #EXTINF:-1 tvg-id="FoodNetwork.ca" tvg-name="FOOD NETWORK HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3936.jpg?14020" group-title="CA| GENERAL",FOOD NETWORK HD
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414199.ts
-#EXTINF:-1 tvg-id="" tvg-name="GAME TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1902.jpg?59339" group-title="CA| GENERAL",GAME TV HD
+#EXTINF:-1 tvg-id="GameTV.ca" tvg-name="GAME TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1902.jpg?59339" group-title="CA| GENERAL" channel-studio-id="WyIiLCJHQU1FIFRWIEhEIiwiQ0F8IEdFTkVSQUwiLCJHQU1FIFRWIEhEIiwiIiwwXQ",GAME TV HD
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414162.ts
 #EXTINF:-1 tvg-id="GlobalCalgary.ca" tvg-name="GLOBAL CALAGRY SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9356.jpg?42173" group-title="CA| GENERAL",GLOBAL CALAGRY SD
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414125.ts
@@ -677,7 +677,7 @@ http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414127.ts
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414128.ts
 #EXTINF:-1 tvg-id="HBO.ca" tvg-name="HBO 1 (R)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2279.jpg?63167" group-title="CA| GENERAL",HBO 1 (R)
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414145.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 (R)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3267.jpg?32564" group-title="CA| GENERAL",HBO 2 (R)
+#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="HBO 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3267.jpg?32564" group-title="CA| GENERAL" channel-studio-id="WyIiLCJIQk8gMiAoUikiLCJDQXwgR0VORVJBTCIsIkhCTyAyIChSKSIsIiIsMF0",HBO 2
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414144.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBAL MONTREAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6281.jpg?62562" group-title="CA| GENERAL",GLOBAL MONTREAL
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414050.ts
@@ -773,7 +773,7 @@ http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/500452.ts
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/500451.ts
 #EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="SPORTSNET WEST HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13748.png?96938" group-title="CA| SPORTS",SPORTSNET WEST HD
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/500449.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET WEST ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13748.png?96938" group-title="CA| SPORTS",SPORTSNET WEST ᴿᴬᵂ
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="SPORTSNET WEST ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13748.png?96938" group-title="CA| SPORTS" channel-studio-id="WyIiLCJTUE9SVFNORVQgV0VTVCDhtL_htKzhtYIiLCJDQXwgU1BPUlRTIiwiU1BPUlRTTkVUIFdFU1Qg4bS_4bSs4bWCIiwiIiwwXQ",SPORTSNET WEST ᴿᴬᵂ
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/746363.ts
 #EXTINF:-1 tvg-id="NBATV.ca" tvg-name="NBA TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11230.jpg?7786" group-title="CA| SPORTS",NBA TV HD
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414160.ts
@@ -787,7 +787,7 @@ http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414140.ts
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414139.ts
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265" group-title="CA| SPORTS",TSN 5
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414138.ts
-#EXTINF:-1 tvg-id="" tvg-name="THE FIGHT NETWORK HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3942.png?35331" group-title="CA| SPORTS",THE FIGHT NETWORK HD
+#EXTINF:-1 tvg-id="fightnetwork.ca" tvg-name="THE FIGHT NETWORK HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3942.png?35331" group-title="CA| SPORTS" epg-source="segment-x053tp" channel-studio-id="WyIiLCJUSEUgRklHSFQgTkVUV09SSyBIRCIsIkNBfCBTUE9SVFMiLCJUSEUgRklHSFQgTkVUV09SSyBIRCIsIiIsMF0",THE FIGHT NETWORK HD
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414074.ts
 #EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="WILLOW CRICKET CANADA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12260.jpg?76539" group-title="CA| SPORTS",WILLOW CRICKET CANADA HD
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/414075.ts
@@ -18553,7 +18553,7 @@ http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1126465.ts
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1126464.ts
 #EXTINF:-1 tvg-id="" tvg-name="ENDED | NHL BUFFALO - NY RANGERS | Wed 25 Nov 19:05 EST (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 9" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333" group-title="US| VIAPLAY NHL PPV",ENDED | NHL BUFFALO - NY RANGERS | Wed 25 Nov 19:05 EST (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 9
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1126463.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIVE | NHL DETROIT - VANCOUVER | Wed 25 Nov 19:35 EST (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 10" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333" group-title="US| VIAPLAY NHL PPV",LIVE | NHL DETROIT - VANCOUVER | Wed 25 Nov 19:35 EST (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 10
+#EXTINF:-1 tvg-id="" tvg-name="ENDED | NHL DETROIT - VANCOUVER | Wed 25 Nov 19:35 EST (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 10" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333" group-title="US| VIAPLAY NHL PPV",ENDED | NHL DETROIT - VANCOUVER | Wed 25 Nov 19:35 EST (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 10
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1126462.ts
 #EXTINF:-1 tvg-id="" tvg-name="LIVE | NHL MINNESOTA - UTAH | Wed 25 Nov 20:05 EST (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 11" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333" group-title="US| VIAPLAY NHL PPV",LIVE | NHL MINNESOTA - UTAH | Wed 25 Nov 20:05 EST (US) | 8K EXCLUSIVE | US: VIAPLAY PPV 11
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1126461.ts
@@ -20985,7 +20985,7 @@ http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924666.ts
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924665.ts
 #EXTINF:-1 tvg-id="game.1924664" tvg-name="ENDED | PHILADELPHIA FLYERS VS. WASHINGTON CAPITALS | Wed 25 Nov 18:30 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 66" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",ENDED | PHILADELPHIA FLYERS VS. WASHINGTON CAPITALS | Wed 25 Nov 18:30 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 66
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924664.ts
-#EXTINF:-1 tvg-id="game.1924663" tvg-name="LIVE | VANCOUVER CANUCKS VS. DETROIT RED WINGS | Wed 25 Nov 19:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 67" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",LIVE | VANCOUVER CANUCKS VS. DETROIT RED WINGS | Wed 25 Nov 19:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 67
+#EXTINF:-1 tvg-id="game.1924663" tvg-name="ENDED | VANCOUVER CANUCKS VS. DETROIT RED WINGS | Wed 25 Nov 19:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 67" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",ENDED | VANCOUVER CANUCKS VS. DETROIT RED WINGS | Wed 25 Nov 19:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 67
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924663.ts
 #EXTINF:-1 tvg-id="game.1924662" tvg-name="ENDED | WINNIPEG JETS VS. BOSTON BRUINS | Wed 25 Nov 19:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 68" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",ENDED | WINNIPEG JETS VS. BOSTON BRUINS | Wed 25 Nov 19:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 68
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924662.ts
@@ -21019,19 +21019,19 @@ http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924649.ts
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924648.ts
 #EXTINF:-1 tvg-id="game.1924647" tvg-name="ENDED | NORTHERN COLORADO VS. UTAH TECH (CHAMPIONSHIP) | Wed 25 Nov 20:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 83" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",ENDED | NORTHERN COLORADO VS. UTAH TECH (CHAMPIONSHIP) | Wed 25 Nov 20:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 83
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924647.ts
-#EXTINF:-1 tvg-id="game.1924646" tvg-name="LIVE | SACRAMENTO STATE VS. CAL STATE BAKERSFIELD (FIRST ROUND) | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 84" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",LIVE | SACRAMENTO STATE VS. CAL STATE BAKERSFIELD (FIRST ROUND) | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 84
+#EXTINF:-1 tvg-id="game.1924646" tvg-name="ENDED | SACRAMENTO STATE VS. CAL STATE BAKERSFIELD (FIRST ROUND) | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 84" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",ENDED | SACRAMENTO STATE VS. CAL STATE BAKERSFIELD (FIRST ROUND) | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 84
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924646.ts
-#EXTINF:-1 tvg-id="game.1924645" tvg-name="LIVE | SAN DIEGO VS. UTAH TECH | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 85" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",LIVE | SAN DIEGO VS. UTAH TECH | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 85
+#EXTINF:-1 tvg-id="game.1924645" tvg-name="ENDED | SAN DIEGO VS. UTAH TECH | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 85" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",ENDED | SAN DIEGO VS. UTAH TECH | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 85
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924645.ts
-#EXTINF:-1 tvg-id="game.1924644" tvg-name="LIVE | KANSAS STATE VS. #9 ARIZONA STATE | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 86" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",LIVE | KANSAS STATE VS. #9 ARIZONA STATE | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 86
+#EXTINF:-1 tvg-id="game.1924644" tvg-name="ENDED | KANSAS STATE VS. #9 ARIZONA STATE | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 86" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",ENDED | KANSAS STATE VS. #9 ARIZONA STATE | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 86
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924644.ts
-#EXTINF:-1 tvg-id="game.1924643" tvg-name="LIVE | NORTHWEST INDIAN VS. MONTANA STATE | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 87" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",LIVE | NORTHWEST INDIAN VS. MONTANA STATE | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 87
+#EXTINF:-1 tvg-id="game.1924643" tvg-name="ENDED | NORTHWEST INDIAN VS. MONTANA STATE | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 87" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",ENDED | NORTHWEST INDIAN VS. MONTANA STATE | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 87
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924643.ts
-#EXTINF:-1 tvg-id="game.1924642" tvg-name="LIVE | EASTERN WASHINGTON VS. LOYOLA MARYMOUNT | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 88" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",LIVE | EASTERN WASHINGTON VS. LOYOLA MARYMOUNT | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 88
+#EXTINF:-1 tvg-id="game.1924642" tvg-name="ENDED | EASTERN WASHINGTON VS. LOYOLA MARYMOUNT | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 88" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",ENDED | EASTERN WASHINGTON VS. LOYOLA MARYMOUNT | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 88
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924642.ts
 #EXTINF:-1 tvg-id="game.1924641" tvg-name="LIVE | MONTREAL CANADIENS VS. COLORADO AVALANCHE | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 89" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",LIVE | MONTREAL CANADIENS VS. COLORADO AVALANCHE | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 89
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924641.ts
-#EXTINF:-1 tvg-id="game.1924640" tvg-name="LIVE | #17 TCU VS. UTAH | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 90" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",LIVE | #17 TCU VS. UTAH | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 90
+#EXTINF:-1 tvg-id="game.1924640" tvg-name="ENDED | #17 TCU VS. UTAH | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 90" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",ENDED | #17 TCU VS. UTAH | Wed 25 Nov 21:00 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 90
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924640.ts
 #EXTINF:-1 tvg-id="game.1924639" tvg-name="LIVE | CHICAGO BLACKHAWKS VS. SEATTLE KRAKEN | Wed 25 Nov 21:10 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 91" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438" group-title="US| ESPN+ PPV ⱽᴵᴾ",LIVE | CHICAGO BLACKHAWKS VS. SEATTLE KRAKEN | Wed 25 Nov 21:10 EST (US) | 8K EXCLUSIVE | US: ESPN+ PPV 91
 http://cf.business-cloud-8.ru/live/dd688f571bf5/374ac3b451/1924639.ts

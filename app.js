@@ -139,6 +139,7 @@
       channel.originalName = identity.tvg_name || identity.title;
       channel.originalEpgId = identity.tvg_id;
       channel.originalSourceId = identity.epg_source || "epgstrong";
+      channel.originalGroup = identity.group_title || "Ungrouped";
     });
   }
 
@@ -189,6 +190,7 @@
         sourceId: attrs["epg-source"] || "epgstrong",
         originalSourceId: attrs["epg-source"] || "epgstrong",
         group,
+        originalGroup: group,
         logo: attrs["tvg-logo"] || "",
         streamUrl,
         removed: false,
@@ -217,7 +219,7 @@
         throw new Error("edits.json contains an invalid channel identity.");
       }
       if (Object.keys(record.set).some((field) =>
-        !["name", "tvg_id", "epg_source"].includes(field) ||
+        !["name", "tvg_id", "epg_source", "group_title"].includes(field) ||
         typeof record.set[field] !== "string"
       )) {
         throw new Error("edits.json contains an invalid channel edit.");
@@ -240,6 +242,7 @@
       channel.originalName = record.match.tvg_name || record.match.title;
       channel.originalEpgId = record.match.tvg_id;
       channel.originalSourceId = record.match.epg_source || "epgstrong";
+      channel.originalGroup = record.match.group_title || "Ungrouped";
       channel.name = Object.prototype.hasOwnProperty.call(record.set, "name")
         ? record.set.name
         : channel.originalName;
@@ -249,6 +252,9 @@
       channel.sourceId = Object.prototype.hasOwnProperty.call(record.set, "epg_source")
         ? record.set.epg_source
         : channel.originalSourceId;
+      channel.group = Object.prototype.hasOwnProperty.call(record.set, "group_title")
+        ? record.set.group_title || "Ungrouped"
+        : channel.originalGroup;
       channel.removed = record.remove === true;
       channel.originalRemoved = channel.removed;
     });
@@ -357,11 +363,13 @@
       if (channel.name !== channel.originalName ||
           channel.epgId !== channel.originalEpgId ||
           channel.sourceId !== channel.originalSourceId ||
+          channel.group !== channel.originalGroup ||
           channel.removed !== channel.originalRemoved) {
         state.overrides[channel.key] = {
           name: channel.name,
           epgId: channel.epgId,
           sourceId: channel.sourceId,
+          group: channel.group,
           removed: channel.removed
         };
       }
@@ -387,6 +395,7 @@
         if (typeof override.name === "string") channel.name = override.name;
         if (typeof override.epgId === "string") channel.epgId = override.epgId;
         if (typeof override.sourceId === "string") channel.sourceId = override.sourceId;
+        if (typeof override.group === "string") channel.group = override.group;
         if (typeof override.removed === "boolean") channel.removed = override.removed;
       });
     } catch (error) {
@@ -420,6 +429,28 @@
     ui.groupFilter.replaceChildren(new Option("All groups", ""));
     uniqueGroups().forEach((group) => ui.groupFilter.add(new Option(group, group)));
     ui.groupFilter.value = selected;
+  }
+
+  function renameGroup(groupName) {
+    const response = window.prompt(`Rename group "${groupName}" to:`, groupName);
+    if (response === null) return;
+    const newGroupName = response.trim();
+    if (!newGroupName) {
+      setStatus("Group names cannot be empty.", true);
+      return;
+    }
+    if (newGroupName === groupName) return;
+
+    state.channels.forEach((channel) => {
+      if (channel.group === groupName) channel.group = newGroupName;
+    });
+    if (state.group === groupName) state.group = newGroupName;
+    state.page = 0;
+    persistEdits();
+    updateGroupFilter();
+    renderList();
+    renderEditor();
+    updateStats();
   }
 
   function filteredChannels() {
@@ -490,7 +521,16 @@
       if (channel.group !== lastGroup) {
         const groupHeading = document.createElement("div");
         groupHeading.className = "channel-group-heading";
-        groupHeading.textContent = channel.group;
+        const groupName = document.createElement("span");
+        groupName.className = "channel-group-name";
+        groupName.textContent = channel.group;
+        const renameButton = document.createElement("button");
+        renameButton.type = "button";
+        renameButton.className = "group-rename-button";
+        renameButton.textContent = "Rename";
+        renameButton.setAttribute("aria-label", `Rename group ${channel.group}`);
+        renameButton.addEventListener("click", () => renameGroup(channel.group));
+        groupHeading.append(groupName, renameButton);
         fragment.append(groupHeading);
         lastGroup = channel.group;
       }
@@ -936,6 +976,7 @@
       if (channel.name !== channel.originalName) changes.name = channel.name;
       if (channel.epgId !== channel.originalEpgId) changes.tvg_id = channel.epgId;
       if (channel.sourceId !== channel.originalSourceId) changes.epg_source = channel.sourceId;
+      if (channel.group !== channel.originalGroup) changes.group_title = channel.group;
       const id = channel.studioId || identityId(channel.identity);
       if (Object.keys(changes).length || channel.removed) {
         const record = { id, match: channel.identity, set: changes };

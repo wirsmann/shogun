@@ -62,6 +62,19 @@ class ApplyPlaylistConfigTests(unittest.TestCase):
         self.assertEqual(lines[4], "https://two.invalid/stream")
         self.assertTrue(result.endswith("\r\n"))
 
+    def test_renames_group_title(self):
+        self.playlist.write_text(
+            '#EXTM3U\n#EXTINF:-1 tvg-id="channel.test" tvg-name="Test Channel" '
+            'group-title="Test Group",Test Channel\nhttps://stream.invalid/live\n',
+            encoding="utf-8",
+        )
+        self.write_config([edit(identity(), group_title="Renamed Group")])
+
+        self.assertEqual(apply_config(self.playlist, self.config), (1, 0))
+        result = self.playlist.read_text(encoding="utf-8")
+        self.assertIn('group-title="Renamed Group"', result)
+        self.assertIn("channel-studio-id=", result)
+
     def test_can_clear_epg_id_and_restore_primary_source(self):
         self.playlist.write_text(
             '#EXTM3U\n#EXTINF:-1 tvg-id="guide.test" tvg-name="Test Channel" '
