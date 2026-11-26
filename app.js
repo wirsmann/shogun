@@ -637,10 +637,85 @@
     matchRow.append(matchInput, clearButton);
     const results = document.createElement("div");
     results.className = "match-results";
-    const renderSuggestions = () => {
+    let suggestionChoices = [];
+    let suggestionPage = 0;
+    const suggestionsPerPage = 10;
+    const renderSuggestionPage = () => {
       results.replaceChildren();
+      if (!suggestionChoices.length) {
+        if (matchInput.value.trim()) {
+          const noMatches = document.createElement("span");
+          noMatches.className = "no-matches";
+          noMatches.textContent = "No channel matches in the loaded guides. Enter an ID and press Enter to use it anyway.";
+          results.append(noMatches);
+        }
+        return;
+      }
+
+      const start = suggestionPage * suggestionsPerPage;
+      suggestionChoices.slice(start, start + suggestionsPerPage).forEach(({ id, displayName, sourceId, sourceName }) => {
+        const option = document.createElement("button");
+        option.type = "button";
+        option.className = "match-option";
+        const name = document.createElement("span");
+        name.textContent = displayName;
+        const details = document.createElement("span");
+        details.textContent = `${sourceName} · ${id}`;
+        option.addEventListener("click", () => {
+          channel.epgId = id;
+          channel.sourceId = sourceId;
+          persistEdits();
+          renderEditor();
+          renderList();
+          updateStats();
+        });
+        option.append(name, details);
+        results.append(option);
+      });
+
+      const pageCount = Math.ceil(suggestionChoices.length / suggestionsPerPage);
+      if (pageCount > 1) {
+        const end = Math.min(start + suggestionsPerPage, suggestionChoices.length);
+        const pagination = document.createElement("div");
+        pagination.className = "match-pagination";
+        const previous = document.createElement("button");
+        previous.type = "button";
+        previous.className = "match-page-button match-page-previous";
+        previous.textContent = "Previous";
+        previous.setAttribute("aria-label", "Previous EPG match results");
+        previous.disabled = suggestionPage === 0;
+        previous.addEventListener("click", () => {
+          suggestionPage -= 1;
+          renderSuggestionPage();
+          results.querySelector(".match-page-previous").focus();
+        });
+        const pageLabel = document.createElement("span");
+        pageLabel.className = "match-page-label";
+        pageLabel.textContent = `${start + 1}–${end} of ${suggestionChoices.length} (page ${suggestionPage + 1} of ${pageCount})`;
+        pageLabel.setAttribute("aria-live", "polite");
+        const next = document.createElement("button");
+        next.type = "button";
+        next.className = "match-page-button match-page-next";
+        next.textContent = "Next";
+        next.setAttribute("aria-label", "Next EPG match results");
+        next.disabled = suggestionPage === pageCount - 1;
+        next.addEventListener("click", () => {
+          suggestionPage += 1;
+          renderSuggestionPage();
+          results.querySelector(".match-page-next").focus();
+        });
+        pagination.append(previous, pageLabel, next);
+        results.append(pagination);
+      }
+    };
+    const renderSuggestions = () => {
       const query = matchInput.value.trim().toLocaleLowerCase();
-      if (!query) return;
+      suggestionChoices = [];
+      suggestionPage = 0;
+      if (!query) {
+        results.replaceChildren();
+        return;
+      }
       const choices = [];
       sortedSources().forEach((source) => {
         source.channels.forEach((displayName, id) => {
@@ -661,31 +736,8 @@
           CHANNEL_COLLATOR.compare(a.sourceName, b.sourceName) ||
           CHANNEL_COLLATOR.compare(a.id, b.id);
       });
-      choices.slice(0, 8).forEach(({ id, displayName, sourceId, sourceName }) => {
-        const option = document.createElement("button");
-        option.type = "button";
-        option.className = "match-option";
-        const name = document.createElement("span");
-        name.textContent = displayName;
-        const details = document.createElement("span");
-        details.textContent = `${sourceName} · ${id}`;
-        option.addEventListener("click", () => {
-          channel.epgId = id;
-          channel.sourceId = sourceId;
-          persistEdits();
-          renderEditor();
-          renderList();
-          updateStats();
-        });
-        option.append(name, details);
-        results.append(option);
-      });
-      if (!choices.length) {
-        const noMatches = document.createElement("span");
-        noMatches.className = "no-matches";
-        noMatches.textContent = "No channel matches in the loaded guides. Enter an ID and press Enter to use it anyway.";
-        results.append(noMatches);
-      }
+      suggestionChoices = choices;
+      renderSuggestionPage();
     };
     matchInput.addEventListener("input", renderSuggestions);
     matchInput.addEventListener("keydown", (event) => {
