@@ -455,6 +455,20 @@
     return true;
   }
 
+  function moveChannelToGroup(channel, newGroupName) {
+    const previousGroup = channel.group;
+    if (newGroupName === previousGroup) return;
+
+    channel.group = newGroupName;
+    if (state.group === previousGroup) state.group = newGroupName;
+    state.page = 0;
+    persistEdits();
+    updateGroupFilter();
+    renderList();
+    renderEditor();
+    updateStats();
+  }
+
   function beginGroupRename(groupName, heading) {
     const input = document.createElement("input");
     input.type = "text";
@@ -687,6 +701,17 @@
     nameInput.addEventListener("change", persistEdits);
     nameField.append(nameLabel, nameInput);
 
+    const groupField = document.createElement("div");
+    groupField.className = "form-field";
+    const groupLabel = document.createElement("label");
+    groupLabel.textContent = "Channel group";
+    const groupSelect = document.createElement("select");
+    groupSelect.className = "group-select";
+    uniqueGroups().forEach((group) => groupSelect.add(new Option(group, group)));
+    groupSelect.value = channel.group;
+    groupSelect.addEventListener("change", () => moveChannelToGroup(channel, groupSelect.value));
+    groupField.append(groupLabel, groupSelect);
+
     const matchField = document.createElement("div");
     matchField.className = "form-field";
     const currentSource = state.sources.get(channel.sourceId);
@@ -857,7 +882,7 @@
     const editorActions = document.createElement("div");
     editorActions.className = "editor-actions";
     editorActions.append(removeButton);
-    ui.channelEditor.append(header, nameField, matchField, note, editorActions);
+    ui.channelEditor.append(header, nameField, groupField, matchField, note, editorActions);
     renderNowPlaying();
   }
 
