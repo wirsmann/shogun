@@ -1,1 +1,2 @@
-powershell.exe -ExecutionPolicy Bypass -File C:\GitHub\shogun\gitSync.ps1
+@echo off
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0gitSync.ps1" %*

@@ -48,6 +48,14 @@ if (-not $Git) {
     exit 1
 }
 
+$Branch = & $Git -C $Repo symbolic-ref --quiet --short HEAD 2>$null
+if ($LASTEXITCODE -ne 0) {
+    Write-Host "This repository is in detached HEAD state; no playlists have been changed." -ForegroundColor Red
+    Write-Host "Check out the branch you use for publishing (usually main), then rerun this script." -ForegroundColor Yellow
+    Write-Host "If a previous run committed changes while detached, preserve that commit before switching branches." -ForegroundColor Yellow
+    exit 1
+}
+
 # ------------------------------------------------------------ build playlists
 $failed = @()
 foreach ($r in $Runs) {
