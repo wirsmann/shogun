@@ -3670,6 +3670,35 @@
       "remove": true
     },
     {
+      "id": "WyIiLCJDTkJDIEhEIiwiQ0FOQURBIEdFTkVSQUwiLCJDTkJDIEhEIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CNBC HD",
+        "group_title": "CANADA GENERAL",
+        "title": "CNBC HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "tvg_id": "cnbc.us",
+        "epg_source": "segment-15vn3on"
+      }
+    },
+    {
+      "id": "WyIiLCJDTk4gSEQiLCJDQU5BREEgR0VORVJBTCIsIkNOTiBIRCIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CNN HD",
+        "group_title": "CANADA GENERAL",
+        "title": "CNN HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "tvg_id": "cnn.us"
+      }
+    },
+    {
       "id": "WyIiLCJVTklWSVNJT04gSEQiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlVOSVZJU0lPTiBIRCIsIiIsMF0",
       "match": {
         "tvg_id": "",
@@ -4800,6 +4829,35 @@
       "set": {
         "tvg_id": "fxxwest.us",
         "epg_source": "segment-o44iao"
+      }
+    },
+    {
+      "id": "WyIiLCJHQU1FIFRWIEhEIiwiVVNBIEVOVEVSVEFJTk1FTlQg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkdBTUUgVFYgSEQiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "GAME TV HD",
+        "group_title": "USA ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "GAME TV HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "tvg_id": "GameTV.ca"
+      }
+    },
+    {
+      "id": "WyIiLCJHYW1lIFNob3cgQ2VudHJhbCIsIlVTQSBFTlRFUlRBSU5NRU5UIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJHYW1lIFNob3cgQ2VudHJhbCIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "Game Show Central",
+        "group_title": "USA ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "Game Show Central",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "tvg_id": "gameshowcentral.us",
+        "epg_source": "segment-1tdv6qt"
       }
     },
     {

@@ -22,6 +22,7 @@
     configuration: { version: 1, playlist: "*", channels: [] },
     sources: new Map(),
     selectedKey: null,
+    previewedMatch: null,
     query: "",
     group: "",
     unmatchedOnly: false,
@@ -596,6 +597,7 @@
       button.setAttribute("aria-current", channel.key === state.selectedKey ? "true" : "false");
       button.addEventListener("click", () => {
         state.selectedKey = channel.key;
+        state.previewedMatch = null;
         renderList();
         renderEditor();
       });
@@ -761,23 +763,46 @@
 
       const start = suggestionPage * suggestionsPerPage;
       suggestionChoices.slice(start, start + suggestionsPerPage).forEach(({ id, displayName, sourceId, sourceName }) => {
+        const row = document.createElement("div");
+        row.className = "match-option-row";
         const option = document.createElement("button");
         option.type = "button";
         option.className = "match-option";
+        const isPreviewed = state.previewedMatch &&
+          state.previewedMatch.channelKey === channel.key &&
+          state.previewedMatch.id === id &&
+          state.previewedMatch.sourceId === sourceId;
+        option.setAttribute("aria-pressed", String(Boolean(isPreviewed)));
         const name = document.createElement("span");
         name.textContent = displayName;
         const details = document.createElement("span");
         details.textContent = `${sourceName} · ${id}`;
         option.addEventListener("click", () => {
-          channel.epgId = id;
-          channel.sourceId = sourceId;
-          persistEdits();
-          renderEditor();
-          renderList();
-          updateStats();
+          state.previewedMatch = { channelKey: channel.key, id, displayName, sourceId, sourceName };
+          renderSuggestionPage();
+          results.querySelector(".match-assign").focus();
+          renderNowPlaying();
         });
         option.append(name, details);
-        results.append(option);
+        row.append(option);
+        if (isPreviewed) {
+          const assignButton = document.createElement("button");
+          assignButton.type = "button";
+          assignButton.className = "match-assign";
+          assignButton.textContent = "Assign";
+          assignButton.setAttribute("aria-label", `Assign ${displayName} to ${channel.name}`);
+          assignButton.addEventListener("click", () => {
+            channel.epgId = id;
+            channel.sourceId = sourceId;
+            state.previewedMatch = null;
+            persistEdits();
+            renderEditor();
+            renderList();
+            updateStats();
+          });
+          row.append(assignButton);
+        }
+        results.append(row);
       });
 
       const pageCount = Math.ceil(suggestionChoices.length / suggestionsPerPage);
@@ -817,6 +842,8 @@
     };
     const renderSuggestions = () => {
       const query = matchInput.value.trim().toLocaleLowerCase();
+      state.previewedMatch = null;
+      renderNowPlaying();
       suggestionChoices = [];
       suggestionPage = 0;
       if (!query) {
@@ -891,7 +918,15 @@
   }
 
   function renderNowPlaying() {
-    const channel = getCurrentChannel();
+    const selectedChannel = getCurrentChannel();
+    const preview = state.previewedMatch &&
+      selectedChannel &&
+      state.previewedMatch.channelKey === selectedChannel.key
+      ? state.previewedMatch
+      : null;
+    const channel = preview
+      ? { epgId: preview.id, sourceId: preview.sourceId, name: preview.displayName, removed: false }
+      : selectedChannel;
     const now = Date.now();
     ui.guideClock.textContent = new Intl.DateTimeFormat(undefined, {
       hour: "numeric", minute: "2-digit", timeZoneName: "short"
@@ -936,7 +971,9 @@
     const { item, isNext } = result;
     const label = document.createElement("span");
     label.className = "programme-label";
-    label.textContent = isNext ? "Up next" : "On now";
+    label.textContent = preview
+      ? (isNext ? "Preview · up next" : "Preview · on now")
+      : (isNext ? "Up next" : "On now");
     const title = document.createElement("h3");
     title.className = "programme-title";
     title.textContent = item.title;
@@ -1071,6 +1108,7 @@
       state.channels = parsed.channels;
       state.playlistName = file.name;
       state.selectedKey = null;
+      state.previewedMatch = null;
       state.page = 0;
       if (state.configuration.playlist === "*" || state.configuration.playlist === state.playlistName) {
         applyExistingConfiguration(state.configuration);
@@ -1284,6 +1322,7 @@
   ui.removedFilter.addEventListener("change", () => {
     state.showRemoved = ui.removedFilter.checked;
     state.selectedKey = null;
+    state.previewedMatch = null;
     state.page = 0;
     renderList();
     renderEditor();
