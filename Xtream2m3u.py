@@ -428,6 +428,7 @@ def foreign_name(name):
 # Replace matching text in all emitted live, movie, and series group titles.
 # Add entries here to customize group names.
 GROUP_REPLACEMENTS = {
+    "8K|": "",
     "CA| CANADA": "CANADA",
     "CA|": "CANADA",
     "US|": "USA",
