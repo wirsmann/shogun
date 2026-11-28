@@ -27,6 +27,7 @@ starts with a word in VOD_ALLOW (ENGLISH, EN, NETFLIX, DISNEY+, ...)
 time (default 10). --list-categories saves every category name, marked
 KEEP or DROP, to categories.txt.
 Edit GROUP_REPLACEMENTS below to rename text in emitted group titles.
+Edit HIDDEN_GROUP_SUBSTRINGS below to hide groups by matching part of their name.
 
 The TV guide is saved to EPG.xml (--epg-file to rename, --no-epg to skip),
 trimmed to just the live channels kept in the playlist. Channels in the
@@ -425,6 +426,16 @@ def foreign_name(name):
     return bool(m) and m.group(1) not in NAME_CODES_KEEP
 
 
+# Any group containing one of these strings is hidden (case-insensitive).
+# Add more strings here to hide additional groups.
+HIDDEN_GROUP_SUBSTRINGS = ("TELEMUNDO NETWORK",)
+
+
+def hidden_group(group):
+    up = str(group or "").upper()
+    return any(term.upper() in up for term in HIDDEN_GROUP_SUBSTRINGS if term)
+
+
 # Replace matching text in all emitted live, movie, and series group titles.
 # Add entries here to customize group names.
 GROUP_REPLACEMENTS = {
@@ -598,7 +609,7 @@ def main():
         drop.append("uk")
 
     def keep_live(group):
-        if excluded(group, drop) or is_french_canada(group):
+        if hidden_group(group) or excluded(group, drop) or is_french_canada(group):
             return False
         if a.all:
             return True
@@ -609,6 +620,8 @@ def main():
     def keep_vod(group):
         # Movie/series categories: keep only VOD_ALLOW names, minus VOD_DENY
         up = str(group or "").upper()
+        if hidden_group(group):
+            return False
         if is_adult(group):
             return a.keep_adult  # adult categories: only with --keep-adult
         if a.all or a.vod_all:
@@ -667,6 +680,8 @@ def main():
     for s in live:
         name = clean(s.get("name"))
         group = cats.get(str(s.get("category_id")), "Live")
+        if hidden_group(group):
+            continue
         if adult(group):  # adult filtering looks at the category only
             continue
         if is_separator(name):
