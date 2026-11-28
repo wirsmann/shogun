@@ -26,6 +26,7 @@ starts with a word in VOD_ALLOW (ENGLISH, EN, NETFLIX, DISNEY+, ...)
 (--vod-all keeps them all), and series episodes are fetched --workers at a
 time (default 10). --list-categories saves every category name, marked
 KEEP or DROP, to categories.txt.
+Edit GROUP_REPLACEMENTS below to rename text in emitted group titles.
 
 The TV guide is saved to EPG.xml (--epg-file to rename, --no-epg to skip),
 trimmed to just the live channels kept in the playlist. Channels in the
@@ -424,9 +425,21 @@ def foreign_name(name):
     return bool(m) and m.group(1) not in NAME_CODES_KEEP
 
 
+# Replace matching text in all emitted live, movie, and series group titles.
+# Add entries here to customize group names.
+GROUP_REPLACEMENTS = {
+    "CA|": "CANADA",
+    "US|": "USA",
+    "UK|": "UK",
+}
+
+
 def tidy_group(group):
     # "CA| GENERAL EN" -> "CA| GENERAL"
-    return re.sub(r"\s+EN\s*$", "", str(group or ""), flags=re.I).strip() or group
+    result = re.sub(r"\s+EN\s*$", "", str(group or ""), flags=re.I).strip()
+    for old, new in GROUP_REPLACEMENTS.items():
+        result = result.replace(old, new)
+    return result or group
 
 
 # ---------------------------------------------------------------- filters
