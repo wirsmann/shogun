@@ -4788,6 +4788,21 @@
       }
     },
     {
+      "id": "WyJGWFgudXMiLCJGWFggV0VTVCBIRCIsIlVTQSBFTlRFUlRBSU5NRU5UIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJGWFggV0VTVCBIRCIsIiIsMF0",
+      "match": {
+        "tvg_id": "FXX.us",
+        "tvg_name": "FXX WEST HD",
+        "group_title": "USA ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "FXX WEST HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "tvg_id": "fxxwest.us",
+        "epg_source": "segment-o44iao"
+      }
+    },
+    {
       "id": "WyJRVkNQbHVzLnVzIiwiUVZDIDIgSEQiLCJVU0EgRU5URVJUQUlOTUVOVCDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUVZDIDIgSEQiLCIiLDBd",
       "match": {
         "tvg_id": "QVCPlus.us",
