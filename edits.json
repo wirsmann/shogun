@@ -1,0 +1,4705 @@
+{
+  "version": 1,
+  "playlist": "*",
+  "channels": [
+    {
+      "id": "WyJza3lzcG9ydHNuZXdzLnVrIiwiU0tZIFNQT1JUIE5FV1Mg4bS_4bSs4bWCIiwiU1BPUlQgT04gQUlSIOKBuOG0tyIsIlNLWSBTUE9SVCBORVdTIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "skysportsnews.uk",
+        "tvg_name": "SKY SPORT NEWS ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT NEWS ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNjcmlja2V0LnVrIiwiU0tZIFNQT1JUIENLUkVDS1Qg4bS_4bSs4bWCIiwiU1BPUlQgT04gQUlSIOKBuOG0tyIsIlNLWSBTUE9SVCBDS1JFQ0tUIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "skysportscricket.uk",
+        "tvg_name": "SKY SPORT CKRECKT ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT CKRECKT ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNtYWluZXZlbnQudWsiLCJTS1kgU1BPUlQgTUFJTiBFVkVOVCDhtL_htKzhtYIiLCJTUE9SVCBPTiBBSVIg4oG44bS3IiwiU0tZIFNQT1JUIE1BSU4gRVZFTlQg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "skysportsmainevent.uk",
+        "tvg_name": "SKY SPORT MAIN EVENT ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT MAIN EVENT ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNhY3Rpb24udWsiLCJTS1kgU1BPUlQgQUNUSU9OIOG0v-G0rOG1giIsIlNQT1JUIE9OIEFJUiDigbjhtLciLCJTS1kgU1BPUlQgQUNUSU9OIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "skysportsaction.uk",
+        "tvg_name": "SKY SPORT ACTION ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT ACTION ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNmMS51ayIsIlNLWSBTUE9SVCBGMSDhtL_htKzhtYIiLCJTUE9SVCBPTiBBSVIg4oG44bS3IiwiU0tZIFNQT1JUIEYxIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "skysportsf1.uk",
+        "tvg_name": "SKY SPORT F1 ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT F1 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNnb2xmLnVrIiwiU0tZIFNQT1JUIEdPTEYg4bS_4bSs4bWCIiwiU1BPUlQgT04gQUlSIOKBuOG0tyIsIlNLWSBTUE9SVCBHT0xGIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "skysportsgolf.uk",
+        "tvg_name": "SKY SPORT GOLF ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT GOLF ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNtaXgudWsiLCJTS1kgU1BPUlQgTUlYIOG0v-G0rOG1giIsIlNQT1JUIE9OIEFJUiDigbjhtLciLCJTS1kgU1BPUlQgTUlYIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "skysportsmix.uk",
+        "tvg_name": "SKY SPORT MIX ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT MIX ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyIiLCJTS1kgU1BPUlQgUExVUyDhtL_htKzhtYIiLCJTUE9SVCBPTiBBSVIg4oG44bS3IiwiU0tZIFNQT1JUIFBMVVMg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "SKY SPORT PLUS ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT PLUS ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNwcmVtaWVyZWxlYWd1ZS51ayIsIlNLWSBTUE9SVCBQUklNRSBMSUdFIOG0v-G0rOG1giIsIlNQT1JUIE9OIEFJUiDigbjhtLciLCJTS1kgU1BPUlQgUFJJTUUgTElHRSDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "skysportspremiereleague.uk",
+        "tvg_name": "SKY SPORT PRIME LIGE ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT PRIME LIGE ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNyYWNpbmcudWsiLCJTS1kgU1BPUlQgUkFDSU5HIOG0v-G0rOG1giIsIlNQT1JUIE9OIEFJUiDigbjhtLciLCJTS1kgU1BPUlQgUkFDSU5HIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "skysportsracing.uk",
+        "tvg_name": "SKY SPORT RACING ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT RACING ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHN0ZW5uaXMudWsiLCJTS1kgU1BPUlQgVEVOTklTIOG0v-G0rOG1giIsIlNQT1JUIE9OIEFJUiDigbjhtLciLCJTS1kgU1BPUlQgVEVOTklTIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "skysportstennis.uk",
+        "tvg_name": "SKY SPORT TENNIS ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT TENNIS ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3l3aXRuZXNzLnVrIiwiU0tZIFdJVE5FU1Mg4bS_4bSs4bWCIiwiU1BPUlQgT04gQUlSIOKBuOG0tyIsIlNLWSBXSVRORVNTIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "skywitness.uk",
+        "tvg_name": "SKY WITNESS ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "SKY WITNESS ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJ0bnRzcG9ydHMxLnVrIiwiVE5UIFNQT1JUIDEg4bS_4bSs4bWCIiwiU1BPUlQgT04gQUlSIOKBuOG0tyIsIlROVCBTUE9SVCAxIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "tntsports1.uk",
+        "tvg_name": "TNT SPORT 1 ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "TNT SPORT 1 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJ0bnRzcG9ydHMyLnVrIiwiVE5UIFNQT1JUIDIg4bS_4bSs4bWCIiwiU1BPUlQgT04gQUlSIOKBuOG0tyIsIlROVCBTUE9SVCAyIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "tntsports2.uk",
+        "tvg_name": "TNT SPORT 2 ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "TNT SPORT 2 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJ0bnRzcG9ydHMzLnVrIiwiVE5UIFNQT1JUIDMg4bS_4bSs4bWCIiwiU1BPUlQgT04gQUlSIOKBuOG0tyIsIlROVCBTUE9SVCAzIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "tntsports3.uk",
+        "tvg_name": "TNT SPORT 3 ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "TNT SPORT 3 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJ0bnRzcG9ydHM0LnVrIiwiVE5UIFNQT1JUIDQg4bS_4bSs4bWCIiwiU1BPUlQgT04gQUlSIOKBuOG0tyIsIlROVCBTUE9SVCA0IOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "tntsports4.uk",
+        "tvg_name": "TNT SPORT 4 ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "TNT SPORT 4 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJza3lzcG9ydHNmb290YmFsbC51ayIsIlNLWSBTUE9SVCBGT09UQkFMTCDhtL_htKzhtYIiLCJTUE9SVCBPTiBBSVIg4oG44bS3IiwiU0tZIFNQT1JUIEZPT1RCQUxMIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "skysportsfootball.uk",
+        "tvg_name": "SKY SPORT FOOTBALL ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "SKY SPORT FOOTBALL ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJwcmVtaWVyc3BvcnRzMS51ayIsIlBSRU1JRVIgU1BPUlQgMSDhtL_htKzhtYIiLCJTUE9SVCBPTiBBSVIg4oG44bS3IiwiUFJFTUlFUiBTUE9SVCAxIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "premiersports1.uk",
+        "tvg_name": "PREMIER SPORT 1 ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "PREMIER SPORT 1 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyJwcmVtaWVyc3BvcnRzMi51ayIsIlBSRU1JRVIgU1BPUlQgMiDhtL_htKzhtYIiLCJTUE9SVCBPTiBBSVIg4oG44bS3IiwiUFJFTUlFUiBTUE9SVCAyIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "premiersports2.uk",
+        "tvg_name": "PREMIER SPORT 2 ᴿᴬᵂ",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "PREMIER SPORT 2 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyIiLCJQUFY6IFVGQyBNQUlOIEVWRU5UIiwiU1BPUlQgT04gQUlSIOKBuOG0tyIsIlBQVjogVUZDIE1BSU4gRVZFTlQiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PPV: UFC MAIN EVENT",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "PPV: UFC MAIN EVENT",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyIiLCJQUFY6IFdXRSBNQUlOIEVWRU5UIiwiU1BPUlQgT04gQUlSIOKBuOG0tyIsIlBQVjogV1dFIE1BSU4gRVZFTlQiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PPV: WWE MAIN EVENT",
+        "group_title": "SPORT ON AIR ⁸ᴷ",
+        "title": "PPV: WWE MAIN EVENT",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "SPORT ON AIR"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogQURVTFQgU1dJTSDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IEFEVUxUIFNXSU0g4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: ADULT SWIM ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: ADULT SWIM ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogQU1DIENBTkFEQSDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IEFNQyBDQU5BREEg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: AMC CANADA ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: AMC CANADA ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogQU1DKyBDQU5BREEg4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBBTUMrIENBTkFEQSDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: AMC+ CANADA ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: AMC+ CANADA ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogQkJDIEVBUlRIIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogQkJDIEVBUlRIIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: BBC EARTH ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: BBC EARTH ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogQkxPT01CRVJHIFRWKyDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IEJMT09NQkVSRyBUVisg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: BLOOMBERG TV+ ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: BLOOMBERG TV+ ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogQlJBVk8g4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBCUkFWTyDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: BRAVO ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: BRAVO ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogQ0FSVE9PTiBORVRXT1JLIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogQ0FSVE9PTiBORVRXT1JLIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: CARTOON NETWORK ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: CARTOON NETWORK ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogQ0lUWU5FV1MgMjQvNyDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IENJVFlORVdTIDI0Lzcg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: CITYNEWS 24/7 ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: CITYNEWS 24/7 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogQ0lUWU5FV1MgMjQvNyBXRVNUIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogQ0lUWU5FV1MgMjQvNyBXRVNUIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: CITYNEWS 24/7 WEST ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: CITYNEWS 24/7 WEST ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogQ0lUWVRWIENBTEdBUlkg4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBDSVRZVFYgQ0FMR0FSWSDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: CITYTV CALGARY ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: CITYTV CALGARY ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogQ0lUWVRWIEVETU9OVE9OIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogQ0lUWVRWIEVETU9OVE9OIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: CITYTV EDMONTON ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: CITYTV EDMONTON ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogQ0lUWVRWIE1PTlRSRUFMIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogQ0lUWVRWIE1PTlRSRUFMIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: CITYTV MONTREAL ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: CITYTV MONTREAL ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogQ0lUWVRWIFZBTkNPVVZFUiDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IENJVFlUViBWQU5DT1VWRVIg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: CITYTV VANCOUVER ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: CITYTV VANCOUVER ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogRElTQ09WRVJZIENIQU5ORUwg4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBESVNDT1ZFUlkgQ0hBTk5FTCDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: DISCOVERY CHANNEL ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: DISCOVERY CHANNEL ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogRElTTkVZIENIQU5ORUwg4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBESVNORVkgQ0hBTk5FTCDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: DISNEY CHANNEL ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: DISNEY CHANNEL ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogRFRPVVIg4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBEVE9VUiDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: DTOUR ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: DTOUR ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogRkxBVk9VUiBORVRXT1JLIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogRkxBVk9VUiBORVRXT1JLIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: FLAVOUR NETWORK ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: FLAVOUR NETWORK ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogRk9PRCBORVRXT1JLIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogRk9PRCBORVRXT1JLIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: FOOD NETWORK ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: FOOD NETWORK ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogRlgg4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBGWCDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: FX ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: FX ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogRlhYIENBTkFEQSDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IEZYWCBDQU5BREEg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: FXX CANADA ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: FXX CANADA ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogR0xPQkFMIEJDIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogR0xPQkFMIEJDIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: GLOBAL BC ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: GLOBAL BC ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogR0xPQkFMIENBTEdBUlkg4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBHTE9CQUwgQ0FMR0FSWSDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: GLOBAL CALGARY ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: GLOBAL CALGARY ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogR0xPQkFMIEVETU9OVE9OIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogR0xPQkFMIEVETU9OVE9OIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: GLOBAL EDMONTON ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: GLOBAL EDMONTON ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogR0xPQkFMIE1BUklUSU1FUyDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IEdMT0JBTCBNQVJJVElNRVMg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: GLOBAL MARITIMES ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: GLOBAL MARITIMES ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogR0xPQkFMIE5FV1MgQkMg4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBHTE9CQUwgTkVXUyBCQyDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: GLOBAL NEWS BC ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: GLOBAL NEWS BC ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogR0xPQkFMIE5FV1MgQ0FMR0FSWSDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IEdMT0JBTCBORVdTIENBTEdBUlkg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: GLOBAL NEWS CALGARY ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: GLOBAL NEWS CALGARY ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogR0xPQkFMIE5FV1MgRURNT05UT04g4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBHTE9CQUwgTkVXUyBFRE1PTlRPTiDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: GLOBAL NEWS EDMONTON ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: GLOBAL NEWS EDMONTON ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogR0xPQkFMIE5FV1MgVE9ST05UTyDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IEdMT0JBTCBORVdTIFRPUk9OVE8g4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: GLOBAL NEWS TORONTO ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: GLOBAL NEWS TORONTO ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogSEdUViDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IEhHVFYg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: HGTV ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: HGTV ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogSElTVE9SWSDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IEhJU1RPUlkg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: HISTORY ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: HISTORY ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogSE9MTFlXT09EIFNVSVRFIDIwMDBTIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogSE9MTFlXT09EIFNVSVRFIDIwMDBTIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: HOLLYWOOD SUITE 2000S ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: HOLLYWOOD SUITE 2000S ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogSE9MTFlXT09EIFNVSVRFIDIwMTBTKyDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IEhPTExZV09PRCBTVUlURSAyMDEwUysg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: HOLLYWOOD SUITE 2010S+ ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: HOLLYWOOD SUITE 2010S+ ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogSE9MTFlXT09EIFNVSVRFIDcwUysg4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBIT0xMWVdPT0QgU1VJVEUgNzBTKyDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: HOLLYWOOD SUITE 70S+ ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: HOLLYWOOD SUITE 70S+ ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogSE9MTFlXT09EIFNVSVRFIDgwUyAmIDkwUyDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IEhPTExZV09PRCBTVUlURSA4MFMgJiA5MFMg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: HOLLYWOOD SUITE 80S & 90S ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: HOLLYWOOD SUITE 80S & 90S ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogSE9NRSBORVRXT1JLIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogSE9NRSBORVRXT1JLIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: HOME NETWORK ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: HOME NETWORK ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogSU5WRVNUSUdBVElPTiBESVNDT1ZFUlkg4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBJTlZFU1RJR0FUSU9OIERJU0NPVkVSWSDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: INVESTIGATION DISCOVERY ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: INVESTIGATION DISCOVERY ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogTElGRVRJTUUgKENBTkFEQSkg4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBMSUZFVElNRSAoQ0FOQURBKSDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: LIFETIME (CANADA) ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: LIFETIME (CANADA) ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogTUFHTk9MSUEgTkVUV09SSyDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IE1BR05PTElBIE5FVFdPUksg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: MAGNOLIA NETWORK ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: MAGNOLIA NETWORK ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogTkFUSU9OQUwgR0VPR1JBUEhJQyDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IE5BVElPTkFMIEdFT0dSQVBISUMg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: NATIONAL GEOGRAPHIC ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: NATIONAL GEOGRAPHIC ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogT01OSSBURUxFVklTSU9OIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogT01OSSBURUxFVklTSU9OIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: OMNI TELEVISION ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: OMNI TELEVISION ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      },
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJQUklNRTogU0hPV0NBU0Ug4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBTSE9XQ0FTRSDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: SHOWCASE ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: SHOWCASE ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogU0xJQ0Ug4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBTTElDRSDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: SLICE ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: SLICE ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogU1RBUloxIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogU1RBUloxIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: STARZ1 ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: STARZ1 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogU1RBUloyIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogU1RBUloyIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: STARZ2 ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: STARZ2 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogU1VQRVIgQ0hBTk5FTCBGVVNFIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogU1VQRVIgQ0hBTk5FTCBGVVNFIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: SUPER CHANNEL FUSE ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: SUPER CHANNEL FUSE ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogU1VQRVIgQ0hBTk5FTCBIRUFSVCAmIEhPTUUg4bS_4bSs4bWCIiwiQ0FOQURBIFBSSU1FIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlBSSU1FOiBTVVBFUiBDSEFOTkVMIEhFQVJUICYgSE9NRSDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: SUPER CHANNEL HEART & HOME ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: SUPER CHANNEL HEART & HOME ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogU1VQRVIgQ0hBTk5FTCBRVUVTVCDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IFNVUEVSIENIQU5ORUwgUVVFU1Qg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: SUPER CHANNEL QUEST ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: SUPER CHANNEL QUEST ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogU1VQRVIgQ0hBTk5FTCBWQVVMVCDhtL_htKzhtYIiLCJDQU5BREEgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IFNVUEVSIENIQU5ORUwgVkFVTFQg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: SUPER CHANNEL VAULT ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: SUPER CHANNEL VAULT ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogVEhFIFdBTEtJTkcgREVBRCBDSEFOTkVMIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogVEhFIFdBTEtJTkcgREVBRCBDSEFOTkVMIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: THE WALKING DEAD CHANNEL ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: THE WALKING DEAD CHANNEL ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogVFJFRUhPVVNFIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogVFJFRUhPVVNFIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: TREEHOUSE ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: TREEHOUSE ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogVyBORVRXT1JLIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogVyBORVRXT1JLIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: W NETWORK ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: W NETWORK ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJQUklNRTogWVRWIOG0v-G0rOG1giIsIkNBTkFEQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogWVRWIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: YTV ᴿᴬᵂ",
+        "group_title": "CANADA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: YTV ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA PRIME"
+      }
+    },
+    {
+      "id": "WyIiLCJUVkEgSFVMTCBIRCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiVFZBIEhVTEwgSEQiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TVA HULL HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TVA HULL HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJBYW5kRS5jYSIsIkEgJiBFIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJBICYgRSIsIiIsMF0",
+      "match": {
+        "tvg_id": "AandE.ca",
+        "tvg_name": "A & E",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "A & E",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJIUEl0di5jYSIsIkhQaVRWIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJIUGlUViIsIiIsMF0",
+      "match": {
+        "tvg_id": "HPItv.ca",
+        "tvg_name": "HPiTV",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "HPiTV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJBZGRpa1RWLmNhIiwiQURESUsgVFYiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkFERElLIFRWIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "AddikTV.ca",
+        "tvg_name": "ADDIK TV",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "ADDIK TV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      },
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJBSEMiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkFIQyIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "AHC",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "AHC",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJBTUMuY2EiLCJBTUMiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkFNQyIsIiIsMF0",
+      "match": {
+        "tvg_id": "AMC.ca",
+        "tvg_name": "AMC",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "AMC",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJBbmltYWxQbGFuZXQuY2EiLCJBTklNQUwgUExBTkVUIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJBTklNQUwgUExBTkVUIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "AnimalPlanet.ca",
+        "tvg_name": "ANIMAL PLANET",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "ANIMAL PLANET",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJBUFROLmNhIiwiQVBUTiIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQVBUTiIsIiIsMF0",
+      "match": {
+        "tvg_id": "APTN.ca",
+        "tvg_name": "APTN",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "APTN",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      },
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJCQkMgQ0FOQURBIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJCQkMgQ0FOQURBIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "BBC CANADA",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "BBC CANADA",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJCQkNXb3JsZC5jYSIsIkJCQyBXT1JMRCBORVdTIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJCQkMgV09STEQgTkVXUyIsIiIsMF0",
+      "match": {
+        "tvg_id": "BBCWorld.ca",
+        "tvg_name": "BBC WORLD NEWS",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "BBC WORLD NEWS",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJCZXN0IEhpdHMgUmFkaW8gODAncyIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQmVzdCBIaXRzIFJhZGlvIDgwJ3MiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "Best Hits Radio 80's",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "Best Hits Radio 80's",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJCRVQuY2EiLCJCRVQiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkJFVCIsIiIsMF0",
+      "match": {
+        "tvg_id": "BET.ca",
+        "tvg_name": "BET",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "BET",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJCdXNpbmVzc05ld3NOZXR3b3JrQmxvb21iZXJnLmNhIiwiQk5OIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJCTk4iLCIiLDBd",
+      "match": {
+        "tvg_id": "BusinessNewsNetworkBloomberg.ca",
+        "tvg_name": "BNN",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "BNN",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJCcmF2by51cyIsIkJSQVZPIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJCUkFWTyIsIiIsMF0",
+      "match": {
+        "tvg_id": "Bravo.us",
+        "tvg_name": "BRAVO",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "BRAVO",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDYW5hbEQuY2EiLCJDQU5BTCBEIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJDQU5BTCBEIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "CanalD.ca",
+        "tvg_name": "CANAL D",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CANAL D",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      },
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJDVFYgTEVUSEJSSURHRSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ1RWIExFVEhCUklER0UiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CTV LETHBRIDGE",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV LETHBRIDGE",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDYXJ0b29uTmV0d29yay5jYSIsIkNBUlRPT04gTkVUV09SSyIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ0FSVE9PTiBORVRXT1JLIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "CartoonNetwork.ca",
+        "tvg_name": "CARTOON NETWORK",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CARTOON NETWORK",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDQlJULmNhIiwiQ0JDIENBTEdBUlkiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNCQyBDQUxHQVJZIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "CBRT.ca",
+        "tvg_name": "CBC CALGARY",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CBC CALGARY",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJnbG9iYWxuZXdzYmMxLmNhIiwiR0xPQkFMIE5FV1MiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkdMT0JBTCBORVdTIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "globalnewsbc1.ca",
+        "tvg_name": "GLOBAL NEWS",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "GLOBAL NEWS",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJaRUUgVFYgQ0FOQURBIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJaRUUgVFYgQ0FOQURBIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "ZEE TV CANADA",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "ZEE TV CANADA",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDQk1ULmNhIiwiQ0JDIE1PTlRSRUFMIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJDQkMgTU9OVFJFQUwiLCIiLDBd",
+      "match": {
+        "tvg_id": "CBMT.ca",
+        "tvg_name": "CBC MONTREAL",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CBC MONTREAL",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDQkNOZXdzLmNhIiwiQ0JDIE5FV1MiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNCQyBORVdTIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "CBCNews.ca",
+        "tvg_name": "CBC NEWS",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CBC NEWS",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDQkNPdHRhd2EuY2EiLCJDQkMgT1RUQVdBIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJDQkMgT1RUQVdBIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "CBCOttawa.ca",
+        "tvg_name": "CBC OTTAWA",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CBC OTTAWA",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDQkMuY2EiLCJDQkMgVE9ST05UTyIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ0JDIFRPUk9OVE8iLCIiLDBd",
+      "match": {
+        "tvg_id": "CBC.ca",
+        "tvg_name": "CBC TORONTO",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CBC TORONTO",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDQlVULmNhIiwiQ0JDIFZBTkNPVVZFUiIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ0JDIFZBTkNPVVZFUiIsIiIsMF0",
+      "match": {
+        "tvg_id": "CBUT.ca",
+        "tvg_name": "CBC VANCOUVER",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CBC VANCOUVER",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDQlMgRUFTVCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ0JTIEVBU1QiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CBS EAST",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CBS EAST",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDQlMgV0VTVCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ0JTIFdFU1QiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CBS WEST",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CBS WEST",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDSENILmNhIiwiQ0hDSCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ0hDSCIsIiIsMF0",
+      "match": {
+        "tvg_id": "CHCH.ca",
+        "tvg_name": "CHCH",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CHCH",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDaW5lcG9wLmNhIiwiQ0lORVBPUCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ0lORVBPUCIsIiIsMF0",
+      "match": {
+        "tvg_id": "Cinepop.ca",
+        "tvg_name": "CINEPOP",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CINEPOP",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDSVRZIFRWIENBTEdBUlkgSEQiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNJVFkgVFYgQ0FMR0FSWSBIRCIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CITY TV CALGARY HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CITY TV CALGARY HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDSVRZIFRWIE1PTlRSRUFMIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJDSVRZIFRWIE1PTlRSRUFMIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CITY TV MONTREAL",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CITY TV MONTREAL",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDSVRZIFRWIFRPUk9OVE8iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNJVFkgVFYgVE9ST05UTyIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CITY TV TORONTO",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CITY TV TORONTO",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDSldWIE9sZGllcyA5Ni43IEZNIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJDSldWIE9sZGllcyA5Ni43IEZNIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CJWV Oldies 96.7 FM",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CJWV Oldies 96.7 FM",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDSVRZIFRWICBXSU5OSVBFRyBIRCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ0lUWSBUViAgV0lOTklQRUcgSEQiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CITY TV  WINNIPEG HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CITY TV  WINNIPEG HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDSVRZIFRWIFNBU0tBVENIRVdBTiBIRCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ0lUWSBUViBTQVNLQVRDSEVXQU4gSEQiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CITY TV SASKATCHEWAN HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CITY TV SASKATCHEWAN HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDaXR5VFZWYW5jb3V2ZXIuY2EiLCJDSVRZIFRWIFZBTkNPVVZFUiIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ0lUWSBUViBWQU5DT1VWRVIiLCIiLDBd",
+      "match": {
+        "tvg_id": "CityTVVancouver.ca",
+        "tvg_name": "CITY TV VANCOUVER",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CITY TV VANCOUVER",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDTVQuY2EiLCJDTVQgQ0FOQURBIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJDTVQgQ0FOQURBIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "CMT.ca",
+        "tvg_name": "CMT CANADA",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CMT CANADA",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDTkJDIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJDTkJDIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CNBC",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CNBC",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDTk4iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNOTiIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CNN",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CNN",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDTk4gSU5URVJOQVRJT05BTCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ05OIElOVEVSTkFUSU9OQUwiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CNN INTERNATIONAL",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CNN INTERNATIONAL",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDb29raW5nQ2hhbm5lbC5jYSIsIkNPT0tJTkcgQ0hBTk5FTCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ09PS0lORyBDSEFOTkVMIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "CookingChannel.ca",
+        "tvg_name": "COOKING CHANNEL",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "COOKING CHANNEL",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJjb3R0YWdlbGlmZS5jYSIsIkNPVFRBR0UgTElGRSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ09UVEFHRSBMSUZFIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "cottagelife.ca",
+        "tvg_name": "COTTAGE LIFE",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "COTTAGE LIFE",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDcDI0LmNhIiwiQ1AyNCBIRCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ1AyNCBIRCIsIiIsMF0",
+      "match": {
+        "tvg_id": "Cp24.ca",
+        "tvg_name": "CP24 HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CP24 HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDUEFDIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJDUEFDIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CPAC",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CPAC",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDUEFDLmNhIiwiQ1BBQyBGUkVOQ0giLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNQQUMgRlJFTkNIIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "CPAC.ca",
+        "tvg_name": "CPAC FRENCH",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CPAC FRENCH",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDcmF2ZTEuY2EiLCJDUkFWRSAxIC8gVE1OIDEiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNSQVZFIDEgLyBUTU4gMSIsIiIsMF0",
+      "match": {
+        "tvg_id": "Crave1.ca",
+        "tvg_name": "CRAVE 1 / TMN 1",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CRAVE 1 / TMN 1",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDcmF2ZTIuY2EiLCJDUkFWRSAyIC8gVE1OIDIiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNSQVZFIDIgLyBUTU4gMiIsIiIsMF0",
+      "match": {
+        "tvg_id": "Crave2.ca",
+        "tvg_name": "CRAVE 2 / TMN 2",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CRAVE 2 / TMN 2",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDcmF2ZTMuY2EiLCJDUkFWRSAzIC8gVE1OIDMiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNSQVZFIDMgLyBUTU4gMyIsIiIsMF0",
+      "match": {
+        "tvg_id": "Crave3.ca",
+        "tvg_name": "CRAVE 3 / TMN 3",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CRAVE 3 / TMN 3",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDcmF2ZTQuY2EiLCJDUkFWRSA0IC8gVE1OIDQiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNSQVZFIDQgLyBUTU4gNCIsIiIsMF0",
+      "match": {
+        "tvg_id": "Crave4.ca",
+        "tvg_name": "CRAVE 4 / TMN 4",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CRAVE 4 / TMN 4",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDVFZEcmFtYS5jYSIsIkNUViBEcmFtYSBDaGFubmVsIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJDVFYgRHJhbWEgQ2hhbm5lbCIsIiIsMF0",
+      "match": {
+        "tvg_id": "CTVDrama.ca",
+        "tvg_name": "CTV Drama Channel",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV Drama Channel",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDVFYgTmV3cyBFZG1vbnRvbiBIRCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ1RWIE5ld3MgRWRtb250b24gSEQiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CTV News Edmonton HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV News Edmonton HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDSFJPLmNhIiwiQ1RWIDIgT1RUQVdBIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJDVFYgMiBPVFRBV0EiLCIiLDBd",
+      "match": {
+        "tvg_id": "CHRO.ca",
+        "tvg_name": "CTV 2 OTTAWA",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV 2 OTTAWA",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDcmltZUludmVzdGlnYXRpb24uY2EiLCJDUklNRSAmIElOVkVTVElHQVRJT04iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNSSU1FICYgSU5WRVNUSUdBVElPTiIsIiIsMF0",
+      "match": {
+        "tvg_id": "CrimeInvestigation.ca",
+        "tvg_name": "CRIME & INVESTIGATION",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CRIME & INVESTIGATION",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDVFYgTkVXUyBNT05UUkVBTCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ1RWIE5FV1MgTU9OVFJFQUwiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CTV NEWS MONTREAL",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV NEWS MONTREAL",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDVFZOQy5jYSIsIkNUViBORVdTIE5FVFdPUksiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNUViBORVdTIE5FVFdPUksiLCIiLDBd",
+      "match": {
+        "tvg_id": "CTVNC.ca",
+        "tvg_name": "CTV NEWS NETWORK",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV NEWS NETWORK",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDS0NLLmNhIiwiQ1RWIE5ld3MgUmVnaW5hIEhEIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJDVFYgTmV3cyBSZWdpbmEgSEQiLCIiLDBd",
+      "match": {
+        "tvg_id": "CKCK.ca",
+        "tvg_name": "CTV News Regina HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV News Regina HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDRkNGLmNhIiwiQ1RWIE1PTlRSRUFMIEhEIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJDVFYgTU9OVFJFQUwgSEQiLCIiLDBd",
+      "match": {
+        "tvg_id": "CFCF.ca",
+        "tvg_name": "CTV MONTREAL HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV MONTREAL HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJjdHZzdWRidXJ5LmNhIiwiQ1RWIFN1ZGJ1cnkgSEQiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNUViBTdWRidXJ5IEhEIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "ctvsudbury.ca",
+        "tvg_name": "CTV Sudbury HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV Sudbury HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJPbmVTb2NjZXIuY2EiLCJPTkUgU09DQ0VSIEhEIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJPTkUgU09DQ0VSIEhEIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "OneSoccer.ca",
+        "tvg_name": "ONE SOCCER HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "ONE SOCCER HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDVFYgVGltbWlucyBIRCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ1RWIFRpbW1pbnMgSEQiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CTV Timmins HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV Timmins HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDVFZPSC5jYSIsIkNUViBPVFRBV0EiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNUViBPVFRBV0EiLCIiLDBd",
+      "match": {
+        "tvg_id": "CTVOH.ca",
+        "tvg_name": "CTV OTTAWA",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV OTTAWA",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDVFZIVC5jYSIsIkNUViBUT1JPTlRPIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJDVFYgVE9ST05UTyIsIiIsMF0",
+      "match": {
+        "tvg_id": "CTVHT.ca",
+        "tvg_name": "CTV TORONTO",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV TORONTO",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDVFZDb21lZHkuY2EiLCJDVFYgQ29tZWR5IEhEIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJDVFYgQ29tZWR5IEhEIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "CTVComedy.ca",
+        "tvg_name": "CTV Comedy HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV Comedy HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDRlFDLmNhIiwiQ1RWIFNBU0tBVE9PTiBTQVNLQVRDSEVXQU4gSEQiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNUViBTQVNLQVRPT04gU0FTS0FUQ0hFV0FOIEhEIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "CFQC.ca",
+        "tvg_name": "CTV SASKATOON SASKATCHEWAN HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV SASKATOON SASKATCHEWAN HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJLU1RXLnVzIiwiQ1cgMTEiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNXIDExIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "KSTW.us",
+        "tvg_name": "CW 11",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CW 11",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJHTE9CQUwgQ0FMR0FSWSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiR0xPQkFMIENBTEdBUlkiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "GLOBAL CALGARY",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "GLOBAL CALGARY",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJnbG9iYWx0b3JvbnRvLmNhIiwiR0xPQkFMIFRPUk9OVE8gSEQiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkdMT0JBTCBUT1JPTlRPIEhEIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "globaltoronto.ca",
+        "tvg_name": "GLOBAL TORONTO HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "GLOBAL TORONTO HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDSVRWLmNhIiwiR2xMT0JMIEVETU9OVE9OIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJHbExPQkwgRURNT05UT04iLCIiLDBd",
+      "match": {
+        "tvg_id": "CITV.ca",
+        "tvg_name": "GlLOBL EDMONTON",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "GlLOBL EDMONTON",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJEYXlzdGFyLnVzIiwiREFZU1RBUiBUViIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiREFZU1RBUiBUViIsIiIsMF0",
+      "match": {
+        "tvg_id": "Daystar.us",
+        "tvg_name": "DAYSTAR TV",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "DAYSTAR TV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJEZWphVmlldy5jYSIsIkRFSkFWSUVXIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJERUpBVklFVyIsIiIsMF0",
+      "match": {
+        "tvg_id": "DejaView.ca",
+        "tvg_name": "DEJAVIEW",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "DEJAVIEW",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJEaXNjb3ZlcnlDaGFubmVsLmNhIiwiRElTQ09WRVJZIENBTkFEQSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiRElTQ09WRVJZIENBTkFEQSIsIiIsMF0",
+      "match": {
+        "tvg_id": "DiscoveryChannel.ca",
+        "tvg_name": "DISCOVERY CANADA",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "DISCOVERY CANADA",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJEaXNjb3ZlcnlTY2llbmNlLmNhIiwiQ1RWIE5BVFVSRSBDQU5BREEiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNUViBOQVRVUkUgQ0FOQURBIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "DiscoveryScience.ca",
+        "tvg_name": "CTV NATURE CANADA",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV NATURE CANADA",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJEaXNuZXlDaGFubmVsLmNhIiwiRElTTkVZIENIQU5ORUwiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkRJU05FWSBDSEFOTkVMIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "DisneyChannel.ca",
+        "tvg_name": "DISNEY CHANNEL",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "DISNEY CHANNEL",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJEaXNuZXlKdW5pb3IuY2EiLCJESVNORVkgSlVOSU9SIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJESVNORVkgSlVOSU9SIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "DisneyJunior.ca",
+        "tvg_name": "DISNEY JUNIOR",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "DISNEY JUNIOR",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJEaXNuZXlKdW5pb3IuY2EiLCJESVNORVkgSlVOSU9SIEZSQU5DRSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiRElTTkVZIEpVTklPUiBGUkFOQ0UiLCIiLDBd",
+      "match": {
+        "tvg_id": "DisneyJunior.ca",
+        "tvg_name": "DISNEY JUNIOR FRANCE",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "DISNEY JUNIOR FRANCE",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJESVkiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkRJWSIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "DIY",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "DIY",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJEb2N1bWVudGFyeUNoYW5uZWwuY2EiLCJET0NVTUVOVEFSWSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiRE9DVU1FTlRBUlkiLCIiLDBd",
+      "match": {
+        "tvg_id": "DocumentaryChannel.ca",
+        "tvg_name": "DOCUMENTARY",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "DOCUMENTARY",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJEdG91ci5jYSIsIkRUT1VSIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJEVE9VUiIsIiIsMF0",
+      "match": {
+        "tvg_id": "Dtour.ca",
+        "tvg_name": "DTOUR",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "DTOUR",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJFRW50ZXJ0YWlubWVudC5jYSIsIkUhIEVOVEVSVEFJTk1FTlQiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkUhIEVOVEVSVEFJTk1FTlQiLCIiLDBd",
+      "match": {
+        "tvg_id": "EEntertainment.ca",
+        "tvg_name": "E! ENTERTAINMENT",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "E! ENTERTAINMENT",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDYW5hbEV2YXNpb24uY2EiLCJFVkFTSU9OIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJFVkFTSU9OIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "CanalEvasion.ca",
+        "tvg_name": "EVASION",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "EVASION",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      },
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJGQU1JTFkgQ0hSR0QiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkZBTUlMWSBDSFJHRCIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FAMILY CHRGD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "FAMILY CHRGD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJGQU1JTFkgRUFTVCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiRkFNSUxZIEVBU1QiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FAMILY EAST",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "FAMILY EAST",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJGYW1pbHlKci5jYSIsIkZBTUlMWSBKUiIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiRkFNSUxZIEpSIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "FamilyJr.ca",
+        "tvg_name": "FAMILY JR",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "FAMILY JR",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJGQU1JTFkgV0VTVCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiRkFNSUxZIFdFU1QiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FAMILY WEST",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "FAMILY WEST",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJGaWdodE5ldHdvcmsuY2EiLCJGSUdIVCBORVRXT1JLIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJGSUdIVCBORVRXT1JLIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "FightNetwork.ca",
+        "tvg_name": "FIGHT NETWORK",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "FIGHT NETWORK",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJGb29kTmV0d29yay5jYSIsIkZPT0QgTkVUV09SSyIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiRk9PRCBORVRXT1JLIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "FoodNetwork.ca",
+        "tvg_name": "FOOD NETWORK",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "FOOD NETWORK",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJGT1ggRUFTVCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiRk9YIEVBU1QiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FOX EAST",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "FOX EAST",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJGT1ggTkVXUyIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiRk9YIE5FV1MiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FOX NEWS",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "FOX NEWS",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJJTlZFU1RJR0FUSU9OIERJU0NPVkVSWSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiSU5WRVNUSUdBVElPTiBESVNDT1ZFUlkiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "INVESTIGATION DISCOVERY",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "INVESTIGATION DISCOVERY",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJGcmlzc29uc1RWLmNhIiwiRlJJU1NPTiIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiRlJJU1NPTiIsIiIsMF0",
+      "match": {
+        "tvg_id": "FrissonsTV.ca",
+        "tvg_name": "FRISSON",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "FRISSON",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJjdHZzY2lmaWNoYW5uZWwuY2EiLCJDVFYgU0NJRkkgSEQiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNUViBTQ0lGSSBIRCIsIiIsMF0",
+      "match": {
+        "tvg_id": "ctvscifichannel.ca",
+        "tvg_name": "CTV SCIFI HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV SCIFI HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJHYW1lVFYuY2EiLCJHQU1FVFYiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkdBTUVUViIsIiIsMF0",
+      "match": {
+        "tvg_id": "GameTV.ca",
+        "tvg_name": "GAMETV",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "GAMETV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJHSU5YZVNwb3J0c1RWQ2FuYWRhLmNhIiwiR0lOWCBFU1BPUlRTIFRWIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJHSU5YIEVTUE9SVFMgVFYiLCIiLDBd",
+      "match": {
+        "tvg_id": "GINXeSportsTVCanada.ca",
+        "tvg_name": "GINX ESPORTS TV",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "GINX ESPORTS TV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJHbG9iYWxCQy5jYSIsIkdMT0JBTCBCQyIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiR0xPQkFMIEJDIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "GlobalBC.ca",
+        "tvg_name": "GLOBAL BC",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "GLOBAL BC",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJDSUlJLmNhIiwiR0xPQkFMIFRPUk9OVE8iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkdMT0JBTCBUT1JPTlRPIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "CIII.ca",
+        "tvg_name": "GLOBAL TORONTO",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "GLOBAL TORONTO",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJHTE9CQUwgVkFOQ09VVkVSIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJHTE9CQUwgVkFOQ09VVkVSIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "GLOBAL VANCOUVER",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "GLOBAL VANCOUVER",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJHT0xGIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJHT0xGIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "GOLF",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "GOLF",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJHU04iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkdTTiIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "GSN",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "GSN",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJHVVNUTyIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiR1VTVE8iLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "GUSTO",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "GUSTO",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJIMiBDQU5BREEiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkgyIENBTkFEQSIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "H2 CANADA",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "H2 CANADA",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJIQk8uY2EiLCJIQk8gMSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiSEJPIDEiLCIiLDBd",
+      "match": {
+        "tvg_id": "HBO.ca",
+        "tvg_name": "HBO 1",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "HBO 1",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJIQk8yLmNhIiwiSEJPIDIiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkhCTyAyIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "HBO2.ca",
+        "tvg_name": "HBO 2",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "HBO 2",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJIR1RWLmNhIiwiSEdUViIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiSEdUViIsIiIsMF0",
+      "match": {
+        "tvg_id": "HGTV.ca",
+        "tvg_name": "HGTV",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "HGTV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJIaXN0b3J5Q2hhbm5lbC5jYSIsIkhJU1RPUklBIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJISVNUT1JJQSIsIiIsMF0",
+      "match": {
+        "tvg_id": "HistoryChannel.ca",
+        "tvg_name": "HISTORIA",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "HISTORIA",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJIaXN0b3J5Q2hhbm5lbC5jYSIsIkhJU1RPUlkiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkhJU1RPUlkiLCIiLDBd",
+      "match": {
+        "tvg_id": "HistoryChannel.ca",
+        "tvg_name": "HISTORY",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "HISTORY",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJITE4uY2EiLCJITE4iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkhMTiIsIiIsMF0",
+      "match": {
+        "tvg_id": "HLN.ca",
+        "tvg_name": "HLN",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "HLN",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJJQ0lUZWxlTW9udHJlYWwuY2EiLCJJQ0kgTU9OVFJFQUwiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIklDSSBNT05UUkVBTCIsIiIsMF0",
+      "match": {
+        "tvg_id": "ICITeleMontreal.ca",
+        "tvg_name": "ICI MONTREAL",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "ICI MONTREAL",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      },
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJJQ0kgVkFOQ09VVkVSIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJJQ0kgVkFOQ09VVkVSIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "ICI VANCOUVER",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "ICI VANCOUVER",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      },
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJJRkMiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIklGQyIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "IFC",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "IFC",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJLTk9XTEVER0UgS0lEUyIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiS05PV0xFREdFIEtJRFMiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "KNOWLEDGE KIDS",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "KNOWLEDGE KIDS",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJWVE0iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlZUTSIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "VTM",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "VTM",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJMZUNhbmFsTm91dmVsbGVzLmNhIiwiTENOIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJMQ04iLCIiLDBd",
+      "match": {
+        "tvg_id": "LeCanalNouvelles.ca",
+        "tvg_name": "LCN",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "LCN",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      },
+      "remove": true
+    },
+    {
+      "id": "WyJMaWZldGltZVRWLmNhIiwiTElGRVRJTUUiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkxJRkVUSU1FIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "LifetimeTV.ca",
+        "tvg_name": "LIFETIME",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "LIFETIME",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJNYWtlZnVsLmNhIiwiTUFLRUZVTCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiTUFLRUZVTCIsIiIsMF0",
+      "match": {
+        "tvg_id": "Makeful.ca",
+        "tvg_name": "MAKEFUL",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "MAKEFUL",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJNQVgiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIk1BWCIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "MAX",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "MAX",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJNSVJBQ0xFIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJNSVJBQ0xFIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "MIRACLE",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "MIRACLE",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJNb3ZpZVRpbWUuY2EiLCJNT1ZJRVRJTUUiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIk1PVklFVElNRSIsIiIsMF0",
+      "match": {
+        "tvg_id": "MovieTime.ca",
+        "tvg_name": "MOVIETIME",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "MOVIETIME",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJNVFYuY2EiLCJNVFYiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIk1UViIsIiIsMF0",
+      "match": {
+        "tvg_id": "MTV.ca",
+        "tvg_name": "MTV",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "MTV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJNVFYyLmNhIiwiTVRWIDIiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIk1UViAyIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "MTV2.ca",
+        "tvg_name": "MTV 2",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "MTV 2",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJNdWNoTXVzaWMuY2EiLCJNVUNIIE1VU0lDIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJNVUNIIE1VU0lDIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "MuchMusic.ca",
+        "tvg_name": "MUCH MUSIC",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "MUCH MUSIC",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJOYXRHZW8uY2EiLCJOQVQgR0VPIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJOQVQgR0VPIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "NatGeo.ca",
+        "tvg_name": "NAT GEO",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "NAT GEO",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJOQkFUVi5jYSIsIk5CQSBUViIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiTkJBIFRWIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "NBATV.ca",
+        "tvg_name": "NBA TV",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "NBA TV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJOQkMgRUFTVCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiTkJDIEVBU1QiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NBC EAST",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "NBC EAST",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJOQkMgV0VTVCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiTkJDIFdFU1QiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NBC WEST",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "NBC WEST",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJOSUNLIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJOSUNLIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NICK",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "NICK",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJOVFYiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIk5UViIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NTV",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "NTV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJPdXRkb29yTGlmZU5ldHdvcmsuY2EiLCJPTE4iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIk9MTiIsIiIsMF0",
+      "match": {
+        "tvg_id": "OutdoorLifeNetwork.ca",
+        "tvg_name": "OLN",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "OLN",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJvbW5pMS5jYSIsIk9NTkkgMSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiT01OSSAxIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "omni1.ca",
+        "tvg_name": "OMNI 1",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "OMNI 1",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJPTU5JMi5jYSIsIk9NTkkgMiIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiT01OSSAyIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "OMNI2.ca",
+        "tvg_name": "OMNI 2",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "OMNI 2",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJPTkUiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIk9ORSIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "ONE",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "ONE",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJPdXRUVi5jYSIsIk9VVCBUViIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiT1VUIFRWIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "OutTV.ca",
+        "tvg_name": "OUT TV",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "OUT TV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJPcHJhaFdpbmZyZXlOZXR3b3JrLmNhIiwiT1dOIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJPV04iLCIiLDBd",
+      "match": {
+        "tvg_id": "OprahWinfreyNetwork.ca",
+        "tvg_name": "OWN",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "OWN",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJQQlMgRUFTVCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUEJTIEVBU1QiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PBS EAST",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PBS EAST",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJQRUFDSCBUUkVFIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQRUFDSCBUUkVFIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PEACH TREE",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PEACH TREE",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJQcmlzZTIuY2EiLCJQUklTRSAyIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklTRSAyIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "Prise2.ca",
+        "tvg_name": "PRISE 2",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRISE 2",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJSRElOZXdzLmNhIiwiSUNJIFJESSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiSUNJIFJESSIsIiIsMF0",
+      "match": {
+        "tvg_id": "RDINews.ca",
+        "tvg_name": "ICI RDI",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "ICI RDI",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      },
+      "remove": true
+    },
+    {
+      "id": "WyJSRFMuY2EiLCJSRFMiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlJEUyIsIiIsMF0",
+      "match": {
+        "tvg_id": "RDS.ca",
+        "tvg_name": "RDS",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "RDS",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJSRFMgMSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUkRTIDEiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "RDS 1",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "RDS 1",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJSRFMyLmNhIiwiUkRTIDIiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlJEUyAyIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "RDS2.ca",
+        "tvg_name": "RDS 2",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "RDS 2",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJSRFNJbmZvLmNhIiwiUkRTIElORk8iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlJEUyBJTkZPIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "RDSInfo.ca",
+        "tvg_name": "RDS INFO",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "RDS INFO",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJTZXJpZXNQbHVzLmNhIiwiU0VSSUVTIFBMVVMiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlNFUklFUyBQTFVTIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "SeriesPlus.ca",
+        "tvg_name": "SERIES PLUS",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SERIES PLUS",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJTSE9QUElORyIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiU0hPUFBJTkciLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "SHOPPING",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SHOPPING",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJTSE9XQ0FTRSBFQVNUIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJTSE9XQ0FTRSBFQVNUIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "SHOWCASE EAST",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SHOWCASE EAST",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJTaWx2ZXJTY3JlZW5DbGFzc2ljcy5jYSIsIlNJTFZFUiBTQ1JFRU4gQ0xBU1NJQ1MiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlNJTFZFUiBTQ1JFRU4gQ0xBU1NJQ1MiLCIiLDBd",
+      "match": {
+        "tvg_id": "SilverScreenClassics.ca",
+        "tvg_name": "SILVER SCREEN CLASSICS",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SILVER SCREEN CLASSICS",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJTbGljZS5jYSIsIlNMSUNFIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJTTElDRSIsIiIsMF0",
+      "match": {
+        "tvg_id": "Slice.ca",
+        "tvg_name": "SLICE",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SLICE",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJTUEFDRSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiU1BBQ0UiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "SPACE",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPACE",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJTUElLRSBUViAvIFBBUkFNT1VOVCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiU1BJS0UgVFYgLyBQQVJBTU9VTlQiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "SPIKE TV / PARAMOUNT",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPIKE TV / PARAMOUNT",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJTVVBFUiBDSEFOTkVMIFZBVUxUIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJTVVBFUiBDSEFOTkVMIFZBVUxUIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "SUPER CHANNEL VAULT",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SUPER CHANNEL VAULT",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJTdXBlckVjcmFuMi5jYSIsIlNVUEVSIEVDUkFOIDIiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlNVUEVSIEVDUkFOIDIiLCIiLDBd",
+      "match": {
+        "tvg_id": "SuperEcran2.ca",
+        "tvg_name": "SUPER ECRAN 2",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SUPER ECRAN 2",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJUQ00iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlRDTSIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TCM",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TCM",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJTdXBlckVjcmFuNC5jYSIsIlNVUEVSIEVDUkFOIDQiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlNVUEVSIEVDUkFOIDQiLCIiLDBd",
+      "match": {
+        "tvg_id": "SuperEcran4.ca",
+        "tvg_name": "SUPER ECRAN 4",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SUPER ECRAN 4",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJTbWl0aHNvbmlhbi5jYSIsIlNNSVRIU09OSUFOIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJTTUlUSFNPTklBTiIsIiIsMF0",
+      "match": {
+        "tvg_id": "Smithsonian.ca",
+        "tvg_name": "SMITHSONIAN",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SMITHSONIAN",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJURUxFIFFVRUJFQyIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiVEVMRSBRVUVCRUMiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TELE QUEBEC",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TELE QUEBEC",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJJQ0lUZWxlVG9yb250by5jYSIsIlRFTEUgVE9PTiBFQVNUIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJURUxFIFRPT04gRUFTVCIsIiIsMF0",
+      "match": {
+        "tvg_id": "ICITeleToronto.ca",
+        "tvg_name": "TELE TOON EAST",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TELE TOON EAST",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJURUxFIFRPT04gRlJFTkNIIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJURUxFIFRPT04gRlJFTkNIIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TELE TOON FRENCH",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TELE TOON FRENCH",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJUZWxlbWFnaW5vLmNhIiwiVEVMRU1BR0lOTyIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiVEVMRU1BR0lOTyIsIiIsMF0",
+      "match": {
+        "tvg_id": "Telemagino.ca",
+        "tvg_name": "TELEMAGINO",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TELEMAGINO",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJURk8iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlRGTyIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TFO",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TFO",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJXIE5FVFdPUksiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlcgTkVUV09SSyIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "W NETWORK",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "W NETWORK",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJ0bGMuY2EiLCJUTEMgQ0FOQURBIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJUTEMgQ0FOQURBIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "tlc.ca",
+        "tvg_name": "TLC CANADA",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TLC CANADA",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJUTE4iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlRMTiIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TLN",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TLN",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJUTS5tbiIsIlRNTiAxIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJUTU4gMSIsIiIsMF0",
+      "match": {
+        "tvg_id": "TM.mn",
+        "tvg_name": "TMN 1",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TMN 1",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJUTU4gMiIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiVE1OIDIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TMN 2",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TMN 2",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJUTU4gMyIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiVE1OIDMiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TMN 3",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TMN 3",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJDVFYgTElGRSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ1RWIExJRkUiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "CTV LIFE",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV LIFE",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJUUkFWRUwgQU5EIEVTQ0FQRSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiVFJBVkVMIEFORCBFU0NBUEUiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TRAVEL AND ESCAPE",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TRAVEL AND ESCAPE",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJUcmVlaG91c2UuY2EiLCJUUkVFSE9VU0UiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlRSRUVIT1VTRSIsIiIsMF0",
+      "match": {
+        "tvg_id": "Treehouse.ca",
+        "tvg_name": "TREEHOUSE",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TREEHOUSE",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJUVjUgUVVFQkVDIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJUVjUgUVVFQkVDIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TV5 QUEBEC",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TV5 QUEBEC",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJUVkFTcG9ydHMuY2EiLCJUVkEgU1BPUlRTIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJUVkEgU1BPUlRTIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "TVASports.ca",
+        "tvg_name": "TVA SPORTS",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TVA SPORTS",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJUVkEgU1BPUlRTIDIgSEQiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlRWQSBTUE9SVFMgMiBIRCIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TVA SPORTS 2 HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TVA SPORTS 2 HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJUVk8iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlRWTyIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TVO",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TVO",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJUb2RheXNTaG9wcGluZ0Nob2ljZS5jYSIsIlRTQyIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiVFNDIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "TodaysShoppingChoice.ca",
+        "tvg_name": "TSC",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TSC",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJVbmlzVFYuY2EiLCJVTklTIFRWIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJVTklTIFRWIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "UnisTV.ca",
+        "tvg_name": "UNIS TV",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "UNIS TV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJWSUUiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlZJRSIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "VIE",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "VIE",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJWaXNpb24uY2EiLCJWSVNJT04iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlZJU0lPTiIsIiIsMF0",
+      "match": {
+        "tvg_id": "Vision.ca",
+        "tvg_name": "VISION",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "VISION",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      },
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJWUkFLIFRWIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJWUkFLIFRWIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "VRAK TV",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "VRAK TV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJXRk4iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIldGTiIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "WFN",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "WFN",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJXR04iLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIldHTiIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "WGN",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "WGN",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJOYXRHZW9XaWxkLmNhIiwiV0lMRCBUViIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiV0lMRCBUViIsIiIsMF0",
+      "match": {
+        "tvg_id": "NatGeoWild.ca",
+        "tvg_name": "WILD TV",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "WILD TV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJXU0JLIiwiQ0FOQURBIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJXU0JLIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "WSBK",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "WSBK",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJ5ZXN0di5jYSIsIllFUyBUViIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiWUVTIFRWIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "yestv.ca",
+        "tvg_name": "YES TV",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "YES TV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJZT09QQSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiWU9PUEEiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "YOOPA",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "YOOPA",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJZVFYiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIllUViIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "YTV",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "YTV",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJZVFYgRSIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiWVRWIEUiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "YTV E",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "YTV E",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyIiLCJaIFRFTEUiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlogVEVMRSIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "Z TELE",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "Z TELE",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJjdHZjYWxnYXJ5LmNhIiwiQ1RWIENBTEdBUlkiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIkNUViBDQUxHQVJZIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "ctvcalgary.ca",
+        "tvg_name": "CTV CALGARY",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV CALGARY",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJBTUlUVi5jYSIsIkFNSSBUViBIRCIsIkNBTkFEQSBHRU5FUkFMIiwiQU1JIFRWIEhEIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "AMITV.ca",
+        "tvg_name": "AMI TV HD",
+        "group_title": "CANADA GENERAL",
+        "title": "AMI TV HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyJBUFROLmNhIiwiQVBUTiBIRCAoQ0EpIiwiQ0FOQURBIEdFTkVSQUwiLCJBUFROIEhEIChDQSkiLCIiLDBd",
+      "match": {
+        "tvg_id": "APTN.ca",
+        "tvg_name": "APTN HD (CA)",
+        "group_title": "CANADA GENERAL",
+        "title": "APTN HD (CA)",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJVTklWSVNJT04gSEQiLCJDQU5BREEg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlVOSVZJU0lPTiBIRCIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "UNIVISION HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "UNIVISION HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      },
+      "remove": true
+    },
+    {
+      "id": "WyJjdHZ3aW5uaXBlZy5jYSIsIkNUViBXSU5OSVBFRyBIRCIsIkNBTkFEQSDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQ1RWIFdJTk5JUEVHIEhEIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "ctvwinnipeg.ca",
+        "tvg_name": "CTV WINNIPEG HD",
+        "group_title": "CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "CTV WINNIPEG HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA GENERAL 2"
+      }
+    },
+    {
+      "id": "WyJFeHBsb3JhLmNhIiwiSUNJIEVYUExPUkEiLCJDQU5BREEgR0VORVJBTCIsIklDSSBFWFBMT1JBIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "Explora.ca",
+        "tvg_name": "ICI EXPLORA",
+        "group_title": "CANADA GENERAL",
+        "title": "ICI EXPLORA",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJGWCBIRCIsIkNBTkFEQSBHRU5FUkFMIiwiRlggSEQiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FX HD",
+        "group_title": "CANADA GENERAL",
+        "title": "FX HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "tvg_id": "fx.ca",
+        "epg_source": "segment-pysn6b"
+      }
+    },
+    {
+      "id": "WyIiLCJHQU1FIFRWIEhEIiwiQ0FOQURBIEdFTkVSQUwiLCJHQU1FIFRWIEhEIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "GAME TV HD",
+        "group_title": "CANADA GENERAL",
+        "title": "GAME TV HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "tvg_id": "GameTV.ca"
+      }
+    },
+    {
+      "id": "WyIiLCJIQk8gMiAoUikiLCJDQU5BREEgR0VORVJBTCIsIkhCTyAyIChSKSIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "HBO 2 (R)",
+        "group_title": "CANADA GENERAL",
+        "title": "HBO 2 (R)",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "name": "HBO 2",
+        "tvg_id": "HBO2.ca"
+      }
+    },
+    {
+      "id": "WyJvbW5pMS5jYSIsIk9NTkkgMSIsIkNBTkFEQSBHRU5FUkFMIiwiT01OSSAxIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "omni1.ca",
+        "tvg_name": "OMNI 1",
+        "group_title": "CANADA GENERAL",
+        "title": "OMNI 1",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyJPTU5JMi5jYSIsIk9NTkkgMiIsIkNBTkFEQSBHRU5FUkFMIiwiT01OSSAyIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "OMNI2.ca",
+        "tvg_name": "OMNI 2",
+        "group_title": "CANADA GENERAL",
+        "title": "OMNI 2",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJUVkEgUVVFU1QgKFIpIiwiQ0FOQURBIEdFTkVSQUwiLCJUVkEgUVVFU1QgKFIpIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TVA QUEST (R)",
+        "group_title": "CANADA GENERAL",
+        "title": "TVA QUEST (R)",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJWSVNJT04gSEQiLCJDQU5BREEgR0VORVJBTCIsIlZJU0lPTiBIRCIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "VISION HD",
+        "group_title": "CANADA GENERAL",
+        "title": "VISION HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJTUE9SVFNORVQgV0VTVCDhtL_htKzhtYIiLCJDQU5BREEgU1BPUlRTIiwiU1BPUlRTTkVUIFdFU1Qg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "SPORTSNET WEST ᴿᴬᵂ",
+        "group_title": "CANADA SPORTS",
+        "title": "SPORTSNET WEST ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "tvg_id": "SportsnetWest.ca"
+      }
+    },
+    {
+      "id": "WyIiLCJUSEUgRklHSFQgTkVUV09SSyBIRCIsIkNBTkFEQSBTUE9SVFMiLCJUSEUgRklHSFQgTkVUV09SSyBIRCIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "THE FIGHT NETWORK HD",
+        "group_title": "CANADA SPORTS",
+        "title": "THE FIGHT NETWORK HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "tvg_id": "fightnetwork.ca",
+        "epg_source": "segment-x053tp"
+      }
+    },
+    {
+      "id": "WyIiLCJGVUJPIFBQViBTUE9SVFMg4bWB4bS04bSwIMKz4oG44oG04oGw4bS-IiwiQ0FOQURBIEZVQk8gUFBWIOG0v-G0rOG1giIsIkZVQk8gUFBWIFNQT1JUUyDhtYHhtLThtLAgwrPigbjigbTigbDhtL4iLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FUBO PPV SPORTS ᵁᴴᴰ ³⁸⁴⁰ᴾ",
+        "group_title": "CANADA FUBO PPV ᴿᴬᵂ",
+        "title": "FUBO PPV SPORTS ᵁᴴᴰ ³⁸⁴⁰ᴾ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA FUBO PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJGVUJPIFBQViBTUE9SVFMgMSDhtL_htKzhtYIiLCJDQU5BREEgRlVCTyBQUFYg4bS_4bSs4bWCIiwiRlVCTyBQUFYgU1BPUlRTIDEg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FUBO PPV SPORTS 1 ᴿᴬᵂ",
+        "group_title": "CANADA FUBO PPV ᴿᴬᵂ",
+        "title": "FUBO PPV SPORTS 1 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA FUBO PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJGVUJPIFBQViBTUE9SVFMgMiDhtL_htKzhtYIiLCJDQU5BREEgRlVCTyBQUFYg4bS_4bSs4bWCIiwiRlVCTyBQUFYgU1BPUlRTIDIg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FUBO PPV SPORTS 2 ᴿᴬᵂ",
+        "group_title": "CANADA FUBO PPV ᴿᴬᵂ",
+        "title": "FUBO PPV SPORTS 2 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA FUBO PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJGVUJPIFBQViBTUE9SVFMgMyDhtL_htKzhtYIiLCJDQU5BREEgRlVCTyBQUFYg4bS_4bSs4bWCIiwiRlVCTyBQUFYgU1BPUlRTIDMg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FUBO PPV SPORTS 3 ᴿᴬᵂ",
+        "group_title": "CANADA FUBO PPV ᴿᴬᵂ",
+        "title": "FUBO PPV SPORTS 3 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA FUBO PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJGVUJPIFBQViBTUE9SVFMgNCDhtL_htKzhtYIiLCJDQU5BREEgRlVCTyBQUFYg4bS_4bSs4bWCIiwiRlVCTyBQUFYgU1BPUlRTIDQg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FUBO PPV SPORTS 4 ᴿᴬᵂ",
+        "group_title": "CANADA FUBO PPV ᴿᴬᵂ",
+        "title": "FUBO PPV SPORTS 4 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA FUBO PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJGVUJPIFBQViBTUE9SVFMgNSDhtL_htKzhtYIiLCJDQU5BREEgRlVCTyBQUFYg4bS_4bSs4bWCIiwiRlVCTyBQUFYgU1BPUlRTIDUg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FUBO PPV SPORTS 5 ᴿᴬᵂ",
+        "group_title": "CANADA FUBO PPV ᴿᴬᵂ",
+        "title": "FUBO PPV SPORTS 5 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA FUBO PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJGVUJPIFBQViBTUE9SVFMgNiDhtL_htKzhtYIiLCJDQU5BREEgRlVCTyBQUFYg4bS_4bSs4bWCIiwiRlVCTyBQUFYgU1BPUlRTIDYg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FUBO PPV SPORTS 6 ᴿᴬᵂ",
+        "group_title": "CANADA FUBO PPV ᴿᴬᵂ",
+        "title": "FUBO PPV SPORTS 6 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA FUBO PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJGVUJPIFBQViBTUE9SVFMgNyDhtL_htKzhtYIiLCJDQU5BREEgRlVCTyBQUFYg4bS_4bSs4bWCIiwiRlVCTyBQUFYgU1BPUlRTIDcg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FUBO PPV SPORTS 7 ᴿᴬᵂ",
+        "group_title": "CANADA FUBO PPV ᴿᴬᵂ",
+        "title": "FUBO PPV SPORTS 7 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA FUBO PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJGVUJPIFBQViBTUE9SVFMgOCDhtL_htKzhtYIiLCJDQU5BREEgRlVCTyBQUFYg4bS_4bSs4bWCIiwiRlVCTyBQUFYgU1BPUlRTIDgg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FUBO PPV SPORTS 8 ᴿᴬᵂ",
+        "group_title": "CANADA FUBO PPV ᴿᴬᵂ",
+        "title": "FUBO PPV SPORTS 8 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA FUBO PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJGVUJPIFBQViBTUE9SVFMgOSDhtL_htKzhtYIiLCJDQU5BREEgRlVCTyBQUFYg4bS_4bSs4bWCIiwiRlVCTyBQUFYgU1BPUlRTIDkg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FUBO PPV SPORTS 9 ᴿᴬᵂ",
+        "group_title": "CANADA FUBO PPV ᴿᴬᵂ",
+        "title": "FUBO PPV SPORTS 9 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA FUBO PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJGVUJPIFBQViBTUE9SVFMgMTAg4bS_4bSs4bWCIiwiQ0FOQURBIEZVQk8gUFBWIOG0v-G0rOG1giIsIkZVQk8gUFBWIFNQT1JUUyAxMCDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "FUBO PPV SPORTS 10 ᴿᴬᵂ",
+        "group_title": "CANADA FUBO PPV ᴿᴬᵂ",
+        "title": "FUBO PPV SPORTS 10 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA FUBO PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgMSIsIkNBTkFEQSBEQVpOIFBQViDisb3htLXhtL4iLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgMSIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 1",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 1",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgODQiLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDg0IiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 84",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 84",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgODUiLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDg1IiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 85",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 85",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgODYiLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDg2IiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 86",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 86",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgODciLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDg3IiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 87",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 87",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgODgiLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDg4IiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 88",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 88",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgODkiLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDg5IiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 89",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 89",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgOTAiLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDkwIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 90",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 90",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgOTEiLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDkxIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 91",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 91",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgOTIiLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDkyIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 92",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 92",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgOTMiLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDkzIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 93",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 93",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgOTQiLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDk0IiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 94",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 94",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgOTUiLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDk1IiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 95",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 95",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgOTYiLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDk2IiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 96",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 96",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgOTciLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDk3IiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 97",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 97",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgOTgiLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDk4IiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 98",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 98",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyIiLCJOTyBFVkVOVCBTVFJFQU1JTkcgTk9XIC0gfCA4SyBFWENMVVNJVkUgfCBDQTogREFaTiBQUFYgOTkiLCJDQU5BREEgREFaTiBQUFYg4rG94bS14bS-IiwiTk8gRVZFTlQgU1RSRUFNSU5HIE5PVyAtIHwgOEsgRVhDTFVTSVZFIHwgQ0E6IERBWk4gUFBWIDk5IiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 99",
+        "group_title": "CANADA DAZN PPV ⱽᴵᴾ",
+        "title": "NO EVENT STREAMING NOW - | 8K EXCLUSIVE | CA: DAZN PPV 99",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA DAZN PPV"
+      }
+    },
+    {
+      "id": "WyJUU04xLmNhIiwiVFNOIDEg4bS_4bSs4bWCIiwiQ0FOQURBIFRTTiBTUE9SVCDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiVFNOIDEg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "TSN1.ca",
+        "tvg_name": "TSN 1 ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TSN 1 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJUU04xLmNhIiwiVFNOIDEg4oG94bSu4bS34oG-IOG0v-G0rOG1giIsIkNBTkFEQSBUU04gU1BPUlQg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlRTTiAxIOKBveG0ruG0t-KBviDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "TSN1.ca",
+        "tvg_name": "TSN 1 ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TSN 1 ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJUU04yLmNhIiwiVFNOIDIg4bS_4bSs4bWCIiwiQ0FOQURBIFRTTiBTUE9SVCDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiVFNOIDIg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "TSN2.ca",
+        "tvg_name": "TSN 2 ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TSN 2 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJUU04yLmNhIiwiVFNOIDIg4oG94bSu4bS34oG-IOG0v-G0rOG1giIsIkNBTkFEQSBUU04gU1BPUlQg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlRTTiAyIOKBveG0ruG0t-KBviDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "TSN2.ca",
+        "tvg_name": "TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJUU04zLmNhIiwiVFNOIDMg4bS_4bSs4bWCIiwiQ0FOQURBIFRTTiBTUE9SVCDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiVFNOIDMg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "TSN3.ca",
+        "tvg_name": "TSN 3 ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TSN 3 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJUU04zLmNhIiwiVFNOIDMg4oG94bSu4bS34oG-IOG0v-G0rOG1giIsIkNBTkFEQSBUU04gU1BPUlQg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlRTTiAzIOKBveG0ruG0t-KBviDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "TSN3.ca",
+        "tvg_name": "TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJUU040LmNhIiwiVFNOIDQg4bS_4bSs4bWCIiwiQ0FOQURBIFRTTiBTUE9SVCDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiVFNOIDQg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "TSN4.ca",
+        "tvg_name": "TSN 4 ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TSN 4 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJUU04yLmNhIiwiVFNOIDQg4oG94bSu4bS34oG-IOG0v-G0rOG1giIsIkNBTkFEQSBUU04gU1BPUlQg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlRTTiA0IOKBveG0ruG0t-KBviDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "TSN2.ca",
+        "tvg_name": "TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJUU041LmNhIiwiVFNOIDUg4bS_4bSs4bWCIiwiQ0FOQURBIFRTTiBTUE9SVCDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiVFNOIDUg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "TSN5.ca",
+        "tvg_name": "TSN 5 ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TSN 5 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJUU041LmNhIiwiVFNOIDUg4oG94bSu4bS34oG-IOG0v-G0rOG1giIsIkNBTkFEQSBUU04gU1BPUlQg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlRTTiA1IOKBveG0ruG0t-KBviDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "TSN5.ca",
+        "tvg_name": "TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJTcG9ydHNuZXQzNjAuY2EiLCJTUE9SVFNOIEVUIDM2MCDhtL_htKzhtYIiLCJDQU5BREEgVFNOIFNQT1JUIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJTUE9SVFNOIEVUIDM2MCDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "Sportsnet360.ca",
+        "tvg_name": "SPORTSN ET 360 ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPORTSN ET 360 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJTcG9ydHNuZXQzNjAuY2EiLCJTUE9SVFNOIEVUIDM2MCDigb3htK7htLfigb4g4bS_4bSs4bWCIiwiQ0FOQURBIFRTTiBTUE9SVCDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiU1BPUlRTTiBFVCAzNjAg4oG94bSu4bS34oG-IOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "Sportsnet360.ca",
+        "tvg_name": "SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJTcG9ydHNuZXRFYXN0LmNhIiwiU1BPUlRTTiBFVCBFQVNUIOG0v-G0rOG1giIsIkNBTkFEQSBUU04gU1BPUlQg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlNQT1JUU04gRVQgRUFTVCDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "SportsnetEast.ca",
+        "tvg_name": "SPORTSN ET EAST ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPORTSN ET EAST ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJTcG9ydHNuZXRFYXN0LmNhIiwiU1BPUlRTTiBFVCBFQVNUIOKBveG0ruG0t-KBviDhtL_htKzhtYIiLCJDQU5BREEgVFNOIFNQT1JUIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJTUE9SVFNOIEVUIEVBU1Qg4oG94bSu4bS34oG-IOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "SportsnetEast.ca",
+        "tvg_name": "SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJTcG9ydHNuZXRPbmUuY2EiLCJTUE9SVFNOIEVUIE9ORSDhtL_htKzhtYIiLCJDQU5BREEgVFNOIFNQT1JUIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJTUE9SVFNOIEVUIE9ORSDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "SportsnetOne.ca",
+        "tvg_name": "SPORTSN ET ONE ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPORTSN ET ONE ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJTcG9ydHNuZXRPbmUuY2EiLCJTUE9SVFNOIEVUIE9ORSDigb3htK7htLfigb4g4bS_4bSs4bWCIiwiQ0FOQURBIFRTTiBTUE9SVCDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiU1BPUlRTTiBFVCBPTkUg4oG94bSu4bS34oG-IOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "SportsnetOne.ca",
+        "tvg_name": "SPORTSN ET ONE ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPORTSN ET ONE ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJTcG9ydHNuZXRPbnRhcmlvLmNhIiwiU1BPUlRTTiBFVCBPTlRBUklPIOG0v-G0rOG1giIsIkNBTkFEQSBUU04gU1BPUlQg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlNQT1JUU04gRVQgT05UQVJJTyDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "SportsnetOntario.ca",
+        "tvg_name": "SPORTSN ET ONTARIO ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPORTSN ET ONTARIO ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJTcG9ydHNuZXRPbnRhcmlvLmNhIiwiU1BPUlRTTiBFVCBPTlRBUklPIOKBveG0ruG0t-KBviDhtL_htKzhtYIiLCJDQU5BREEgVFNOIFNQT1JUIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJTUE9SVFNOIEVUIE9OVEFSSU8g4oG94bSu4bS34oG-IOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "SportsnetOntario.ca",
+        "tvg_name": "SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJTcG9ydHNuZXRQYWNpZmljLmNhIiwiU1BPUlRTTiBFVCBQQUNJRklDIOG0v-G0rOG1giIsIkNBTkFEQSBUU04gU1BPUlQg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlNQT1JUU04gRVQgUEFDSUZJQyDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "SportsnetPacific.ca",
+        "tvg_name": "SPORTSN ET PACIFIC ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPORTSN ET PACIFIC ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJTcG9ydHNuZXRQYWNpZmljLmNhIiwiU1BPUlRTTiBFVCBQQUNJRklDIOKBveG0ruG0t-KBviDhtL_htKzhtYIiLCJDQU5BREEgVFNOIFNQT1JUIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJTUE9SVFNOIEVUIFBBQ0lGSUMg4oG94bSu4bS34oG-IOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "SportsnetPacific.ca",
+        "tvg_name": "SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJTcG9ydHNuZXRXZXN0LmNhIiwiU1BPUlRTTiBFVCBXRVNUIOG0v-G0rOG1giIsIkNBTkFEQSBUU04gU1BPUlQg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlNQT1JUU04gRVQgV0VTVCDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "SportsnetWest.ca",
+        "tvg_name": "SPORTSN ET WEST ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPORTSN ET WEST ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJTcG9ydHNuZXRXZXN0LmNhIiwiU1BPUlRTTiBFVCBXRVNUIOKBveG0ruG0t-KBviDhtL_htKzhtYIiLCJDQU5BREEgVFNOIFNQT1JUIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJTUE9SVFNOIEVUIFdFU1Qg4oG94bSu4bS34oG-IOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "SportsnetWest.ca",
+        "tvg_name": "SPORTSN ET WEST ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPORTSN ET WEST ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyJTcG9ydHNuZXRXb3JsZC5jYSIsIlNQT1JUU04gRVQgV09STEQg4oG94bSu4bS34oG-IOG0v-G0rOG1giIsIkNBTkFEQSBUU04gU1BPUlQg4bS04bSwL-G0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlNQT1JUU04gRVQgV09STEQg4oG94bSu4bS34oG-IOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "SportsnetWorld.ca",
+        "tvg_name": "SPORTSN ET WORLD ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPORTSN ET WORLD ⁽ᴮᴷ⁾ ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyIiLCJTUE9SVFNOIEVUIFdPUkxEIEVYVFJBIDQg4bS_4bSs4bWCIiwiQ0FOQURBIFRTTiBTUE9SVCDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiU1BPUlRTTiBFVCBXT1JMRCBFWFRSQSA0IOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "SPORTSN ET WORLD EXTRA 4 ᴿᴬᵂ",
+        "group_title": "CANADA TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "SPORTSN ET WORLD EXTRA 4 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {
+        "group_title": "CANADA TSN SPORT"
+      }
+    },
+    {
+      "id": "WyIiLCJBVCZUOiBRVkMg4bS_4bSs4bWCIiwiVVNBIEFUJlQg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiQVQmVDogUVZDIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "AT&T: QVC ᴿᴬᵂ",
+        "group_title": "USA AT&T ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "AT&T: QVC ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJQUklNRTogSkVXSVNIIExJRkUgVEVMRVZJU0lPTiDhtL_htKzhtYIiLCJVU0EgUFJJTUUg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUFJJTUU6IEpFV0lTSCBMSUZFIFRFTEVWSVNJT04g4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: JEWISH LIFE TELEVISION ᴿᴬᵂ",
+        "group_title": "USA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: JEWISH LIFE TELEVISION ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJQUklNRTogUVZDIOG0v-G0rOG1giIsIlVTQSBQUklNRSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJQUklNRTogUVZDIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "PRIME: QVC ᴿᴬᵂ",
+        "group_title": "USA PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "PRIME: QVC ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJUVjogUVZDIOG0v-G0rOG1giIsIlVTQSBUViDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJUVjogUVZDIOG0v-G0rOG1giIsIiIsMF0",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TV: QVC ᴿᴬᵂ",
+        "group_title": "USA TV ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TV: QVC ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJUVjogUVZDMiDhtL_htKzhtYIiLCJVU0EgVFYg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiVFY6IFFWQzIg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TV: QVC2 ᴿᴬᵂ",
+        "group_title": "USA TV ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TV: QVC2 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJUVjogUVZDMyDhtL_htKzhtYIiLCJVU0EgVFYg4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiVFY6IFFWQzMg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "TV: QVC3 ᴿᴬᵂ",
+        "group_title": "USA TV ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "TV: QVC3 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyJRVkNQbHVzLnVzIiwiUVZDIDIgSEQiLCJVU0EgRU5URVJUQUlOTUVOVCDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUVZDIDIgSEQiLCIiLDBd",
+      "match": {
+        "tvg_id": "QVCPlus.us",
+        "tvg_name": "QVC 2 HD",
+        "group_title": "USA ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "QVC 2 HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyJRVkMudXMiLCJRVkMgSEQiLCJVU0EgRU5URVJUQUlOTUVOVCDhtLThtLAv4bS_4bSs4bWCIOKBtuKBsOG2oOG1lsuiIiwiUVZDIEhEIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "QVC.us",
+        "tvg_name": "QVC HD",
+        "group_title": "USA ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "QVC HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJSSzogUVZDIOG0v-G0rOG1giIsIlVTQSBST0tVIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlJLOiBRVkMg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "RK: QVC ᴿᴬᵂ",
+        "group_title": "USA ROKU ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "RK: QVC ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJSSzogUVZDJ1MgVEhFIEJJRyBESVNIIOG0v-G0rOG1giIsIlVTQSBST0tVIOG0v-G0rOG1giDigbbigbDhtqDhtZbLoiIsIlJLOiBRVkMnUyBUSEUgQklHIERJU0gg4bS_4bSs4bWCIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "RK: QVC'S THE BIG DISH ᴿᴬᵂ",
+        "group_title": "USA ROKU ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "RK: QVC'S THE BIG DISH ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJSSzogUVZDMiDhtL_htKzhtYIiLCJVU0EgUk9LVSDhtL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJSSzogUVZDMiDhtL_htKzhtYIiLCIiLDBd",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "RK: QVC2 ᴿᴬᵂ",
+        "group_title": "USA ROKU ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "RK: QVC2 ᴿᴬᵂ",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    },
+    {
+      "id": "WyIiLCJVbml2aXNpb24yMyAoV0xUVikgTWlhbWkgKEEpIEhTIEhEIiwiVVNBIE1JQU1JIOG0tOG0sC_htL_htKzhtYIg4oG24oGw4bag4bWWy6IiLCJVbml2aXNpb24yMyAoV0xUVikgTWlhbWkgKEEpIEhTIEhEIiwiIiwwXQ",
+      "match": {
+        "tvg_id": "",
+        "tvg_name": "Univision23 (WLTV) Miami (A) HS HD",
+        "group_title": "USA MIAMI ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+        "title": "Univision23 (WLTV) Miami (A) HS HD",
+        "epg_source": "",
+        "occurrence": 0
+      },
+      "set": {},
+      "remove": true
+    }
+  ]
+}
